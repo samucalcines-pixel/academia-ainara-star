@@ -1,0 +1,923 @@
+{
+  "version": "1.0",
+  "asignaturas": {
+    "geo": [
+      {
+        "id": "t1",
+        "title": "Tema 1 · La Tierra y su representación",
+        "desc": "Sistema solar, movimientos terrestres, cartografía, proyecciones, mapas y coordenadas",
+        "questions": [
+          [
+            "Cartografía",
+            "¿Qué es la cartografía?",
+            [
+              "La ciencia que estudia y elabora mapas",
+              "El estudio de los planetas",
+              "La ciencia del clima",
+              "Una forma de medir el tiempo"
+            ],
+            0,
+            "La cartografía se ocupa de representar la superficie terrestre mediante mapas."
+          ],
+          [
+            "Cartografía",
+            "¿Qué es una proyección cartográfica?",
+            [
+              "Una fotografía desde el espacio",
+              "Una manera de representar la Tierra en un plano",
+              "Un instrumento para medir la lluvia",
+              "La línea del ecuador"
+            ],
+            1,
+            "Permite pasar la superficie curva de la Tierra a una superficie plana."
+          ],
+          [
+            "Proyecciones",
+            "¿En qué superficie se representa la Tierra en la proyección cilíndrica?",
+            [
+              "Un cono",
+              "Un cilindro",
+              "Un cubo",
+              "Una esfera pequeña"
+            ],
+            1,
+            "La proyección cilíndrica se basa en un cilindro."
+          ],
+          [
+            "Proyecciones",
+            "¿Qué zona aparece más deformada en muchas proyecciones cilíndricas?",
+            [
+              "El ecuador",
+              "Los polos",
+              "El océano Atlántico",
+              "El hemisferio sur únicamente"
+            ],
+            1,
+            "Las deformaciones aumentan hacia los polos."
+          ],
+          [
+            "Proyecciones",
+            "¿Sobre qué figura se proyecta la Tierra en la proyección cónica?",
+            [
+              "Un círculo",
+              "Un cuadrado",
+              "Un cono",
+              "Un triángulo plano"
+            ],
+            2,
+            "Se usa una superficie en forma de cono."
+          ],
+          [
+            "Proyecciones",
+            "¿Qué proyección representa la Tierra sobre un plano?",
+            [
+              "Cenital o plana",
+              "Cónica",
+              "Cilíndrica",
+              "Lineal"
+            ],
+            0,
+            "La cenital utiliza un plano, habitualmente tangente a un punto."
+          ],
+          [
+            "Proyecciones",
+            "¿Para qué zonas es especialmente útil una proyección cenital polar?",
+            [
+              "Para representar regiones cercanas al polo",
+              "Solo para el ecuador",
+              "Para dibujar carreteras",
+              "Para medir temperaturas"
+            ],
+            0,
+            "Una proyección cenital centrada en un polo representa bien su entorno."
+          ],
+          [
+            "Mapas",
+            "¿Para qué sirve la escala de un mapa?",
+            [
+              "Para señalar países",
+              "Para relacionar distancias del mapa con distancias reales",
+              "Para indicar el norte",
+              "Para mostrar los ríos"
+            ],
+            1,
+            "La escala compara la distancia representada con la distancia real."
+          ],
+          [
+            "Mapas",
+            "¿Qué dos tipos de escala suelen utilizarse?",
+            [
+              "Alta y baja",
+              "Numérica y gráfica",
+              "Física y política",
+              "Grande y redonda"
+            ],
+            1,
+            "Una escala puede expresarse con una proporción o con una barra."
+          ],
+          [
+            "Mapas",
+            "Si un mapa tiene escala 1:100 000, ¿cuánto representa 1 cm?",
+            [
+              "100 m",
+              "1 km",
+              "10 km",
+              "100 km"
+            ],
+            1,
+            "100 000 cm equivalen a 1 km."
+          ],
+          [
+            "Mapas",
+            "¿Qué elemento del mapa explica sus símbolos y colores?",
+            [
+              "Título",
+              "Leyenda",
+              "Orientación",
+              "Escala"
+            ],
+            1,
+            "La leyenda permite interpretar los símbolos."
+          ],
+          [
+            "Mapas",
+            "¿Qué elemento del mapa indica de qué trata?",
+            [
+              "El título",
+              "La leyenda",
+              "La escala",
+              "La cuadrícula"
+            ],
+            0,
+            "El título resume el contenido del mapa."
+          ],
+          [
+            "Mapas",
+            "¿Qué son las curvas de nivel?",
+            [
+              "Líneas de igual altura",
+              "Los límites de los países",
+              "Las rutas de aviones",
+              "Líneas que unen ciudades"
+            ],
+            0,
+            "Unen puntos de la misma altitud en un mapa topográfico."
+          ],
+          [
+            "Tecnología",
+            "¿Para qué sirve el GPS?",
+            [
+              "Para medir el calor",
+              "Para saber una posición mediante satélites",
+              "Para dibujar planetas",
+              "Para contar estaciones"
+            ],
+            1,
+            "El GPS es un sistema de posicionamiento por satélite."
+          ],
+          [
+            "Tecnología",
+            "¿Qué herramienta permite observar grandes zonas de la Tierra desde arriba?",
+            [
+              "La fotografía aérea y las imágenes de satélite",
+              "El termómetro",
+              "La brújula únicamente",
+              "El reloj"
+            ],
+            0,
+            "Son herramientas utilizadas en cartografía y geografía."
+          ],
+          [
+            "Sistema solar",
+            "¿Qué astro ocupa el centro del sistema solar?",
+            [
+              "La Tierra",
+              "La Luna",
+              "El Sol",
+              "Júpiter"
+            ],
+            2,
+            "Los ocho planetas orbitan alrededor del Sol."
+          ],
+          [
+            "Sistema solar",
+            "¿Cuántos planetas tiene el sistema solar?",
+            [
+              "Siete",
+              "Ocho",
+              "Nueve",
+              "Diez"
+            ],
+            1,
+            "Mercurio, Venus, Tierra, Marte, Júpiter, Saturno, Urano y Neptuno."
+          ],
+          [
+            "Sistema solar",
+            "¿Qué planeta está más cerca del Sol?",
+            [
+              "Venus",
+              "Mercurio",
+              "Marte",
+              "La Tierra"
+            ],
+            1,
+            "Mercurio es el planeta más cercano al Sol."
+          ],
+          [
+            "Sistema solar",
+            "¿Qué planeta es conocido por sus grandes anillos?",
+            [
+              "Marte",
+              "Venus",
+              "Saturno",
+              "Mercurio"
+            ],
+            2,
+            "Saturno tiene un sistema de anillos muy visible."
+          ],
+          [
+            "Sistema solar",
+            "¿Entre qué planetas está situada la Tierra?",
+            [
+              "Mercurio y Marte",
+              "Venus y Marte",
+              "Marte y Júpiter",
+              "Venus y Júpiter"
+            ],
+            1,
+            "La Tierra es el tercer planeta del sistema solar."
+          ],
+          [
+            "La Tierra",
+            "¿Qué capa gaseosa protege la Tierra y hace posible la vida?",
+            [
+              "La corteza",
+              "La atmósfera",
+              "El núcleo",
+              "El manto"
+            ],
+            1,
+            "La atmósfera contiene gases indispensables para la vida y contribuye a protegernos."
+          ],
+          [
+            "La Tierra",
+            "¿En qué estado puede encontrarse de forma abundante el agua terrestre?",
+            [
+              "Solo sólido",
+              "Solo gaseoso",
+              "Sólido, líquido y gaseoso",
+              "Solo líquido"
+            ],
+            2,
+            "En nuestro planeta hay hielo, agua líquida y vapor de agua."
+          ],
+          [
+            "Movimientos",
+            "¿Cómo se llama el giro de la Tierra sobre su eje?",
+            [
+              "Traslación",
+              "Rotación",
+              "Proyección",
+              "Solsticio"
+            ],
+            1,
+            "La rotación provoca la sucesión de días y noches."
+          ],
+          [
+            "Movimientos",
+            "¿Cuánto dura aproximadamente una rotación terrestre?",
+            [
+              "12 horas",
+              "24 horas",
+              "30 días",
+              "365 días"
+            ],
+            1,
+            "La Tierra tarda unas 24 horas en completar el giro."
+          ],
+          [
+            "Movimientos",
+            "¿Cómo se llama el movimiento de la Tierra alrededor del Sol?",
+            [
+              "Rotación",
+              "Traslación",
+              "Latitud",
+              "Equinoccio"
+            ],
+            1,
+            "La traslación tarda aproximadamente un año."
+          ],
+          [
+            "Movimientos",
+            "¿Cuánto dura aproximadamente la traslación de la Tierra?",
+            [
+              "24 horas",
+              "7 días",
+              "30 días",
+              "365 días y 6 horas"
+            ],
+            3,
+            "Por eso hay años bisiestos aproximadamente cada cuatro años."
+          ],
+          [
+            "Movimientos",
+            "¿Cuál es la causa principal de las estaciones del año?",
+            [
+              "La distancia cambiante al Sol",
+              "La inclinación del eje terrestre y la traslación",
+              "Las fases lunares",
+              "Las nubes"
+            ],
+            1,
+            "El eje inclinado hace variar la iluminación de cada hemisferio durante el año."
+          ],
+          [
+            "Husos horarios",
+            "¿Qué representan los husos horarios?",
+            [
+              "Zonas que comparten la misma hora oficial o de referencia",
+              "Los continentes",
+              "Zonas con igual temperatura",
+              "Líneas de los mapas físicos"
+            ],
+            0,
+            "Dividen el mundo en zonas horarias; los límites oficiales no siempre son rectos."
+          ],
+          [
+            "Husos horarios",
+            "Si viajas hacia el este atravesando husos horarios, normalmente debes…",
+            [
+              "Retrasar el reloj",
+              "Adelantar el reloj",
+              "No cambiar la hora jamás",
+              "Cambiar la fecha siempre"
+            ],
+            1,
+            "Hacia el este las horas suelen ir adelantadas."
+          ],
+          [
+            "Solsticios",
+            "¿Qué ocurre en un solsticio?",
+            [
+              "Día y noche duran lo mismo en todas partes",
+              "Se alcanza una de las mayores diferencias entre duración del día y de la noche",
+              "La Tierra deja de girar",
+              "La Luna tapa el Sol"
+            ],
+            1,
+            "Los solsticios marcan extremos de duración del día según el hemisferio."
+          ],
+          [
+            "Equinoccios",
+            "¿Qué ocurre aproximadamente en los equinoccios?",
+            [
+              "Día y noche duran casi lo mismo",
+              "Es el día más largo del año",
+              "No hay amanecer",
+              "El Sol está más cerca de la Tierra"
+            ],
+            0,
+            "En torno a los equinoccios, el día y la noche tienen duraciones similares."
+          ],
+          [
+            "Coordenadas",
+            "¿Qué nos indica la latitud?",
+            [
+              "Si un lugar está al norte o sur del ecuador",
+              "Si está al este u oeste de Greenwich",
+              "Su altura sobre el mar",
+              "La temperatura media"
+            ],
+            0,
+            "Se mide en grados desde el ecuador hacia el norte o el sur."
+          ],
+          [
+            "Coordenadas",
+            "¿Qué nos indica la longitud?",
+            [
+              "La distancia al Sol",
+              "Si un lugar está al este u oeste del meridiano de Greenwich",
+              "Su latitud",
+              "La altura de una montaña"
+            ],
+            1,
+            "Se mide hacia el este o el oeste del meridiano de Greenwich."
+          ],
+          [
+            "Coordenadas",
+            "¿Cuál es la latitud del ecuador?",
+            [
+              "0°",
+              "45° N",
+              "90° S",
+              "180°"
+            ],
+            0,
+            "El ecuador corresponde a 0 grados de latitud."
+          ],
+          [
+            "Relieve",
+            "¿Qué representa un mapa topográfico?",
+            [
+              "Únicamente ciudades",
+              "El relieve y otros elementos del terreno",
+              "Solo países",
+              "Las órbitas planetarias"
+            ],
+            1,
+            "Los mapas topográficos muestran características y alturas del terreno."
+          ],
+          [
+            "Relieve",
+            "¿Qué es una meseta?",
+            [
+              "Un relieve elevado y relativamente llano",
+              "Un valle submarino",
+              "Una montaña de pico muy agudo",
+              "Una isla volcánica siempre"
+            ],
+            0,
+            "Una meseta es una superficie llana situada a cierta altitud."
+          ]
+        ]
+      }
+    ],
+    "math": [
+      {
+        "id": "t1",
+        "title": "Tema 1 · Elementos geométricos, longitudes y áreas",
+        "desc": "Teorema de Pitágoras, triángulos, hipotenusa, catetos, diagonales, escaleras y áreas",
+        "questions": [
+          [
+            "Conceptos",
+            "¿En qué tipo de triángulos se utiliza el teorema de Pitágoras?",
+            [
+              "En todos",
+              "Solo en los rectángulos",
+              "Solo en los equiláteros",
+              "Solo en los isósceles"
+            ],
+            1,
+            "Se aplica a triángulos con un ángulo recto de 90°."
+          ],
+          [
+            "Conceptos",
+            "¿Cuánto mide el ángulo recto?",
+            [
+              "45°",
+              "60°",
+              "90°",
+              "180°"
+            ],
+            2,
+            "Un ángulo recto mide exactamente 90°."
+          ],
+          [
+            "Conceptos",
+            "¿Cómo se llaman los dos lados que forman el ángulo recto?",
+            [
+              "Hipotenusas",
+              "Diagonales",
+              "Catetos",
+              "Alturas"
+            ],
+            2,
+            "Los catetos son los dos lados que se juntan formando 90°."
+          ],
+          [
+            "Conceptos",
+            "¿Qué es la hipotenusa?",
+            [
+              "El lado más corto",
+              "El lado opuesto al ángulo recto",
+              "La altura siempre",
+              "La base siempre"
+            ],
+            1,
+            "La hipotenusa está frente al ángulo de 90° y es el lado más largo."
+          ],
+          [
+            "Conceptos",
+            "¿Qué fórmula es correcta?",
+            [
+              "h² = a² + b²",
+              "h = a + b",
+              "h² = a + b",
+              "a² = h² + b²"
+            ],
+            0,
+            "El cuadrado de la hipotenusa es la suma de los cuadrados de los catetos."
+          ],
+          [
+            "Conceptos",
+            "Para calcular un cateto, ¿qué operación hacemos con los cuadrados?",
+            [
+              "Sumarlos",
+              "Dividirlos",
+              "Restar al cuadrado de la hipotenusa el del otro cateto",
+              "Multiplicarlos"
+            ],
+            2,
+            "Si h² = a² + b², entonces a² = h² − b²."
+          ],
+          [
+            "Conceptos",
+            "¿Qué significa elevar un número al cuadrado?",
+            [
+              "Sumarle 2",
+              "Multiplicarlo por sí mismo",
+              "Dividirlo entre 2",
+              "Buscar su raíz"
+            ],
+            1,
+            "Por ejemplo, 5² = 5 × 5 = 25."
+          ],
+          [
+            "Conceptos",
+            "¿Cuánto es 9²?",
+            [
+              "18",
+              "81",
+              "27",
+              "99"
+            ],
+            1,
+            "9² = 9 × 9 = 81."
+          ],
+          [
+            "Conceptos",
+            "¿Cuál es la raíz cuadrada de 225?",
+            [
+              "12",
+              "25",
+              "15",
+              "30"
+            ],
+            2,
+            "15 × 15 = 225, así que √225 = 15."
+          ],
+          [
+            "Conceptos",
+            "¿Qué es la diagonal de un rectángulo?",
+            [
+              "Un lado exterior",
+              "El segmento que une dos vértices opuestos",
+              "La mitad de la base",
+              "La altura del rectángulo"
+            ],
+            1,
+            "La diagonal une dos esquinas opuestas y forma dos triángulos rectángulos."
+          ],
+          [
+            "Pitágoras",
+            "Si los catetos miden 3 cm y 4 cm, ¿cuánto mide la hipotenusa?",
+            [
+              "5 cm",
+              "7 cm",
+              "12 cm",
+              "6 cm"
+            ],
+            0,
+            "√(3² + 4²) = √25 = 5 cm."
+          ],
+          [
+            "Pitágoras",
+            "Si los catetos miden 6 m y 8 m, ¿cuánto mide la hipotenusa?",
+            [
+              "14 m",
+              "10 m",
+              "12 m",
+              "7 m"
+            ],
+            1,
+            "√(36 + 64) = √100 = 10 m."
+          ],
+          [
+            "Pitágoras",
+            "Un campo mide 90 m por 120 m. ¿Cuánto mide la diagonal?",
+            [
+              "150 m",
+              "210 m",
+              "130 m",
+              "140 m"
+            ],
+            0,
+            "√(90² + 120²) = √22500 = 150 m."
+          ],
+          [
+            "Pitágoras",
+            "Si los catetos son 5 cm y 12 cm, la hipotenusa mide…",
+            [
+              "17 cm",
+              "10 cm",
+              "13 cm",
+              "14 cm"
+            ],
+            2,
+            "√(25 + 144) = √169 = 13 cm."
+          ],
+          [
+            "Pitágoras",
+            "Si los catetos miden 9 cm y 12 cm, ¿cuál es la hipotenusa?",
+            [
+              "21 cm",
+              "15 cm",
+              "18 cm",
+              "13 cm"
+            ],
+            1,
+            "√(81 + 144) = √225 = 15 cm."
+          ],
+          [
+            "Pitágoras",
+            "Una hipotenusa mide 13 cm y un cateto 5 cm. El otro cateto mide…",
+            [
+              "8 cm",
+              "10 cm",
+              "12 cm",
+              "18 cm"
+            ],
+            2,
+            "√(13² − 5²) = √144 = 12 cm."
+          ],
+          [
+            "Pitágoras",
+            "Una hipotenusa mide 10 cm y un cateto 6 cm. ¿Cuánto mide el otro?",
+            [
+              "4 cm",
+              "8 cm",
+              "16 cm",
+              "7 cm"
+            ],
+            1,
+            "√(100 − 36) = √64 = 8 cm."
+          ],
+          [
+            "Pitágoras",
+            "Una hipotenusa mide 19 cm y un cateto 9 cm. ¿El otro cateto mide aproximadamente…?",
+            [
+              "21 cm",
+              "16,73 cm",
+              "10 cm",
+              "28 cm"
+            ],
+            1,
+            "√(19² − 9²) = √280 ≈ 16,73 cm."
+          ],
+          [
+            "Problemas",
+            "Una escalera de 2,5 m llega a una pared y su base está a 1 m. ¿Qué altura alcanza?",
+            [
+              "3,5 m",
+              "2,29 m",
+              "1,5 m",
+              "6,25 m"
+            ],
+            1,
+            "La escalera es la hipotenusa: √(2,5² − 1²) = √5,25 ≈ 2,29 m."
+          ],
+          [
+            "Problemas",
+            "Una pared mide 5 m y el pie de la escalera está a 4,5 m. ¿Cuánto mide la escalera?",
+            [
+              "0,5 m",
+              "4,75 m",
+              "6,73 m",
+              "9,5 m"
+            ],
+            2,
+            "La escalera es la hipotenusa: √(5² + 4,5²) = √45,25 ≈ 6,73 m."
+          ],
+          [
+            "Problemas",
+            "Una escalera llega a 6 m y está separada 3,5 m de la pared. ¿Qué longitud necesita?",
+            [
+              "9,5 m",
+              "6,95 m",
+              "2,5 m",
+              "5,0 m"
+            ],
+            1,
+            "√(6² + 3,5²) = √48,25 ≈ 6,95 m."
+          ],
+          [
+            "Problemas",
+            "Una escalera de 5 m tiene el pie a 2 m de un muro. ¿Qué altura alcanza?",
+            [
+              "7 m",
+              "3 m",
+              "4,58 m",
+              "5,39 m"
+            ],
+            2,
+            "La altura es √(5² − 2²) = √21 ≈ 4,58 m."
+          ],
+          [
+            "Problemas",
+            "Si un rectángulo mide 8 cm de ancho y 15 cm de largo, su diagonal mide…",
+            [
+              "23 cm",
+              "17 cm",
+              "15 cm",
+              "7 cm"
+            ],
+            1,
+            "√(8² + 15²) = √289 = 17 cm."
+          ],
+          [
+            "Conceptos",
+            "En un triángulo isósceles, ¿qué hace la altura trazada desde el vértice principal?",
+            [
+              "Duplica la base",
+              "Divide la base en dos partes iguales",
+              "Forma un círculo",
+              "Es la hipotenusa"
+            ],
+            1,
+            "En un isósceles, la altura desde el vértice principal cae en el punto medio de la base."
+          ],
+          [
+            "Conceptos",
+            "En un triángulo equilátero, ¿cuántos lados son iguales?",
+            [
+              "Dos",
+              "Uno",
+              "Tres",
+              "Ninguno"
+            ],
+            2,
+            "Un triángulo equilátero tiene sus tres lados iguales."
+          ],
+          [
+            "Conceptos",
+            "Para calcular el área de un triángulo necesitamos…",
+            [
+              "Perímetro y lado",
+              "Base y altura",
+              "Solo la hipotenusa",
+              "Tres ángulos"
+            ],
+            1,
+            "El área es base por altura dividido entre dos."
+          ],
+          [
+            "Áreas",
+            "¿Qué fórmula calcula el área de un triángulo?",
+            [
+              "A = b × h",
+              "A = (b × h) ÷ 2",
+              "A = 2 × (b + h)",
+              "A = b² + h²"
+            ],
+            1,
+            "Multiplica base por altura y divide el resultado entre 2."
+          ],
+          [
+            "Áreas",
+            "¿Qué fórmula calcula el perímetro de un cuadrado de lado l?",
+            [
+              "P = l²",
+              "P = 4 × l",
+              "P = l ÷ 4",
+              "P = 2 × l"
+            ],
+            1,
+            "Un cuadrado tiene cuatro lados iguales: su perímetro es 4 × lado."
+          ],
+          [
+            "Áreas",
+            "Si un cuadrado tiene perímetro 28 cm, ¿cuánto mide cada lado?",
+            [
+              "4 cm",
+              "7 cm",
+              "14 cm",
+              "112 cm"
+            ],
+            1,
+            "Cada lado mide 28 ÷ 4 = 7 cm."
+          ],
+          [
+            "Áreas",
+            "Si el perímetro de un cuadrado es 28 cm, ¿cuál es su área?",
+            [
+              "49 cm²",
+              "28 cm²",
+              "56 cm²",
+              "7 cm²"
+            ],
+            0,
+            "Lado = 28 ÷ 4 = 7 cm; área = 7 × 7 = 49 cm²."
+          ],
+          [
+            "Áreas",
+            "Un triángulo tiene base 10 cm y altura 6 cm. Su área es…",
+            [
+              "60 cm²",
+              "16 cm²",
+              "30 cm²",
+              "20 cm²"
+            ],
+            2,
+            "A = (10 × 6) ÷ 2 = 30 cm²."
+          ],
+          [
+            "Áreas",
+            "Una señal equilátera tiene lado de 60 cm. ¿Cuál es su altura aproximada?",
+            [
+              "30 cm",
+              "51,96 cm",
+              "60 cm",
+              "90 cm"
+            ],
+            1,
+            "La altura divide la base en dos partes de 30 cm: √(60² − 30²) ≈ 51,96 cm."
+          ],
+          [
+            "Áreas",
+            "Una señal equilátera tiene lado de 60 cm. ¿Cuál es su área aproximada?",
+            [
+              "3600 cm²",
+              "900 cm²",
+              "1558,85 cm²",
+              "1800 cm²"
+            ],
+            2,
+            "Altura ≈ 51,96 cm. Área ≈ (60 × 51,96) ÷ 2 = 1558,85 cm²."
+          ],
+          [
+            "Áreas",
+            "Una señal equilátera tiene lado de 70 cm. ¿Cuál es su altura aproximada?",
+            [
+              "60,62 cm",
+              "35 cm",
+              "70 cm",
+              "140 cm"
+            ],
+            0,
+            "La mitad de su base es 35: √(70² − 35²) ≈ 60,62 cm."
+          ],
+          [
+            "Áreas",
+            "Una señal equilátera tiene lado de 70 cm. ¿Cuál es su área aproximada?",
+            [
+              "4900 cm²",
+              "2121,76 cm²",
+              "2450 cm²",
+              "1225 cm²"
+            ],
+            1,
+            "Altura ≈ 60,62 cm. Área ≈ 70 × 60,62 ÷ 2 ≈ 2121,76 cm²."
+          ],
+          [
+            "Repaso",
+            "¿En qué unidad expresamos el área si los lados están en centímetros?",
+            [
+              "cm",
+              "cm²",
+              "m",
+              "kg"
+            ],
+            1,
+            "Las superficies se miden en unidades cuadradas, como cm²."
+          ],
+          [
+            "Repaso",
+            "En un triángulo rectángulo, ¿puede un cateto ser mayor que la hipotenusa?",
+            [
+              "Sí, siempre",
+              "Solo si mide 90°",
+              "No",
+              "Solo si es equilátero"
+            ],
+            2,
+            "La hipotenusa siempre es el lado más largo del triángulo rectángulo."
+          ],
+          [
+            "Repaso",
+            "¿Cuál de estas operaciones halla un cateto si h=17 y el otro cateto=8?",
+            [
+              "√(17² + 8²)",
+              "17 − 8",
+              "√(17² − 8²)",
+              "17 × 8"
+            ],
+            2,
+            "Para hallar un cateto, se restan los cuadrados y se calcula la raíz."
+          ],
+          [
+            "Repaso",
+            "Si h = 17 cm y un cateto = 8 cm, ¿cuánto mide el otro?",
+            [
+              "9 cm",
+              "15 cm",
+              "25 cm",
+              "19 cm"
+            ],
+            1,
+            "√(289 − 64) = √225 = 15 cm."
+          ]
+        ]
+      }
+    ]
+  }
+}
