@@ -1,5 +1,4 @@
 {
-  "version": "1.0",
   "asignaturas": {
     "geo": [
       {
@@ -438,6 +437,606 @@
             ],
             0,
             "Una meseta es una superficie llana situada a cierta altitud."
+          ],
+          [
+            "La Tierra",
+            "¿Qué forma tiene aproximadamente la Tierra?",
+            [
+              "Un cubo",
+              "Una esfera ligeramente achatada por los polos",
+              "Un disco plano",
+              "Un cono"
+            ],
+            1,
+            "La Tierra es aproximadamente un esferoide oblato."
+          ],
+          [
+            "La Tierra",
+            "¿Qué es el eje terrestre?",
+            [
+              "Una línea imaginaria sobre la que gira la Tierra",
+              "El ecuador",
+              "La órbita de la Luna",
+              "Un meridiano cualquiera"
+            ],
+            0,
+            "Es la línea imaginaria que atraviesa los polos geográficos."
+          ],
+          [
+            "La Tierra",
+            "¿Qué divide la Tierra en hemisferio norte y hemisferio sur?",
+            [
+              "Greenwich",
+              "El trópico de Cáncer",
+              "El ecuador",
+              "El círculo polar ártico"
+            ],
+            2,
+            "El ecuador es el paralelo de latitud 0°."
+          ],
+          [
+            "La Tierra",
+            "¿Qué capa terrestre contiene océanos, ríos y lagos?",
+            [
+              "Atmósfera",
+              "Hidrosfera",
+              "Litosfera",
+              "Núcleo"
+            ],
+            1,
+            "La hidrosfera comprende el agua del planeta."
+          ],
+          [
+            "La Tierra",
+            "¿Cómo se llama el satélite natural de la Tierra?",
+            [
+              "Marte",
+              "Fobos",
+              "La Luna",
+              "Venus"
+            ],
+            2,
+            "La Luna es el satélite natural de la Tierra."
+          ],
+          [
+            "Sistema solar",
+            "¿Cuál es el planeta más grande del sistema solar?",
+            [
+              "La Tierra",
+              "Saturno",
+              "Júpiter",
+              "Neptuno"
+            ],
+            2,
+            "Júpiter es el planeta de mayor tamaño."
+          ],
+          [
+            "Sistema solar",
+            "¿Qué separa principalmente a los planetas interiores de los gigantes exteriores?",
+            [
+              "La Vía Láctea",
+              "El cinturón principal de asteroides",
+              "La Luna",
+              "El ecuador"
+            ],
+            1,
+            "El cinturón principal de asteroides está entre Marte y Júpiter."
+          ],
+          [
+            "Sistema solar",
+            "¿Cuál de los siguientes es un planeta rocoso?",
+            [
+              "Neptuno",
+              "Saturno",
+              "Urano",
+              "Marte"
+            ],
+            3,
+            "Marte pertenece a los planetas terrestres o rocosos."
+          ],
+          [
+            "Movimientos",
+            "¿Por qué se suceden el día y la noche?",
+            [
+              "Porque la Luna tapa el Sol a diario",
+              "Por la rotación de la Tierra",
+              "Porque el Sol gira alrededor de la Tierra",
+              "Por las estaciones"
+            ],
+            1,
+            "La rotación hace que una parte del planeta reciba luz y otra quede en sombra."
+          ],
+          [
+            "Movimientos",
+            "¿En qué sentido gira la Tierra vista desde encima del polo norte?",
+            [
+              "De oeste a este",
+              "De este a oeste",
+              "De norte a sur",
+              "No gira"
+            ],
+            0,
+            "La rotación se realiza de oeste a este, en sentido antihorario vista desde el polo norte."
+          ],
+          [
+            "Movimientos",
+            "¿Por qué vemos salir el Sol aproximadamente por el este?",
+            [
+              "Porque el Sol gira alrededor de la Tierra cada día",
+              "Porque la Tierra gira hacia el este",
+              "Porque el eje es vertical",
+              "Porque la Luna lo empuja"
+            ],
+            1,
+            "La Tierra gira de oeste a este y el Sol parece desplazarse en sentido contrario."
+          ],
+          [
+            "Movimientos",
+            "Si en el hemisferio norte es verano, en el hemisferio sur es…",
+            [
+              "Verano",
+              "Primavera",
+              "Invierno",
+              "Otoño siempre"
+            ],
+            2,
+            "Los hemisferios tienen estaciones opuestas."
+          ],
+          [
+            "Movimientos",
+            "¿Qué inclinación aproximada tiene el eje terrestre respecto a la perpendicular al plano de su órbita?",
+            [
+              "0°",
+              "23,5°",
+              "45°",
+              "90°"
+            ],
+            1,
+            "La inclinación de unos 23,5° influye en las estaciones."
+          ],
+          [
+            "Solsticios",
+            "¿Qué solsticio da comienzo aproximadamente al verano astronómico en el hemisferio norte?",
+            [
+              "El de junio",
+              "El de diciembre",
+              "El de marzo",
+              "El de septiembre"
+            ],
+            0,
+            "En torno al 21 de junio comienza el verano astronómico del norte."
+          ],
+          [
+            "Solsticios",
+            "¿En qué época suele ocurrir el día más corto del año en España?",
+            [
+              "Solsticio de junio",
+              "Equinoccio de marzo",
+              "Solsticio de diciembre",
+              "Equinoccio de septiembre"
+            ],
+            2,
+            "Cerca del solsticio de diciembre los días son más cortos en el hemisferio norte."
+          ],
+          [
+            "Equinoccios",
+            "¿Cuántos equinoccios hay cada año?",
+            [
+              "Uno",
+              "Dos",
+              "Tres",
+              "Cuatro"
+            ],
+            1,
+            "Se producen aproximadamente en marzo y septiembre."
+          ],
+          [
+            "Equinoccios",
+            "¿En qué meses tienen lugar aproximadamente los equinoccios?",
+            [
+              "Enero y julio",
+              "Marzo y septiembre",
+              "Junio y diciembre",
+              "Febrero y agosto"
+            ],
+            1,
+            "Coinciden con el inicio astronómico de primavera y otoño."
+          ],
+          [
+            "Coordenadas",
+            "¿Cómo se llaman las líneas imaginarias paralelas al ecuador?",
+            [
+              "Meridianos",
+              "Paralelos",
+              "Husos",
+              "Trópicos solamente"
+            ],
+            1,
+            "Los paralelos indican la latitud."
+          ],
+          [
+            "Coordenadas",
+            "¿Cómo se llaman los semicírculos imaginarios que unen los polos?",
+            [
+              "Paralelos",
+              "Trópicos",
+              "Meridianos",
+              "Isobaras"
+            ],
+            2,
+            "Los meridianos se emplean para medir la longitud."
+          ],
+          [
+            "Coordenadas",
+            "¿Cuál es el meridiano de referencia para calcular la longitud?",
+            [
+              "El de Greenwich",
+              "El ecuador",
+              "El trópico de Capricornio",
+              "El de 90° oeste"
+            ],
+            0,
+            "El meridiano de Greenwich se toma como 0° de longitud."
+          ],
+          [
+            "Coordenadas",
+            "Una localización con latitud 30° S está…",
+            [
+              "Al norte del ecuador",
+              "Al sur del ecuador",
+              "Sobre Greenwich",
+              "En el polo norte"
+            ],
+            1,
+            "La letra S indica hemisferio sur."
+          ],
+          [
+            "Coordenadas",
+            "Una longitud de 15° O indica que el lugar está…",
+            [
+              "Al este de Greenwich",
+              "Al oeste de Greenwich",
+              "Al norte del ecuador",
+              "En el polo sur"
+            ],
+            1,
+            "La O significa oeste."
+          ],
+          [
+            "Coordenadas",
+            "¿Cuál es la latitud máxima posible?",
+            [
+              "45°",
+              "90°",
+              "180°",
+              "360°"
+            ],
+            1,
+            "Los polos están a 90° norte o sur."
+          ],
+          [
+            "Coordenadas",
+            "¿Qué latitud tiene el polo norte?",
+            [
+              "0°",
+              "90° S",
+              "180° O",
+              "90° N"
+            ],
+            3,
+            "El polo norte está situado a 90° N."
+          ],
+          [
+            "Coordenadas",
+            "Si un punto tiene coordenadas 20° N, 10° E, ¿en qué hemisferios está?",
+            [
+              "Norte y oriental",
+              "Sur y occidental",
+              "Norte y occidental",
+              "Sur y oriental"
+            ],
+            0,
+            "N indica norte y E indica este u oriental."
+          ],
+          [
+            "Husos horarios",
+            "¿Cuántos grados de longitud corresponden aproximadamente a una hora solar?",
+            [
+              "5°",
+              "10°",
+              "15°",
+              "30°"
+            ],
+            2,
+            "360° ÷ 24 h = 15° por hora."
+          ],
+          [
+            "Husos horarios",
+            "Si en un lugar son las 10:00 y otro está dos husos al este, teóricamente allí son…",
+            [
+              "08:00",
+              "10:00",
+              "12:00",
+              "14:00"
+            ],
+            2,
+            "Al viajar dos husos hacia el este se adelantan dos horas, como regla teórica."
+          ],
+          [
+            "Husos horarios",
+            "Si en un lugar son las 18:00 y otro está tres husos al oeste, teóricamente allí son…",
+            [
+              "15:00",
+              "18:00",
+              "21:00",
+              "03:00"
+            ],
+            0,
+            "Hacia el oeste se restan horas: 18 − 3 = 15."
+          ],
+          [
+            "Husos horarios",
+            "¿Por qué los límites reales de los husos horarios no son siempre rectos?",
+            [
+              "Por las nubes",
+              "Porque los países fijan sus horarios oficiales",
+              "Porque la Tierra deja de girar",
+              "Porque los paralelos son curvos"
+            ],
+            1,
+            "Las decisiones políticas y territoriales influyen en la hora oficial."
+          ],
+          [
+            "Cartografía",
+            "¿Qué tipo de mapa muestra las fronteras de los países?",
+            [
+              "Político",
+              "Meteorológico",
+              "Geológico",
+              "Topográfico solamente"
+            ],
+            0,
+            "Los mapas políticos representan países, fronteras y divisiones administrativas."
+          ],
+          [
+            "Cartografía",
+            "¿Qué mapa es más adecuado para identificar montañas y ríos?",
+            [
+              "Mapa político",
+              "Mapa físico",
+              "Mapa electoral",
+              "Mapa del metro"
+            ],
+            1,
+            "Los mapas físicos representan elementos naturales del territorio."
+          ],
+          [
+            "Cartografía",
+            "¿Qué es un plano urbano?",
+            [
+              "Un mapa de estrellas",
+              "Una representación detallada de una ciudad y sus calles",
+              "Una imagen de la Luna",
+              "Un globo terráqueo"
+            ],
+            1,
+            "Los planos urbanos muestran calles y otros detalles de una ciudad."
+          ],
+          [
+            "Mapas",
+            "¿Qué suele señalar una flecha con la letra N en un mapa?",
+            [
+              "La distancia",
+              "El norte",
+              "La escala",
+              "La altitud"
+            ],
+            1,
+            "Sirve para orientar el mapa respecto al norte."
+          ],
+          [
+            "Mapas",
+            "En una escala 1:50 000, ¿qué distancia real representan 2 cm?",
+            [
+              "100 m",
+              "500 m",
+              "1 km",
+              "10 km"
+            ],
+            2,
+            "2 × 50 000 cm = 100 000 cm = 1 km."
+          ],
+          [
+            "Mapas",
+            "En una escala 1:200 000, ¿qué distancia real representa 1 cm?",
+            [
+              "200 m",
+              "2 km",
+              "20 km",
+              "200 km"
+            ],
+            1,
+            "200 000 cm son 2 km."
+          ],
+          [
+            "Mapas",
+            "¿Qué escala muestra más detalle para la misma superficie del papel?",
+            [
+              "1:10 000",
+              "1:1 000 000",
+              "Ambas el mismo detalle",
+              "No depende de la escala"
+            ],
+            0,
+            "La escala 1:10 000 es mayor y permite representar más detalle."
+          ],
+          [
+            "Mapas",
+            "Si 1 cm en un mapa equivale a 5 km en la realidad, ¿qué distancia son 3 cm?",
+            [
+              "8 km",
+              "10 km",
+              "15 km",
+              "20 km"
+            ],
+            2,
+            "3 × 5 = 15 km."
+          ],
+          [
+            "Mapas",
+            "¿Qué significa la escala 1:25 000?",
+            [
+              "1 cm representa 25 000 km",
+              "1 unidad en el mapa representa 25 000 unidades reales",
+              "El mapa mide 25 000 cm",
+              "Solo representa ciudades"
+            ],
+            1,
+            "La proporción usa la misma unidad en ambas cantidades."
+          ],
+          [
+            "Relieve",
+            "¿Cómo se llama un terreno bajo situado entre montañas?",
+            [
+              "Meseta",
+              "Valle",
+              "Cordillera",
+              "Cabo"
+            ],
+            1,
+            "Un valle es una depresión alargada, a menudo recorrida por un río."
+          ],
+          [
+            "Relieve",
+            "¿Qué significa altitud?",
+            [
+              "Distancia al ecuador",
+              "Altura de un lugar respecto al nivel del mar",
+              "Distancia hasta el Sol",
+              "Longitud de un río"
+            ],
+            1,
+            "La altitud se expresa normalmente en metros sobre el nivel del mar."
+          ],
+          [
+            "Relieve",
+            "Si las curvas de nivel están muy juntas, el terreno suele tener…",
+            [
+              "Poca pendiente",
+              "Pendiente pronunciada",
+              "Altitud cero",
+              "Ningún relieve"
+            ],
+            1,
+            "Curvas próximas indican cambios rápidos de altitud y mucha pendiente."
+          ],
+          [
+            "Proyecciones",
+            "¿Por qué todos los mapas planos del mundo presentan alguna deformación?",
+            [
+              "Porque son dibujos antiguos",
+              "Porque una superficie curva no puede aplanarse sin distorsiones",
+              "Porque no existen satélites",
+              "Porque la Tierra es plana"
+            ],
+            1,
+            "Al pasar una esfera al plano se alteran áreas, formas, distancias o direcciones."
+          ],
+          [
+            "Proyecciones",
+            "¿Qué proyección suele ser más apropiada para mostrar latitudes medias de una región extensa?",
+            [
+              "Cónica",
+              "Cilíndrica polar siempre",
+              "Solo cenital ecuatorial",
+              "Ninguna proyección sirve"
+            ],
+            0,
+            "Muchas proyecciones cónicas resultan útiles para representar latitudes medias."
+          ],
+          [
+            "Proyecciones",
+            "En una proyección cenital polar, ¿dónde suele situarse el punto central?",
+            [
+              "En el ecuador",
+              "En uno de los polos",
+              "En Greenwich siempre",
+              "En la Luna"
+            ],
+            1,
+            "El plano se centra en la zona polar que se representa."
+          ],
+          [
+            "Tecnología",
+            "¿Qué herramienta digital combina capas de datos geográficos?",
+            [
+              "Sistema de información geográfica (SIG)",
+              "Calculadora básica",
+              "Microscopio",
+              "Barómetro"
+            ],
+            0,
+            "Un SIG permite analizar y representar información espacial en diferentes capas."
+          ],
+          [
+            "Tecnología",
+            "¿Para qué sirven las imágenes de satélite en geografía?",
+            [
+              "Solo para crear dibujos",
+              "Para observar cambios y elementos de la superficie terrestre",
+              "Para detener la rotación",
+              "Para cambiar los husos horarios"
+            ],
+            1,
+            "Se usan para estudiar paisajes, vegetación, ciudades y sus cambios."
+          ],
+          [
+            "Orientación",
+            "Si miras hacia el norte, ¿qué punto cardinal queda a tu derecha?",
+            [
+              "Oeste",
+              "Este",
+              "Sur",
+              "Noroeste"
+            ],
+            1,
+            "Mirando al norte, el este está a la derecha."
+          ],
+          [
+            "Orientación",
+            "Si miras hacia el sur, ¿qué punto cardinal queda a tu izquierda?",
+            [
+              "Este",
+              "Norte",
+              "Oeste",
+              "Noreste"
+            ],
+            0,
+            "Mirando al sur, el este queda a la izquierda."
+          ],
+          [
+            "Orientación",
+            "¿Cuál de estos puntos es intermedio entre norte y este?",
+            [
+              "Suroeste",
+              "Noroeste",
+              "Sureste",
+              "Noreste"
+            ],
+            3,
+            "Noreste está a mitad de camino entre norte y este."
+          ],
+          [
+            "Cartografía",
+            "¿Qué ventaja principal tiene un globo terráqueo frente a un planisferio?",
+            [
+              "Representa mejor la forma global del planeta",
+              "Permite ver toda la Tierra a la vez",
+              "No ocupa espacio",
+              "Siempre muestra más calles"
+            ],
+            0,
+            "El globo conserva mejor la geometría global de la Tierra."
           ]
         ]
       }
@@ -915,6 +1514,1378 @@
             ],
             1,
             "√(289 − 64) = √225 = 15 cm."
+          ],
+          [
+            "Triángulos",
+            "¿Cuánto suman los ángulos interiores de cualquier triángulo?",
+            [
+              "90°",
+              "180°",
+              "270°",
+              "360°"
+            ],
+            1,
+            "Los tres ángulos interiores suman 180°."
+          ],
+          [
+            "Triángulos",
+            "Si dos ángulos de un triángulo miden 50° y 60°, ¿cuánto mide el tercero?",
+            [
+              "70°",
+              "80°",
+              "90°",
+              "110°"
+            ],
+            0,
+            "180° − 50° − 60° = 70°."
+          ],
+          [
+            "Triángulos",
+            "¿Qué caracteriza a un triángulo escaleno?",
+            [
+              "Tres lados iguales",
+              "Dos lados iguales",
+              "Tres lados diferentes",
+              "Tres ángulos rectos"
+            ],
+            2,
+            "Un triángulo escaleno tiene sus tres lados de distinta longitud."
+          ],
+          [
+            "Triángulos",
+            "¿Cuántos ángulos rectos puede tener un triángulo?",
+            [
+              "Ninguno siempre",
+              "Uno como máximo",
+              "Dos",
+              "Tres"
+            ],
+            1,
+            "Dos ángulos de 90° ya sumarían 180° y no quedaría ángulo para el tercero."
+          ],
+          [
+            "Triángulos",
+            "¿Cómo se llama el triángulo que tiene un ángulo mayor de 90°?",
+            [
+              "Acutángulo",
+              "Equilátero",
+              "Rectángulo",
+              "Obtusángulo"
+            ],
+            3,
+            "Un triángulo obtusángulo tiene un ángulo obtuso."
+          ],
+          [
+            "Triángulos",
+            "¿Qué es la mediatriz de un segmento?",
+            [
+              "Una recta perpendicular que pasa por su punto medio",
+              "Una recta que une sus extremos",
+              "La bisectriz de un ángulo",
+              "La diagonal de un cuadrado"
+            ],
+            0,
+            "La mediatriz corta el segmento por la mitad y forma 90°."
+          ],
+          [
+            "Triángulos",
+            "¿Qué es la bisectriz de un ángulo?",
+            [
+              "La línea que lo duplica",
+              "La semirrecta que lo divide en dos ángulos iguales",
+              "La recta que une dos vértices",
+              "Su lado mayor"
+            ],
+            1,
+            "La bisectriz divide un ángulo en dos partes de igual medida."
+          ],
+          [
+            "Triángulos",
+            "¿Qué es la altura de un triángulo?",
+            [
+              "Uno de sus tres lados",
+              "El perímetro dividido entre tres",
+              "El segmento perpendicular desde un vértice a la recta del lado opuesto",
+              "El segmento que siempre une dos vértices"
+            ],
+            2,
+            "La altura es perpendicular a la recta que contiene la base."
+          ],
+          [
+            "Áreas",
+            "Un rectángulo mide 12 cm de largo y 5 cm de ancho. ¿Cuál es su área?",
+            [
+              "17 cm²",
+              "34 cm²",
+              "60 cm²",
+              "120 cm²"
+            ],
+            2,
+            "Área = 12 × 5 = 60 cm²."
+          ],
+          [
+            "Áreas",
+            "Un rectángulo tiene lados de 7 cm y 4 cm. ¿Cuál es su perímetro?",
+            [
+              "11 cm",
+              "22 cm",
+              "28 cm",
+              "14 cm"
+            ],
+            1,
+            "Perímetro = 2 × (7 + 4) = 22 cm."
+          ],
+          [
+            "Áreas",
+            "Un cuadrado tiene 9 cm de lado. ¿Cuál es su área?",
+            [
+              "18 cm²",
+              "36 cm²",
+              "81 cm²",
+              "90 cm²"
+            ],
+            2,
+            "Área = lado² = 9 × 9 = 81 cm²."
+          ],
+          [
+            "Áreas",
+            "Si el área de un rectángulo es 48 cm² y la base mide 8 cm, ¿cuánto mide la altura?",
+            [
+              "4 cm",
+              "6 cm",
+              "8 cm",
+              "40 cm"
+            ],
+            1,
+            "Altura = área ÷ base = 48 ÷ 8 = 6 cm."
+          ],
+          [
+            "Áreas",
+            "¿Cuál es el área de un rombo de diagonales 10 cm y 6 cm?",
+            [
+              "16 cm²",
+              "60 cm²",
+              "30 cm²",
+              "40 cm²"
+            ],
+            2,
+            "Área del rombo = diagonal mayor × diagonal menor ÷ 2 = 10 × 6 ÷ 2."
+          ],
+          [
+            "Áreas",
+            "¿Cuál es el área de un paralelogramo de base 11 cm y altura 4 cm?",
+            [
+              "15 cm²",
+              "22 cm²",
+              "44 cm²",
+              "55 cm²"
+            ],
+            2,
+            "Área = base × altura = 11 × 4 = 44 cm²."
+          ],
+          [
+            "Áreas",
+            "Un triángulo tiene área 24 cm² y base 8 cm. ¿Cuál es su altura?",
+            [
+              "3 cm",
+              "6 cm",
+              "8 cm",
+              "12 cm"
+            ],
+            1,
+            "Altura = 2 × área ÷ base = 48 ÷ 8 = 6 cm."
+          ],
+          [
+            "Unidades",
+            "¿Cuántos centímetros tiene un metro?",
+            [
+              "10",
+              "100",
+              "1000",
+              "10000"
+            ],
+            1,
+            "Un metro equivale a 100 centímetros."
+          ],
+          [
+            "Unidades",
+            "¿Cuántos centímetros cuadrados hay en 1 m²?",
+            [
+              "100",
+              "1000",
+              "10000",
+              "100000"
+            ],
+            2,
+            "Un metro tiene 100 cm por lado; 100 × 100 = 10 000 cm²."
+          ],
+          [
+            "Unidades",
+            "¿Cuánto son 2,5 m en centímetros?",
+            [
+              "25 cm",
+              "250 cm",
+              "2500 cm",
+              "0,25 cm"
+            ],
+            1,
+            "2,5 × 100 = 250 cm."
+          ],
+          [
+            "Perímetros",
+            "Un triángulo de lados 5, 7 y 9 cm tiene un perímetro de…",
+            [
+              "12 cm",
+              "18 cm",
+              "21 cm",
+              "45 cm"
+            ],
+            2,
+            "El perímetro es la suma de sus lados: 5 + 7 + 9 = 21 cm."
+          ],
+          [
+            "Razonamiento",
+            "¿Es posible construir un triángulo con lados de 2, 3 y 8 cm?",
+            [
+              "Sí, siempre",
+              "Sí, si es rectángulo",
+              "No, porque 2 + 3 es menor que 8",
+              "Sí, si es equilátero"
+            ],
+            2,
+            "La suma de dos lados debe superar la longitud del tercero."
+          ],
+          [
+            "Razonamiento",
+            "En un triángulo rectángulo con catetos iguales, sus ángulos agudos miden…",
+            [
+              "30° y 60°",
+              "45° y 45°",
+              "90° y 90°",
+              "20° y 70°"
+            ],
+            1,
+            "Quedan 90° para los dos ángulos iguales: 45° cada uno."
+          ],
+          [
+            "Pitágoras",
+            "¿Cuáles de estos lados pueden formar un triángulo rectángulo?",
+            [
+              "4, 5 y 6",
+              "7, 8 y 9",
+              "8, 15 y 17",
+              "3, 4 y 6"
+            ],
+            2,
+            "8² + 15² = 64 + 225 = 289 = 17²."
+          ],
+          [
+            "Pitágoras",
+            "Si la hipotenusa vale 25 cm y un cateto 24 cm, ¿el otro cateto mide…?",
+            [
+              "1 cm",
+              "5 cm",
+              "7 cm",
+              "49 cm"
+            ],
+            2,
+            "√(25² − 24²) = √49 = 7 cm."
+          ],
+          [
+            "Pitágoras",
+            "La diagonal de un cuadrado de lado 5 cm es aproximadamente…",
+            [
+              "5 cm",
+              "7,07 cm",
+              "10 cm",
+              "25 cm"
+            ],
+            1,
+            "√(5² + 5²) = √50 ≈ 7,07 cm."
+          ],
+          [
+            "Problemas",
+            "Un poste de 12 m proyecta una sombra de 5 m. ¿Qué distancia hay desde su punta al extremo de la sombra?",
+            [
+              "7 m",
+              "12 m",
+              "13 m",
+              "17 m"
+            ],
+            2,
+            "Aplicamos Pitágoras: √(12² + 5²) = √169 = 13 m."
+          ],
+          [
+            "Pitágoras",
+            "Un triángulo rectángulo tiene catetos de 5 cm y 12 cm. ¿Cuánto mide la hipotenusa?",
+            [
+              "17 cm",
+              "13 cm",
+              "15 cm",
+              "7 cm"
+            ],
+            1,
+            "√(5² + 12²) = √169 = 13 cm."
+          ],
+          [
+            "Pitágoras",
+            "La hipotenusa de un triángulo rectángulo mide 17 cm y un cateto 8 cm. ¿El otro cateto?",
+            [
+              "25 cm",
+              "9 cm",
+              "15 cm",
+              "17 cm"
+            ],
+            2,
+            "√(17² − 8²) = √225 = 15 cm."
+          ],
+          [
+            "Pitágoras",
+            "Un triángulo rectángulo tiene catetos de 7 cm y 24 cm. ¿Cuánto mide la hipotenusa?",
+            [
+              "31 cm",
+              "25 cm",
+              "27 cm",
+              "17 cm"
+            ],
+            1,
+            "√(7² + 24²) = √625 = 25 cm."
+          ],
+          [
+            "Pitágoras",
+            "La hipotenusa de un triángulo rectángulo mide 41 cm y un cateto 9 cm. ¿El otro cateto?",
+            [
+              "50 cm",
+              "32 cm",
+              "40 cm",
+              "41 cm"
+            ],
+            2,
+            "√(41² − 9²) = √1600 = 40 cm."
+          ],
+          [
+            "Pitágoras",
+            "Un triángulo rectángulo tiene catetos de 12 cm y 16 cm. ¿Cuánto mide la hipotenusa?",
+            [
+              "28 cm",
+              "20 cm",
+              "22 cm",
+              "4 cm"
+            ],
+            1,
+            "√(12² + 16²) = √400 = 20 cm."
+          ],
+          [
+            "Pitágoras",
+            "La hipotenusa de un triángulo rectángulo mide 29 cm y un cateto 20 cm. ¿El otro cateto?",
+            [
+              "49 cm",
+              "9 cm",
+              "21 cm",
+              "29 cm"
+            ],
+            2,
+            "√(29² − 20²) = √441 = 21 cm."
+          ],
+          [
+            "Pitágoras",
+            "Un triángulo rectángulo tiene catetos de 10 cm y 24 cm. ¿Cuánto mide la hipotenusa?",
+            [
+              "34 cm",
+              "26 cm",
+              "28 cm",
+              "14 cm"
+            ],
+            1,
+            "√(10² + 24²) = √676 = 26 cm."
+          ],
+          [
+            "Pitágoras",
+            "La hipotenusa de un triángulo rectángulo mide 25 cm y un cateto 15 cm. ¿El otro cateto?",
+            [
+              "40 cm",
+              "10 cm",
+              "20 cm",
+              "25 cm"
+            ],
+            2,
+            "√(25² − 15²) = √400 = 20 cm."
+          ],
+          [
+            "Pitágoras",
+            "Un triángulo rectángulo tiene catetos de 6 cm y 8 cm. ¿Cuánto mide la hipotenusa?",
+            [
+              "14 cm",
+              "10 cm",
+              "12 cm",
+              "2 cm"
+            ],
+            1,
+            "√(6² + 8²) = √100 = 10 cm."
+          ],
+          [
+            "Pitágoras",
+            "La hipotenusa de un triángulo rectángulo mide 15 cm y un cateto 9 cm. ¿El otro cateto?",
+            [
+              "24 cm",
+              "6 cm",
+              "12 cm",
+              "15 cm"
+            ],
+            2,
+            "√(15² − 9²) = √144 = 12 cm."
+          ],
+          [
+            "Pitágoras",
+            "Un triángulo rectángulo tiene catetos de 12 cm y 35 cm. ¿Cuánto mide la hipotenusa?",
+            [
+              "47 cm",
+              "37 cm",
+              "39 cm",
+              "23 cm"
+            ],
+            1,
+            "√(12² + 35²) = √1369 = 37 cm."
+          ],
+          [
+            "Pitágoras",
+            "La hipotenusa de un triángulo rectángulo mide 61 cm y un cateto 11 cm. ¿El otro cateto?",
+            [
+              "72 cm",
+              "50 cm",
+              "60 cm",
+              "61 cm"
+            ],
+            2,
+            "√(61² − 11²) = √3600 = 60 cm."
+          ],
+          [
+            "Pitágoras",
+            "Un triángulo rectángulo tiene catetos de 16 cm y 30 cm. ¿Cuánto mide la hipotenusa?",
+            [
+              "46 cm",
+              "34 cm",
+              "36 cm",
+              "14 cm"
+            ],
+            1,
+            "√(16² + 30²) = √1156 = 34 cm."
+          ],
+          [
+            "Áreas",
+            "¿Qué área tiene un triángulo de base 12 cm y altura 9 cm?",
+            [
+              "108 cm²",
+              "54 cm²",
+              "21 cm²",
+              "110 cm²"
+            ],
+            1,
+            "Área = (12 × 9) ÷ 2 = 54 cm²."
+          ],
+          [
+            "Áreas",
+            "¿Qué área tiene un triángulo de base 18 cm y altura 7 cm?",
+            [
+              "126 cm²",
+              "63 cm²",
+              "25 cm²",
+              "128 cm²"
+            ],
+            1,
+            "Área = (18 × 7) ÷ 2 = 63 cm²."
+          ],
+          [
+            "Áreas",
+            "¿Qué área tiene un triángulo de base 14 cm y altura 5 cm?",
+            [
+              "70 cm²",
+              "35 cm²",
+              "19 cm²",
+              "72 cm²"
+            ],
+            1,
+            "Área = (14 × 5) ÷ 2 = 35 cm²."
+          ],
+          [
+            "Áreas",
+            "¿Qué área tiene un triángulo de base 22 cm y altura 4 cm?",
+            [
+              "88 cm²",
+              "44 cm²",
+              "26 cm²",
+              "90 cm²"
+            ],
+            1,
+            "Área = (22 × 4) ÷ 2 = 44 cm²."
+          ],
+          [
+            "Áreas",
+            "¿Qué área tiene un triángulo de base 16 cm y altura 11 cm?",
+            [
+              "176 cm²",
+              "88 cm²",
+              "27 cm²",
+              "178 cm²"
+            ],
+            1,
+            "Área = (16 × 11) ÷ 2 = 88 cm²."
+          ],
+          [
+            "Áreas",
+            "¿Qué área tiene un triángulo de base 30 cm y altura 6 cm?",
+            [
+              "180 cm²",
+              "90 cm²",
+              "36 cm²",
+              "182 cm²"
+            ],
+            1,
+            "Área = (30 × 6) ÷ 2 = 90 cm²."
+          ],
+          [
+            "Áreas",
+            "¿Qué área tiene un triángulo de base 13 cm y altura 8 cm?",
+            [
+              "104 cm²",
+              "52 cm²",
+              "21 cm²",
+              "106 cm²"
+            ],
+            1,
+            "Área = (13 × 8) ÷ 2 = 52 cm²."
+          ],
+          [
+            "Áreas",
+            "¿Qué área tiene un triángulo de base 24 cm y altura 15 cm?",
+            [
+              "360 cm²",
+              "180 cm²",
+              "39 cm²",
+              "362 cm²"
+            ],
+            1,
+            "Área = (24 × 15) ÷ 2 = 180 cm²."
+          ],
+          [
+            "Áreas",
+            "¿Qué área tiene un triángulo de base 20 cm y altura 13 cm?",
+            [
+              "260 cm²",
+              "130 cm²",
+              "33 cm²",
+              "262 cm²"
+            ],
+            1,
+            "Área = (20 × 13) ÷ 2 = 130 cm²."
+          ],
+          [
+            "Áreas",
+            "¿Qué área tiene un triángulo de base 26 cm y altura 9 cm?",
+            [
+              "234 cm²",
+              "117 cm²",
+              "35 cm²",
+              "236 cm²"
+            ],
+            1,
+            "Área = (26 × 9) ÷ 2 = 117 cm²."
+          ],
+          [
+            "Áreas",
+            "¿Qué área tiene un triángulo de base 28 cm y altura 7 cm?",
+            [
+              "196 cm²",
+              "98 cm²",
+              "35 cm²",
+              "198 cm²"
+            ],
+            1,
+            "Área = (28 × 7) ÷ 2 = 98 cm²."
+          ],
+          [
+            "Áreas",
+            "¿Qué área tiene un triángulo de base 32 cm y altura 5 cm?",
+            [
+              "160 cm²",
+              "80 cm²",
+              "37 cm²",
+              "162 cm²"
+            ],
+            1,
+            "Área = (32 × 5) ÷ 2 = 80 cm²."
+          ]
+        ]
+      }
+    ],
+    "tec": [
+      {
+        "id": "t1",
+        "title": "Tema 1 · Tecnología y proceso tecnológico",
+        "desc": "Necesidades, seis fases, prototipos, documentación, organización y seguridad del aula taller",
+        "questions": [
+          [
+            "Tecnología y necesidades",
+            "¿Qué busca conseguir la tecnología?",
+            [
+              "Eliminar las ciencias",
+              "Satisfacer necesidades humanas mediante conocimientos científicos y técnicos",
+              "Estudiar solo los planetas",
+              "Fabricar únicamente videojuegos"
+            ],
+            1,
+            "La tecnología aplica conocimientos técnicos y científicos para crear productos o procesos que cubran necesidades."
+          ],
+          [
+            "Tecnología y necesidades",
+            "¿Cuál de estos ejemplos es una necesidad primaria?",
+            [
+              "Alimentarse",
+              "Comprar la última consola",
+              "Tener ropa de marca",
+              "Comprar el móvil más nuevo"
+            ],
+            0,
+            "Las necesidades primarias son esenciales, como la alimentación y la salud."
+          ],
+          [
+            "Tecnología y necesidades",
+            "¿Cuál de estos ejemplos es una necesidad secundaria?",
+            [
+              "Alimentarse",
+              "Comprar el último videojuego",
+              "Tener agua potable",
+              "Cuidar la salud"
+            ],
+            1,
+            "Las secundarias no son imprescindibles para vivir."
+          ],
+          [
+            "Tecnología y necesidades",
+            "¿Qué diferencia hay entre una necesidad primaria y una secundaria?",
+            [
+              "La primaria es esencial y la secundaria no lo es",
+              "La secundaria es siempre más urgente",
+              "Las dos son siempre imprescindibles",
+              "La primaria es solo tecnología"
+            ],
+            0,
+            "Las primarias son básicas para la vida; las secundarias mejoran la comodidad o satisfacen deseos."
+          ],
+          [
+            "Tecnología y necesidades",
+            "Si diseñamos una herramienta para ayudar a una persona, estamos creando…",
+            [
+              "Una necesidad primaria necesariamente",
+              "Una solución tecnológica",
+              "Un fenómeno meteorológico",
+              "Una estación del año"
+            ],
+            1,
+            "La tecnología propone soluciones a necesidades o problemas."
+          ],
+          [
+            "Tecnología y necesidades",
+            "¿Cuál de estas actividades puede ser tecnología?",
+            [
+              "Solo memorizar fechas",
+              "Observar una nube sin medir nada",
+              "Nombrar planetas sin investigar",
+              "Diseñar un sistema para potabilizar agua"
+            ],
+            3,
+            "Un sistema de potabilización es una solución creada para atender una necesidad."
+          ],
+          [
+            "Proceso tecnológico",
+            "¿Cuántas fases tiene el proceso tecnológico según los apuntes?",
+            [
+              "Seis",
+              "Tres",
+              "Cuatro",
+              "Ocho"
+            ],
+            0,
+            "Los apuntes describen seis fases del proceso tecnológico."
+          ],
+          [
+            "Proceso tecnológico",
+            "¿Cuál es la primera fase del proceso tecnológico?",
+            [
+              "Redactar el informe",
+              "Construir directamente",
+              "Identificar la necesidad y plantear el problema",
+              "Evaluar el prototipo"
+            ],
+            2,
+            "Antes de diseñar, se identifica qué necesidad o problema se quiere resolver."
+          ],
+          [
+            "Proceso tecnológico",
+            "¿Qué se hace al explorar ideas?",
+            [
+              "Tirar el prototipo",
+              "Redactar la nota final",
+              "Buscar información y posibles soluciones",
+              "Construir sin pensar"
+            ],
+            2,
+            "Explorar ideas supone informarse y considerar alternativas."
+          ],
+          [
+            "Proceso tecnológico",
+            "¿Qué se hace en la fase de diseñar soluciones?",
+            [
+              "Preparar dibujos y elegir la idea adecuada",
+              "Guardar las herramientas",
+              "Poner una nota al proyecto",
+              "Eliminar la documentación"
+            ],
+            0,
+            "Se realizan bocetos y se selecciona una solución."
+          ],
+          [
+            "Proceso tecnológico",
+            "¿Qué se construye en la cuarta fase?",
+            [
+              "Un glosario",
+              "Un prototipo",
+              "Un examen",
+              "Una escala cartográfica"
+            ],
+            1,
+            "La cuarta fase consiste en construir un prototipo."
+          ],
+          [
+            "Proceso tecnológico",
+            "¿Cómo se evalúa un prototipo?",
+            [
+              "Guardándolo sin usar",
+              "Saltándose las pruebas",
+              "Haciendo pruebas para comprobar si funciona",
+              "Mirando solo el color"
+            ],
+            2,
+            "Evaluar supone ensayar y revisar si cumple las especificaciones."
+          ],
+          [
+            "Proceso tecnológico",
+            "¿Qué se hace en la última fase del proceso tecnológico?",
+            [
+              "Romper el prototipo",
+              "Elegir materiales antes de saber el problema",
+              "Redactar un informe técnico",
+              "Identificar por primera vez el problema"
+            ],
+            2,
+            "El informe recoge la información del proyecto."
+          ],
+          [
+            "Proceso tecnológico",
+            "¿Qué fase va inmediatamente después de construir el prototipo?",
+            [
+              "Comprar sin comparar",
+              "Evaluarlo con pruebas",
+              "Identificar el problema",
+              "Hacer una lista de asignaturas"
+            ],
+            1,
+            "Construcción y evaluación son las fases cuarta y quinta."
+          ],
+          [
+            "Proceso tecnológico",
+            "Si el prototipo falla en una prueba, ¿qué conviene hacer?",
+            [
+              "Darlo por válido",
+              "Eliminar las pruebas",
+              "Ocultar el error",
+              "Revisar el diseño y mejorarlo"
+            ],
+            3,
+            "Las pruebas ayudan a detectar errores y mejorar las soluciones."
+          ],
+          [
+            "Proceso tecnológico",
+            "¿Qué fase viene antes de construir un prototipo?",
+            [
+              "Evaluar el prototipo",
+              "Redactar el informe final",
+              "Tirar materiales",
+              "Diseñar soluciones"
+            ],
+            3,
+            "Primero se estudia y diseña; después se construye."
+          ],
+          [
+            "Bocetos y prototipos",
+            "¿Qué es un boceto?",
+            [
+              "Un texto sin dibujos",
+              "Un informe de evaluación",
+              "Un dibujo esquemático y rápido que representa una idea",
+              "Un producto terminado"
+            ],
+            2,
+            "Un boceto expresa una idea sin exigir precisión total."
+          ],
+          [
+            "Bocetos y prototipos",
+            "¿Qué es un prototipo?",
+            [
+              "Un modelo simplificado de una idea tecnológica",
+              "El producto final fabricado en serie",
+              "Un dibujo de un mapa",
+              "Una señal de prohibición"
+            ],
+            0,
+            "Sirve para comprobar una propuesta reduciendo recursos y tiempo."
+          ],
+          [
+            "Bocetos y prototipos",
+            "¿Por qué se hacen pruebas a un prototipo?",
+            [
+              "Para no documentar el trabajo",
+              "Para comprobar su funcionamiento y requisitos",
+              "Para evitar la evaluación",
+              "Para gastar material sin motivo"
+            ],
+            1,
+            "Las pruebas confirman qué funciona y qué habría que corregir."
+          ],
+          [
+            "Bocetos y prototipos",
+            "¿Qué ventajas puede tener construir primero un prototipo?",
+            [
+              "Evitar cualquier coste",
+              "No necesitar diseñar",
+              "Detectar fallos antes de fabricar la solución definitiva",
+              "Garantizar que nunca habrá errores"
+            ],
+            2,
+            "Probar un modelo preliminar permite hacer mejoras."
+          ],
+          [
+            "Materiales y organización",
+            "¿Qué criterio se debe valorar al elegir materiales?",
+            [
+              "Únicamente el peso del envase",
+              "Seguridad, economía, ecología y facilidad de montaje",
+              "Solo el color favorito",
+              "Solo el nombre del fabricante"
+            ],
+            1,
+            "Esos criterios aparecen en los apuntes."
+          ],
+          [
+            "Materiales y organización",
+            "¿Por qué conviene considerar la economía al elegir materiales?",
+            [
+              "Para ajustarse al presupuesto",
+              "Para que todo sea lo más caro posible",
+              "Para no usar herramientas",
+              "Para saltarse la seguridad"
+            ],
+            0,
+            "El coste y la disponibilidad influyen en la solución."
+          ],
+          [
+            "Materiales y organización",
+            "¿Por qué importa la ecología al elegir materiales?",
+            [
+              "Para que el prototipo no funcione",
+              "Para evitar la evaluación",
+              "Para reducir el impacto ambiental",
+              "Para añadir peso a todo"
+            ],
+            2,
+            "La elección de materiales puede afectar al medioambiente."
+          ],
+          [
+            "Materiales y organización",
+            "¿Qué se debe organizar al preparar un proyecto?",
+            [
+              "Solo los colores de los rotuladores",
+              "Únicamente el recreo",
+              "Solo los exámenes",
+              "La información, las reuniones y la documentación"
+            ],
+            3,
+            "Los apuntes destacan el almacenamiento y el formato de la información y los lugares de reunión."
+          ],
+          [
+            "Materiales y organización",
+            "¿Qué son las especificaciones técnicas?",
+            [
+              "Las condiciones y características que debe cumplir la solución",
+              "Un dibujo sin información",
+              "Una lista de cumpleaños",
+              "Un tipo de señal roja"
+            ],
+            0,
+            "Definen con precisión qué necesita resolver el proyecto y qué se espera del objeto."
+          ],
+          [
+            "Materiales y organización",
+            "¿Qué contiene una lista de materiales?",
+            [
+              "Solo los nombres de compañeros",
+              "Únicamente las fechas",
+              "Las preguntas del examen",
+              "Nombres, cantidades y características de los materiales"
+            ],
+            3,
+            "Puede incluir dimensiones, utilidad, lugar de compra y precio."
+          ],
+          [
+            "Materiales y organización",
+            "¿Para qué sirve la lista de herramientas?",
+            [
+              "Para identificar las herramientas que hacen falta",
+              "Para indicar el día de entrega solamente",
+              "Para escribir la bibliografía",
+              "Para sustituir el boceto"
+            ],
+            0,
+            "Enumera las herramientas que se necesitarán."
+          ],
+          [
+            "Materiales y organización",
+            "¿Qué describen las hojas de proceso?",
+            [
+              "Solo el nombre del proyecto",
+              "Las necesidades secundarias",
+              "Cómo se construyen y montan las piezas paso a paso",
+              "La nota final del trimestre"
+            ],
+            2,
+            "Explican la secuencia de construcción y montaje."
+          ],
+          [
+            "Materiales y organización",
+            "¿Qué se anota en un diario técnico?",
+            [
+              "Tareas, fechas, responsables y tiempo empleado",
+              "Solo las vacaciones",
+              "Únicamente los materiales reciclables",
+              "La clasificación de equipos"
+            ],
+            0,
+            "Registra el seguimiento de las actividades del proyecto."
+          ],
+          [
+            "Materiales y organización",
+            "¿Qué se incluye en la evaluación del proyecto?",
+            [
+              "Una foto sin comentario",
+              "Solo la lista de compañeros",
+              "Si cumplió los requisitos y cuánto tiempo y dinero se empleó",
+              "Solo el título"
+            ],
+            2,
+            "La evaluación comprueba resultados y recursos invertidos."
+          ],
+          [
+            "Materiales y organización",
+            "¿Qué contiene la memoria del proyecto?",
+            [
+              "Una tabla de horarios escolares",
+              "El tiempo atmosférico",
+              "Bocetos, detalles y explicación del funcionamiento",
+              "Solo el nombre del autor"
+            ],
+            2,
+            "La memoria describe el conjunto y cómo funciona."
+          ],
+          [
+            "Materiales y organización",
+            "¿Qué debe aparecer en la portada de la documentación?",
+            [
+              "Únicamente normas de tráfico",
+              "Un título y datos identificativos del proyecto",
+              "Solo el precio de una pieza",
+              "La puntuación del examen"
+            ],
+            1,
+            "Es la presentación del proyecto."
+          ],
+          [
+            "Materiales y organización",
+            "¿Cuántos apartados de documentación técnica enumera el material?",
+            [
+              "Ocho",
+              "Dos",
+              "Cinco",
+              "Doce"
+            ],
+            0,
+            "Portada, especificaciones, memoria, hojas de proceso, materiales, herramientas, diario y evaluación."
+          ],
+          [
+            "Aula taller y seguridad",
+            "¿Para qué sirve la zona de almacén?",
+            [
+              "Guardar materiales y prototipos",
+              "Realizar todos los montajes",
+              "Jugar durante las clases",
+              "Realizar exámenes de matemáticas"
+            ],
+            0,
+            "Es el espacio donde se conservan materiales y trabajos."
+          ],
+          [
+            "Aula taller y seguridad",
+            "¿Para qué sirve la zona de taller?",
+            [
+              "Comer durante la clase",
+              "Guardar ropa",
+              "Desarrollar proyectos y construir prototipos",
+              "Almacenar únicamente libros"
+            ],
+            2,
+            "Es el área de trabajo y montaje."
+          ],
+          [
+            "Aula taller y seguridad",
+            "¿Cuál es una ventaja de trabajar en equipo?",
+            [
+              "No escuchar ninguna opinión",
+              "Trabajar siempre sin organizarse",
+              "Evitar ayudar",
+              "Compartir ideas y aprender de los compañeros"
+            ],
+            3,
+            "El trabajo en equipo facilita aprendizajes y proyectos complejos."
+          ],
+          [
+            "Aula taller y seguridad",
+            "¿Qué exige el trabajo en equipo?",
+            [
+              "No repartir tareas",
+              "Ignorar sugerencias",
+              "Organización, respeto y ayuda mutua",
+              "Interrumpir continuamente"
+            ],
+            2,
+            "Para colaborar hay que organizarse y respetar ideas diferentes."
+          ],
+          [
+            "Aula taller y seguridad",
+            "¿Qué debes hacer si una herramienta está dañada?",
+            [
+              "Usarla más deprisa",
+              "Ocultarla",
+              "Prestarla sin advertir",
+              "Avisar y no utilizarla hasta que sea segura"
+            ],
+            3,
+            "Las herramientas deben estar en buen estado."
+          ],
+          [
+            "Aula taller y seguridad",
+            "¿Cómo se debe trabajar en el aula taller?",
+            [
+              "Corriendo y jugando",
+              "Con bromas peligrosas",
+              "Con herramientas al azar",
+              "Sin prisas y utilizando la herramienta adecuada"
+            ],
+            3,
+            "La seguridad requiere calma y herramientas correctas."
+          ],
+          [
+            "Aula taller y seguridad",
+            "¿Por qué es peligroso llevar el pelo largo suelto cerca de máquinas?",
+            [
+              "Puede engancharse",
+              "Porque estropea las mesas",
+              "Porque no combina con el uniforme",
+              "Porque no permite dibujar"
+            ],
+            0,
+            "Se debe recoger el pelo y evitar elementos colgantes."
+          ],
+          [
+            "Aula taller y seguridad",
+            "¿Qué equipo de protección puede necesitarse?",
+            [
+              "Zapatos sin suela",
+              "Gafas y guantes adecuados",
+              "Solo auriculares",
+              "Una bufanda larga"
+            ],
+            1,
+            "El material menciona gafas y guantes cuando sean necesarios."
+          ],
+          [
+            "Aula taller y seguridad",
+            "¿Cómo es normalmente una señal de advertencia?",
+            [
+              "Circular y blanca con rojo",
+              "Triangular y amarilla",
+              "Circular y azul",
+              "Rectangular y verde"
+            ],
+            1,
+            "La advertencia de peligros se asocia con triángulo y amarillo."
+          ],
+          [
+            "Aula taller y seguridad",
+            "¿Cómo es normalmente una señal de prohibición?",
+            [
+              "Cuadrada verde",
+              "Circular con borde rojo y fondo blanco",
+              "Triangular amarilla",
+              "Circular de fondo azul"
+            ],
+            1,
+            "La prohibición se representa con círculo y color rojo."
+          ],
+          [
+            "Aula taller y seguridad",
+            "¿Cómo es normalmente una señal de obligación?",
+            [
+              "Rectangular de fondo verde",
+              "Cuadrada roja",
+              "Circular de fondo azul",
+              "Triangular de fondo amarillo"
+            ],
+            2,
+            "Las señales de obligación tienen fondo azul."
+          ],
+          [
+            "Aula taller y seguridad",
+            "¿De qué color son las señales de lucha contra incendios?",
+            [
+              "Verdes",
+              "Amarillas",
+              "Azules",
+              "Rojas"
+            ],
+            3,
+            "Los equipos de extinción se señalizan en rojo."
+          ],
+          [
+            "Aula taller y seguridad",
+            "¿Qué color identifica las señales de salvamento o socorro?",
+            [
+              "Amarillo",
+              "Negro",
+              "Naranja",
+              "Verde"
+            ],
+            3,
+            "Salidas de emergencia y primeros auxilios se señalizan en verde."
+          ],
+          [
+            "Aula taller y seguridad",
+            "¿Qué indica una señal de extintor?",
+            [
+              "Una prohibición de hablar",
+              "Una zona de descanso",
+              "La ubicación de un equipo de lucha contra incendios",
+              "Una salida de socorro"
+            ],
+            2,
+            "Los extintores pertenecen a la señalización contra incendios."
+          ],
+          [
+            "Aula taller y seguridad",
+            "¿Qué significa una señal azul con unos guantes?",
+            [
+              "Hay un extintor",
+              "Salida de emergencia",
+              "Es obligatorio usar guantes de protección",
+              "Está prohibido usar guantes"
+            ],
+            2,
+            "El círculo azul señala una obligación."
+          ]
+        ]
+      },
+      {
+        "id": "t2",
+        "title": "Tema 2 · Expresión y comunicación gráfica",
+        "desc": "Boceto, croquis, proporciones, acotación y dibujos técnicos",
+        "questions": [
+          [
+            "Expresión y comunicación gráfica",
+            "¿Qué es un boceto en expresión gráfica?",
+            [
+              "Un plano siempre hecho con ordenador",
+              "Una pieza terminada",
+              "Un documento contable",
+              "Un primer dibujo rápido a mano alzada"
+            ],
+            3,
+            "El boceto representa una idea inicial de forma esquemática."
+          ],
+          [
+            "Expresión y comunicación gráfica",
+            "¿Con qué se suele realizar un boceto?",
+            [
+              "Solo con regla y compás obligatoriamente",
+              "A mano alzada, normalmente con lápiz",
+              "Solo con instrumentos de laboratorio",
+              "Únicamente en una impresora 3D"
+            ],
+            1,
+            "Es un dibujo libre y rápido."
+          ],
+          [
+            "Expresión y comunicación gráfica",
+            "¿Qué es un croquis?",
+            [
+              "Una fotografía sin marcas",
+              "Una idea escrita sin dibujo",
+              "Un modelo fabricado en serie",
+              "Un dibujo técnico a mano alzada, más detallado, con medidas"
+            ],
+            3,
+            "Según los apuntes, viene tras el boceto e incorpora medidas para fabricar el objeto."
+          ],
+          [
+            "Expresión y comunicación gráfica",
+            "¿Qué diferencia esencial existe entre boceto y croquis?",
+            [
+              "Un croquis es un objeto físico",
+              "El croquis es más detallado y puede llevar cotas",
+              "El boceto debe llevar todas las medidas exactas",
+              "No se puede hacer croquis a mano"
+            ],
+            1,
+            "El boceto es inicial; el croquis concreta formas, proporciones y dimensiones."
+          ],
+          [
+            "Expresión y comunicación gráfica",
+            "¿Qué significa que un croquis sea a mano alzada?",
+            [
+              "Que solo se puede dibujar con ordenador",
+              "Que se dibuja con los ojos cerrados",
+              "Que necesariamente se hace con pintura",
+              "Que se dibuja sin depender de instrumentos de dibujo"
+            ],
+            3,
+            "Un croquis puede dibujarse a pulso."
+          ],
+          [
+            "Expresión y comunicación gráfica",
+            "¿Qué quiere decir que un croquis sea proporcionado?",
+            [
+              "Que no tenga medidas",
+              "Que sea siempre una circunferencia",
+              "Que sus partes guarden una relación visual acorde con el objeto",
+              "Que todas sus partes sean iguales"
+            ],
+            2,
+            "Las proporciones deben aproximarse a las reales."
+          ],
+          [
+            "Expresión y comunicación gráfica",
+            "¿Qué significa acotar un croquis?",
+            [
+              "Pintarlo de rojo",
+              "Borrar sus contornos",
+              "Copiarlo varias veces",
+              "Indicar las dimensiones mediante líneas, flechas y cifras"
+            ],
+            3,
+            "Las cotas indican medidas de las partes del objeto."
+          ],
+          [
+            "Expresión y comunicación gráfica",
+            "¿Qué significa que un croquis sea limpio y claro?",
+            [
+              "Que las líneas y datos se entiendan sin confusiones",
+              "Que no tenga ninguna línea",
+              "Que esté lleno de sombras",
+              "Que todas sus medidas sean distintas"
+            ],
+            0,
+            "Un croquis legible facilita la comprensión."
+          ],
+          [
+            "Expresión y comunicación gráfica",
+            "¿Qué unidad de longitud aparece como habitual en las cotas de los apuntes?",
+            [
+              "Litros (L)",
+              "Grados centígrados (°C)",
+              "Milímetros (mm)",
+              "Kilogramos (kg)"
+            ],
+            2,
+            "Las medidas de piezas suelen anotarse en milímetros."
+          ],
+          [
+            "Expresión y comunicación gráfica",
+            "¿Para qué sirve un croquis al fabricar un objeto?",
+            [
+              "Para cambiar la necesidad primaria",
+              "Para evaluar un examen de historia",
+              "Para guiar la construcción con formas y medidas",
+              "Para sustituir todas las herramientas"
+            ],
+            2,
+            "El croquis comunica cómo debe ser el objeto."
+          ],
+          [
+            "Expresión y comunicación gráfica",
+            "¿Qué dibujo se suele hacer primero al plantear la idea de un objeto?",
+            [
+              "La memoria final",
+              "La evaluación del proyecto",
+              "El boceto",
+              "El croquis acotado definitivo"
+            ],
+            2,
+            "Primero se dibuja rápidamente la idea; después se precisa."
+          ],
+          [
+            "Expresión y comunicación gráfica",
+            "Si una línea de cota indica 60 mm, ¿qué información ofrece?",
+            [
+              "Un precio de 60 euros",
+              "Una dimensión de 60 milímetros",
+              "Una temperatura de 60 grados",
+              "Un peso de 60 kilogramos"
+            ],
+            1,
+            "Las cotas representan dimensiones."
+          ],
+          [
+            "Expresión y comunicación gráfica",
+            "¿Cuál de las siguientes características corresponde mejor a un buen croquis?",
+            [
+              "Solo decorativo",
+              "Claro, proporcionado y acotado",
+              "Confuso, sin medidas y borroso",
+              "Rápido pero ilegible"
+            ],
+            1,
+            "Los apuntes destacan proporción, cotas y claridad."
+          ],
+          [
+            "Expresión y comunicación gráfica",
+            "¿Qué dibujo ayuda a explorar varias ideas de forma rápida?",
+            [
+              "El boceto",
+              "La evaluación del proyecto",
+              "La hoja de materiales",
+              "El diario técnico"
+            ],
+            0,
+            "Los bocetos son útiles para expresar soluciones inicialmente."
+          ],
+          [
+            "Expresión y comunicación gráfica",
+            "¿Qué dibujo aporta más información para construir una pieza?",
+            [
+              "El croquis con cotas",
+              "Un garabato sin proporciones",
+              "Una lista de nombres",
+              "Un título sin dibujos"
+            ],
+            0,
+            "El croquis incorpora dimensiones y detalles."
           ]
         ]
       }
