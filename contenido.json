@@ -1429,11 +1429,11 @@
               "90 cm"
             ],
             1,
-            "La altura divide la base en dos partes de 30 cm: √(60² − 30²) ≈ 51,96 cm."
+            "La altura parte la base en dos mitades de 30 cm: h = √(60² − 30²) = √2700 ≈ 51,96 cm."
           ],
           [
             "Áreas",
-            "Una señal equilátera tiene lado de 60 cm. ¿Cuál es su área aproximada?",
+            "Una señal equilátera tiene lado de 60 cm. ¿Cuál es su área aproximada sin redondear la altura durante el cálculo?",
             [
               "3600 cm²",
               "900 cm²",
@@ -1441,7 +1441,7 @@
               "1800 cm²"
             ],
             2,
-            "Altura ≈ 51,96 cm. Área ≈ (60 × 51,96) ÷ 2 = 1558,85 cm²."
+            "Primero hallamos la altura sin redondearla: h = √(60² − 30²) = √2700. Área = (60 × √2700) ÷ 2 ≈ 1558,85 cm². Si se usa h ≈ 51,96, el área sale 1558,80 cm² por redondeo."
           ],
           [
             "Áreas",
@@ -1453,11 +1453,11 @@
               "140 cm"
             ],
             0,
-            "La mitad de su base es 35: √(70² − 35²) ≈ 60,62 cm."
+            "La altura parte la base en dos mitades de 35 cm: h = √(70² − 35²) = √3675 ≈ 60,62 cm."
           ],
           [
             "Áreas",
-            "Una señal equilátera tiene lado de 70 cm. ¿Cuál es su área aproximada?",
+            "Una señal equilátera tiene lado de 70 cm. ¿Cuál es su área aproximada sin redondear la altura durante el cálculo?",
             [
               "4900 cm²",
               "2121,76 cm²",
@@ -1465,7 +1465,7 @@
               "1225 cm²"
             ],
             1,
-            "Altura ≈ 60,62 cm. Área ≈ 70 × 60,62 ÷ 2 ≈ 2121,76 cm²."
+            "Primero hallamos la altura sin redondearla: h = √(70² − 35²) = √3675. Área = (70 × √3675) ÷ 2 ≈ 2121,76 cm². Si se usa h ≈ 60,62, sale 2121,70 cm² por redondeo."
           ],
           [
             "Repaso",
@@ -1669,7 +1669,7 @@
               "40 cm²"
             ],
             2,
-            "Área del rombo = diagonal mayor × diagonal menor ÷ 2 = 10 × 6 ÷ 2."
+            "Área = (diagonal mayor × diagonal menor) ÷ 2 = (10 × 6) ÷ 2 = 30 cm²."
           ],
           [
             "Áreas",
