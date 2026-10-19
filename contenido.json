@@ -1045,7 +1045,7 @@
       {
         "id": "t1",
         "title": "Tema 1 · Elementos geométricos, longitudes y áreas",
-        "desc": "Teorema de Pitágoras, triángulos, hipotenusa, catetos, diagonales, escaleras y áreas",
+        "desc": "Teoría y práctica: elementos geométricos, triángulos, ángulos, Pitágoras, perímetros, áreas y unidades",
         "questions": [
           [
             "Conceptos",
@@ -2114,6 +2114,426 @@
             ],
             1,
             "Área = (32 × 5) ÷ 2 = 80 cm²."
+          ],
+          [
+            "Geometría",
+            "¿Qué es un segmento?",
+            [
+              "Una parte de una recta limitada por dos puntos",
+              "Una recta que no tiene extremos",
+              "Una superficie cerrada",
+              "Un ángulo de 90°"
+            ],
+            0,
+            "Un segmento tiene dos extremos y una longitud determinada."
+          ],
+          [
+            "Geometría",
+            "¿Qué diferencia hay entre una recta y un segmento?",
+            [
+              "El segmento no tiene extremos",
+              "La recta se prolonga indefinidamente y el segmento tiene extremos",
+              "La recta siempre forma un círculo",
+              "No hay diferencia"
+            ],
+            1,
+            "La recta es ilimitada en ambos sentidos; el segmento tiene dos puntos extremos."
+          ],
+          [
+            "Geometría",
+            "¿Qué es una semirrecta?",
+            [
+              "Una línea curva cerrada",
+              "Una parte de una recta con un origen que se prolonga en un sentido",
+              "Un segmento con dos extremos",
+              "Un tipo de triángulo"
+            ],
+            1,
+            "Una semirrecta comienza en un punto y continúa sin fin hacia un sentido."
+          ],
+          [
+            "Ángulos",
+            "¿Qué es un ángulo?",
+            [
+              "La región formada por dos semirrectas con un mismo origen",
+              "Una recta con dos extremos",
+              "El perímetro de una figura",
+              "Una línea que une vértices opuestos"
+            ],
+            0,
+            "El origen común es el vértice y las semirrectas son los lados del ángulo."
+          ],
+          [
+            "Ángulos",
+            "¿Cuánto mide un ángulo agudo?",
+            [
+              "Más de 90°",
+              "Exactamente 180°",
+              "Menos de 90° y más de 0°",
+              "Exactamente 90°"
+            ],
+            2,
+            "Un ángulo agudo es menor de 90°."
+          ],
+          [
+            "Ángulos",
+            "¿Qué es un ángulo obtuso?",
+            [
+              "Mide entre 90° y 180°",
+              "Mide menos de 90°",
+              "Mide exactamente 90°",
+              "Mide 360°"
+            ],
+            0,
+            "El ángulo obtuso es mayor que el recto y menor que el llano."
+          ],
+          [
+            "Ángulos",
+            "¿Cuánto mide un ángulo llano?",
+            [
+              "45°",
+              "90°",
+              "180°",
+              "360°"
+            ],
+            2,
+            "Un ángulo llano mide 180°."
+          ],
+          [
+            "Triángulos",
+            "¿Cómo se clasifica un triángulo que tiene los tres lados diferentes?",
+            [
+              "Equilátero",
+              "Isósceles",
+              "Escaleno",
+              "Rectángulo siempre"
+            ],
+            2,
+            "Un triángulo escaleno tiene sus tres lados de diferente longitud."
+          ],
+          [
+            "Triángulos",
+            "¿Qué caracteriza a un triángulo isósceles?",
+            [
+              "Tiene los tres lados iguales",
+              "Tiene al menos dos lados iguales",
+              "Tiene siempre tres ángulos rectos",
+              "No tiene lados iguales"
+            ],
+            1,
+            "El triángulo isósceles tiene al menos dos lados de la misma longitud."
+          ],
+          [
+            "Triángulos",
+            "¿Cuánto mide cada ángulo de un triángulo equilátero?",
+            [
+              "45°",
+              "60°",
+              "90°",
+              "120°"
+            ],
+            1,
+            "Tiene tres ángulos iguales que suman 180°, así que cada uno mide 60°."
+          ],
+          [
+            "Triángulos",
+            "¿Cómo se llama un triángulo que tiene un ángulo mayor de 90°?",
+            [
+              "Acutángulo",
+              "Rectángulo",
+              "Obtusángulo",
+              "Equilátero necesariamente"
+            ],
+            2,
+            "Un triángulo obtusángulo contiene un ángulo obtuso."
+          ],
+          [
+            "Triángulos",
+            "¿Qué caracteriza a un triángulo acutángulo?",
+            [
+              "Tiene sus tres ángulos agudos",
+              "Tiene un ángulo recto",
+              "Tiene un ángulo obtuso",
+              "Tiene cuatro vértices"
+            ],
+            0,
+            "Los tres ángulos de un triángulo acutángulo son menores de 90°."
+          ],
+          [
+            "Triángulos",
+            "¿Qué es la altura de un triángulo respecto a una base?",
+            [
+              "Cualquier lado oblicuo",
+              "La distancia perpendicular desde el vértice opuesto a la recta de la base",
+              "La suma de sus tres lados",
+              "El lado más largo siempre"
+            ],
+            1,
+            "La altura es perpendicular a la recta que contiene la base."
+          ],
+          [
+            "Triángulos",
+            "¿Qué es una mediana de un triángulo?",
+            [
+              "Un segmento que une un vértice con el punto medio del lado opuesto",
+              "Una diagonal del cuadrado",
+              "Una línea siempre exterior",
+              "La mitad del perímetro"
+            ],
+            0,
+            "Cada mediana une un vértice con el punto medio del lado contrario."
+          ],
+          [
+            "Pitágoras",
+            "¿En qué condición puede aplicarse el teorema de Pitágoras?",
+            [
+              "Cuando un triángulo tiene dos lados iguales",
+              "Cuando el triángulo tiene un ángulo de 90°",
+              "Cuando hay un ángulo de 60°",
+              "Siempre que sea escaleno"
+            ],
+            1,
+            "El teorema de Pitágoras se aplica a triángulos rectángulos."
+          ],
+          [
+            "Pitágoras",
+            "¿Cómo reconoces la hipotenusa en un dibujo?",
+            [
+              "Es el lado opuesto al ángulo recto",
+              "Es el lado situado abajo siempre",
+              "Siempre es el lado vertical",
+              "Es cualquiera de los catetos"
+            ],
+            0,
+            "La hipotenusa está enfrente del ángulo de 90°."
+          ],
+          [
+            "Pitágoras",
+            "¿Por qué no se suman directamente los catetos para hallar la hipotenusa?",
+            [
+              "Porque deben sumarse los cuadrados y después calcular la raíz",
+              "Porque hay que dividir entre dos",
+              "Porque la hipotenusa siempre vale 90",
+              "Porque los catetos tienen distintas unidades"
+            ],
+            0,
+            "La fórmula es h = √(a² + b²), no h = a + b."
+          ],
+          [
+            "Pitágoras",
+            "Si conocemos la hipotenusa y un cateto, ¿cómo hallamos el otro?",
+            [
+              "Sumando ambos lados",
+              "Restando los cuadrados y calculando la raíz cuadrada",
+              "Multiplicándolos",
+              "Dividiendo el perímetro entre cuatro"
+            ],
+            1,
+            "Cateto = √(hipotenusa² − otro cateto²)."
+          ],
+          [
+            "Pitágoras",
+            "¿En qué figura se puede usar Pitágoras para calcular su diagonal?",
+            [
+              "En un rectángulo",
+              "En una circunferencia sin medidas",
+              "En un pentágono cualquiera sin más datos",
+              "En una línea recta"
+            ],
+            0,
+            "La diagonal de un rectángulo forma un triángulo rectángulo con sus lados."
+          ],
+          [
+            "Perímetros",
+            "¿Qué es el perímetro de una figura?",
+            [
+              "El espacio que ocupa por dentro",
+              "La suma de las longitudes de su contorno",
+              "La diagonal más larga",
+              "La altura multiplicada por dos"
+            ],
+            1,
+            "El perímetro mide la longitud total del borde."
+          ],
+          [
+            "Áreas",
+            "¿Qué es el área de una figura?",
+            [
+              "La longitud del borde",
+              "La medida de la superficie que ocupa",
+              "El número de vértices",
+              "El resultado de sumar los ángulos"
+            ],
+            1,
+            "El área mide la superficie interior de una figura plana."
+          ],
+          [
+            "Perímetros",
+            "¿Cuál es la fórmula del perímetro de un rectángulo de largo L y ancho A?",
+            [
+              "L × A",
+              "2 × (L + A)",
+              "L²",
+              "(L × A) ÷ 2"
+            ],
+            1,
+            "Hay dos lados de largo L y dos de ancho A."
+          ],
+          [
+            "Áreas",
+            "¿Cuál es la fórmula del área de un rectángulo?",
+            [
+              "Base × altura",
+              "2 × (base + altura)",
+              "4 × lado",
+              "Base + altura"
+            ],
+            0,
+            "El área del rectángulo se calcula multiplicando base por altura."
+          ],
+          [
+            "Áreas",
+            "¿Cuál es la fórmula del área de un cuadrado de lado l?",
+            [
+              "4 × l",
+              "2 × l",
+              "l × l",
+              "l ÷ 2"
+            ],
+            2,
+            "Un cuadrado tiene base y altura iguales: A = l²."
+          ],
+          [
+            "Áreas",
+            "¿Por qué el área del triángulo se divide entre dos?",
+            [
+              "Porque dos triángulos iguales pueden formar un paralelogramo de la misma base y altura",
+              "Porque tiene tres vértices",
+              "Porque la base siempre es par",
+              "Porque solo tiene dos lados"
+            ],
+            0,
+            "El triángulo ocupa la mitad de un paralelogramo con la misma base y altura."
+          ],
+          [
+            "Unidades",
+            "¿Cuál de estas es una unidad de longitud?",
+            [
+              "cm²",
+              "m²",
+              "cm",
+              "cm³"
+            ],
+            2,
+            "Los centímetros (cm) miden longitudes; cm² mide superficies."
+          ],
+          [
+            "Unidades",
+            "¿Cuál de estas es una unidad de superficie?",
+            [
+              "km",
+              "m",
+              "cm²",
+              "litro"
+            ],
+            2,
+            "La superficie se expresa con unidades cuadradas, como cm²."
+          ],
+          [
+            "Unidades",
+            "Si calculas el área con medidas en metros, ¿en qué unidad queda el resultado?",
+            [
+              "m",
+              "m²",
+              "cm",
+              "kg"
+            ],
+            1,
+            "Al multiplicar metros por metros obtenemos metros cuadrados."
+          ],
+          [
+            "Unidades",
+            "¿Por qué hay que convertir todas las medidas a la misma unidad antes de calcular?",
+            [
+              "Para que las operaciones comparen magnitudes compatibles",
+              "Porque el perímetro siempre se mide en kilómetros",
+              "Porque no se puede usar una regla",
+              "Porque el área no tiene unidades"
+            ],
+            0,
+            "No debemos mezclar, por ejemplo, metros con centímetros sin convertirlos."
+          ],
+          [
+            "Cuadriláteros",
+            "¿Cuántos lados tiene un cuadrilátero?",
+            [
+              "Tres",
+              "Cuatro",
+              "Cinco",
+              "Seis"
+            ],
+            1,
+            "Un cuadrilátero es un polígono de cuatro lados."
+          ],
+          [
+            "Cuadriláteros",
+            "¿Qué caracteriza a un cuadrado?",
+            [
+              "Cuatro lados iguales y cuatro ángulos rectos",
+              "Solo dos lados iguales",
+              "Tres ángulos rectos",
+              "Cuatro lados diferentes"
+            ],
+            0,
+            "Todos sus lados miden lo mismo y sus cuatro ángulos son de 90°."
+          ],
+          [
+            "Cuadriláteros",
+            "¿Qué caracteriza a un rectángulo?",
+            [
+              "Tiene cuatro ángulos rectos",
+              "Tiene tres lados",
+              "Sus diagonales siempre están fuera",
+              "No tiene lados paralelos"
+            ],
+            0,
+            "Un rectángulo tiene cuatro ángulos de 90°."
+          ],
+          [
+            "Cuadriláteros",
+            "¿Qué es una diagonal de un polígono?",
+            [
+              "Un segmento que une dos vértices no consecutivos",
+              "Cualquier lado",
+              "Una línea que divide un ángulo en dos siempre",
+              "El perímetro completo"
+            ],
+            0,
+            "Una diagonal conecta vértices no consecutivos."
+          ],
+          [
+            "Geometría",
+            "¿Qué significa que dos rectas sean perpendiculares?",
+            [
+              "Que nunca se cortan",
+              "Que al cortarse forman ángulos de 90°",
+              "Que son la misma recta",
+              "Que forman únicamente ángulos de 60°"
+            ],
+            1,
+            "Dos rectas perpendiculares forman cuatro ángulos rectos al cortarse."
+          ],
+          [
+            "Geometría",
+            "¿Qué significa que dos rectas sean paralelas en un plano?",
+            [
+              "Que se cortan en un punto",
+              "Que no se cortan aunque se prolonguen",
+              "Que forman siempre 90°",
+              "Que miden lo mismo"
+            ],
+            1,
+            "Las rectas paralelas no tienen puntos de corte."
           ]
         ]
       }
