@@ -3314,1370 +3314,1202 @@
       {
         "id": "t1",
         "title": "Tema 1 · El método científico",
-        "desc": "Observación, hipótesis, experimentos, tablas, gráficos y material de laboratorio",
+        "desc": "Fases del método científico, hipótesis, experimentos, gráficas, instrumentos y seguridad",
         "questions": [
           [
             "Método científico",
-            "¿Qué es el método científico?",
+            "Ainara observa que dos plantas de la misma especie crecen de forma diferente. ¿En qué fase está?",
             [
-              "Una forma ordenada de investigar problemas",
-              "Una lista de materiales",
-              "Un tipo de gráfico",
-              "Una opinión sin pruebas"
-            ],
-            0,
-            "Es una manera ordenada de investigar mediante observaciones, preguntas, pruebas y análisis de datos."
-          ],
-          [
-            "Observación",
-            "¿Cuál es el primer paso del método científico según los apuntes?",
-            [
-              "Comunicación",
               "Observación",
-              "Experimento",
-              "Conclusión"
-            ],
-            1,
-            "Primero observamos un fenómeno y reunimos información."
-          ],
-          [
-            "Pregunta",
-            "Después de observar un fenómeno, ¿qué hacemos?",
-            [
-              "Formular una pregunta",
-              "Publicar conclusiones",
-              "Elegir un gráfico",
-              "Guardar los materiales"
+              "Conclusión",
+              "Comunicación",
+              "Hipótesis"
             ],
             0,
-            "La pregunta expresa lo que queremos averiguar."
+            "Está describiendo un fenómeno antes de buscar sus causas."
           ],
           [
-            "Hipótesis",
+            "Método científico",
+            "¿Qué pregunta se puede investigar mediante el método científico?",
+            [
+              "¿Cuál es la flor más bonita?",
+              "¿Qué planta me gusta más?",
+              "¿Es divertida la jardinería?",
+              "¿Influye la cantidad de agua en el crecimiento de una planta?"
+            ],
+            3,
+            "Debe ser una pregunta que se pueda comprobar con observaciones y mediciones."
+          ],
+          [
+            "Método científico",
             "¿Qué es una hipótesis?",
             [
-              "Un resultado definitivo",
-              "Una posible explicación que se puede comprobar",
-              "Una tabla",
-              "Una medida"
+              "Una tabla con los resultados",
+              "Una conclusión que no necesita pruebas",
+              "Una explicación posible que puede ponerse a prueba",
+              "La prueba definitiva de una teoría"
             ],
-            1,
-            "Es una explicación o predicción provisional que debe ponerse a prueba."
-          ],
-          [
-            "Experimento",
-            "¿Para qué sirve un experimento?",
-            [
-              "Para comprobar una hipótesis",
-              "Para sustituir la observación",
-              "Para no tomar datos",
-              "Para dibujar gráficos sin medir"
-            ],
-            0,
-            "El experimento permite poner a prueba una hipótesis."
-          ],
-          [
-            "Resultados",
-            "¿Qué hacemos en la fase de resultados y análisis?",
-            [
-              "Inventamos datos",
-              "Registramos y analizamos lo observado",
-              "Ignoramos las mediciones",
-              "Elegimos la hipótesis antes de investigar"
-            ],
-            1,
-            "Registramos medidas y observaciones para interpretarlas."
-          ],
-          [
-            "Conclusión",
-            "¿Qué se hace al llegar a la conclusión?",
-            [
-              "Se comprueba qué indican los resultados sobre la hipótesis",
-              "Se borran las observaciones",
-              "Se cambia el problema sin explicarlo",
-              "Se omiten los datos"
-            ],
-            0,
-            "La conclusión debe basarse en los resultados obtenidos."
-          ],
-          [
-            "Comunicación",
-            "¿Por qué es importante comunicar una investigación?",
-            [
-              "Para que otras personas conozcan y revisen lo descubierto",
-              "Para evitar que se repita el estudio",
-              "Para ocultar errores",
-              "Para no explicar el experimento"
-            ],
-            0,
-            "Compartir métodos y resultados permite contrastarlos y aprender de ellos."
+            2,
+            "La hipótesis es una predicción o explicación provisional."
           ],
           [
             "Método científico",
-            "¿Cuál es el orden correcto?",
+            "¿Qué se hace después de formular una hipótesis?",
             [
-              "Hipótesis, conclusión, observación",
-              "Observación, pregunta, hipótesis, experimento, resultados, conclusión y comunicación",
-              "Comunicación, experimento, pregunta",
-              "Resultados, conclusión, observación"
+              "Elegir colores para la gráfica",
+              "Diseñar una experiencia para comprobarla",
+              "Publicar una conclusión definitiva",
+              "Descartar todos los datos"
             ],
             1,
-            "Este es el orden de pasos recogido en los apuntes."
-          ],
-          [
-            "Observación",
-            "Ves que una planta cerca de la ventana crece más. ¿Qué estás haciendo?",
-            [
-              "Observando",
-              "Concluyendo definitivamente",
-              "Comunicando",
-              "Eligiendo unidades"
-            ],
-            0,
-            "Detectar una diferencia es una observación inicial."
-          ],
-          [
-            "Pregunta",
-            "¿Cuál es una buena pregunta científica sobre una planta?",
-            [
-              "¿Es la planta más bonita?",
-              "¿Crece más con mayor cantidad de luz?",
-              "¿Es mi planta favorita?",
-              "¿Me gusta su color?"
-            ],
-            1,
-            "Una pregunta científica puede investigarse mediante mediciones."
-          ],
-          [
-            "Hipótesis",
-            "¿Cuál es una hipótesis comprobable?",
-            [
-              "Las plantas son geniales",
-              "Si recibe más luz, la planta crecerá más",
-              "No hace falta observar plantas",
-              "Mi maceta es la más bonita"
-            ],
-            1,
-            "Se puede comprobar comparando el crecimiento de plantas bajo distintas condiciones de luz."
-          ],
-          [
-            "Experimento",
-            "Para comprobar si el agua influye en el crecimiento, ¿qué podrías cambiar?",
-            [
-              "La cantidad de agua",
-              "El nombre de la planta",
-              "La fecha escrita en el cuaderno",
-              "El color del lápiz"
-            ],
-            0,
-            "Se puede variar la cantidad de agua y mantener iguales las demás condiciones."
-          ],
-          [
-            "Experimento",
-            "Si comparas dos plantas, ¿qué conviene mantener igual además de la variable que estudias?",
-            [
-              "Las condiciones restantes, como especie y luz",
-              "Todo diferente",
-              "Solo el color del cuaderno",
-              "Nada"
-            ],
-            0,
-            "Controlar las condiciones ayuda a interpretar los resultados."
-          ],
-          [
-            "Experimento",
-            "¿Qué es repetir un experimento?",
-            [
-              "Hacerlo otra vez para comprobar resultados",
-              "Copiar la conclusión",
-              "No medir",
-              "Cambiar la pregunta cada vez"
-            ],
-            0,
-            "Repetir pruebas permite detectar errores y comprobar la fiabilidad."
-          ],
-          [
-            "Datos",
-            "¿Qué es un dato de una investigación?",
-            [
-              "Una información recogida durante el estudio",
-              "Una idea imaginada",
-              "Un dibujo decorativo",
-              "Una respuesta sin comprobar"
-            ],
-            0,
-            "Los datos pueden ser medidas u observaciones."
-          ],
-          [
-            "Tablas",
-            "¿Para qué sirven las tablas?",
-            [
-              "Para organizar y mostrar información ordenadamente",
-              "Para demostrar algo sin pruebas",
-              "Para reemplazar cualquier experimento",
-              "Para ocultar resultados"
-            ],
-            0,
-            "Las tablas presentan datos en filas y columnas."
-          ],
-          [
-            "Tablas",
-            "¿Qué es una fila en una tabla?",
-            [
-              "Un conjunto horizontal de casillas",
-              "Un conjunto vertical",
-              "El título",
-              "Un dibujo"
-            ],
-            0,
-            "Las filas van de izquierda a derecha."
-          ],
-          [
-            "Tablas",
-            "¿Qué es una columna en una tabla?",
-            [
-              "Un conjunto vertical de casillas",
-              "Una línea horizontal",
-              "El título de una investigación",
-              "Un gráfico circular"
-            ],
-            0,
-            "Las columnas van de arriba hacia abajo."
-          ],
-          [
-            "Tablas",
-            "Una tabla de crecimiento indica «Día» y «Altura (cm)». ¿Qué representa «cm»?",
-            [
-              "La unidad en que se mide la altura",
-              "El nombre de la planta",
-              "El número de experimentos",
-              "El tipo de gráfico"
-            ],
-            0,
-            "La altura se expresa en centímetros."
-          ],
-          [
-            "Tablas",
-            "Si una planta mide 3 cm el día 1 y 6 cm el día 3, ¿cuánto creció?",
-            [
-              "3 cm",
-              "9 cm",
-              "2 cm",
-              "6 cm"
-            ],
-            0,
-            "Restamos 6 − 3 = 3 cm."
-          ],
-          [
-            "Gráficos",
-            "¿Para qué sirven los gráficos?",
-            [
-              "Para representar datos visualmente",
-              "Para evitar registrar datos",
-              "Para decorar sin información",
-              "Para cambiar los resultados"
-            ],
-            0,
-            "Permiten observar relaciones, cambios y comparaciones."
-          ],
-          [
-            "Gráficos",
-            "¿Qué gráfico suele utilizarse para comparar cantidades entre categorías?",
-            [
-              "Gráfico de barras",
-              "Gráfico circular siempre",
-              "Mapa político",
-              "Diagrama eléctrico"
-            ],
-            0,
-            "Las barras permiten comparar cantidades entre grupos."
-          ],
-          [
-            "Gráficos",
-            "¿Qué gráfico suele mostrar cómo cambia algo a lo largo del tiempo?",
-            [
-              "Gráfico de líneas",
-              "Gráfico circular",
-              "Un dibujo libre",
-              "Una brújula"
-            ],
-            0,
-            "Una línea permite seguir cambios a lo largo del tiempo."
-          ],
-          [
-            "Gráficos",
-            "¿Para qué sirve un gráfico circular o de pastel?",
-            [
-              "Mostrar partes de un total",
-              "Medir temperaturas",
-              "Registrar fechas exactamente",
-              "Medir la altura de una planta"
-            ],
-            0,
-            "Los sectores del círculo representan proporciones de un total."
-          ],
-          [
-            "Gráficos",
-            "Si un círculo representa toda una clase, ¿qué representa medio círculo?",
-            [
-              "La mitad de la clase",
-              "Toda la clase",
-              "Una cuarta parte",
-              "Ningún alumno"
-            ],
-            0,
-            "La mitad del círculo equivale al 50 % del total."
-          ],
-          [
-            "Gráficos",
-            "En un gráfico de crecimiento de plantas, ¿qué colocarías en el eje horizontal?",
-            [
-              "El tiempo (días)",
-              "El título del libro",
-              "Los nombres del grupo",
-              "La conclusión"
-            ],
-            0,
-            "El eje horizontal suele mostrar el tiempo."
-          ],
-          [
-            "Gráficos",
-            "En ese mismo gráfico, ¿qué colocarías en el eje vertical?",
-            [
-              "La altura de la planta (cm)",
-              "El día de la semana escrito como título",
-              "El nombre del experimento",
-              "El autor"
-            ],
-            0,
-            "El eje vertical representa la cantidad que cambia o se mide."
-          ],
-          [
-            "Gráficos",
-            "Si una línea sube conforme pasan los días, ¿qué indica sobre la altura?",
-            [
-              "Que aumenta",
-              "Que disminuye",
-              "Que no cambia nunca",
-              "Que no se midió"
-            ],
-            0,
-            "Una línea ascendente indica crecimiento."
-          ],
-          [
-            "Gráficos",
-            "Si en un gráfico una línea es horizontal entre dos días, ¿qué indica?",
-            [
-              "Que el valor se mantuvo constante",
-              "Que se duplicó",
-              "Que desapareció",
-              "Que cambió la unidad"
-            ],
-            0,
-            "Una línea horizontal refleja que el valor no varía."
-          ],
-          [
-            "Gráficos",
-            "¿Por qué un gráfico debe llevar título?",
-            [
-              "Para indicar qué datos representa",
-              "Para hacerlo más largo",
-              "Para ocultar unidades",
-              "Porque todos los gráficos son circulares"
-            ],
-            0,
-            "El título informa del contenido del gráfico."
-          ],
-          [
-            "Gráficos",
-            "¿Qué debemos indicar junto a las magnitudes de un gráfico?",
-            [
-              "Las unidades de medida",
-              "El nombre de la profesora siempre",
-              "La opinión de quien mide",
-              "El color favorito"
-            ],
-            0,
-            "Las unidades permiten interpretar correctamente las cantidades."
-          ],
-          [
-            "Experimento de las galletas",
-            "¿Qué querían investigar los niños del ejemplo de los apuntes?",
-            [
-              "Si el calor hacía que unas galletas se desmoronaran más rápido",
-              "Si las galletas eran más bonitas",
-              "Si una planta crecía mejor",
-              "Si un gráfico era circular"
-            ],
-            0,
-            "La pregunta relacionaba el calor con la rapidez con que se desmoronaban las galletas."
-          ],
-          [
-            "Experimento de las galletas",
-            "En el experimento, ¿dónde colocaron un grupo de galletas?",
-            [
-              "Junto al radiador",
-              "En el congelador",
-              "En un río",
-              "En un armario cerrado"
-            ],
-            0,
-            "Compararon galletas cerca del radiador con otras en un lugar fresco."
-          ],
-          [
-            "Experimento de las galletas",
-            "¿Qué observaron en las galletas cercanas al radiador?",
-            [
-              "Se desmoronaron más rápido",
-              "Se hicieron más grandes",
-              "Se congelaron",
-              "No cambiaron"
-            ],
-            0,
-            "Según el ejemplo, el calor aceleró su desmoronamiento."
-          ],
-          [
-            "Experimento de las galletas",
-            "¿Qué función tenía el grupo de galletas colocado en un lugar fresco?",
-            [
-              "Servir de comparación",
-              "Ser otro tipo de gráfico",
-              "Evitar la hipótesis",
-              "Medir una planta"
-            ],
-            0,
-            "Comparar ambos grupos ayuda a determinar si la temperatura influye."
-          ],
-          [
-            "Instrumentos",
-            "¿Para qué sirve un microscopio?",
-            [
-              "Observar objetos muy pequeños",
-              "Medir la masa",
-              "Medir el tiempo",
-              "Medir el volumen de agua"
-            ],
-            0,
-            "El microscopio permite observar detalles que no distinguimos a simple vista."
-          ],
-          [
-            "Instrumentos",
-            "¿Qué instrumento sirve para medir el tiempo de un experimento?",
-            [
-              "Cronómetro",
-              "Probeta",
-              "Balanza",
-              "Microscopio"
-            ],
-            0,
-            "El cronómetro mide intervalos de tiempo."
-          ],
-          [
-            "Instrumentos",
-            "¿Qué instrumento usamos para medir masa?",
-            [
-              "Balanza",
-              "Regla",
-              "Lupa",
-              "Cronómetro"
-            ],
-            0,
-            "La balanza permite medir la masa."
-          ],
-          [
-            "Instrumentos",
-            "¿Para qué se usa una probeta graduada?",
-            [
-              "Para medir volúmenes de líquidos",
-              "Para medir la altura de un árbol",
-              "Para contar días",
-              "Para observar bacterias"
-            ],
-            0,
-            "La probeta graduada tiene marcas para medir volúmenes."
-          ],
-          [
-            "Instrumentos",
-            "¿Qué instrumento ayuda a medir longitudes?",
-            [
-              "Regla",
-              "Embudo",
-              "Mechero",
-              "Reloj"
-            ],
-            0,
-            "La regla permite medir distancias pequeñas."
-          ],
-          [
-            "Laboratorio",
-            "¿Por qué es importante conocer las normas de seguridad?",
-            [
-              "Para evitar accidentes",
-              "Para terminar antes sin cuidado",
-              "Para no registrar datos",
-              "Para cambiar las hipótesis"
-            ],
-            0,
-            "Las normas de seguridad protegen a las personas durante la investigación."
-          ],
-          [
-            "Laboratorio",
-            "¿Qué debes hacer antes de usar un material desconocido?",
-            [
-              "Pedir indicaciones al docente",
-              "Utilizarlo sin preguntar",
-              "Mezclar sustancias al azar",
-              "Probar su contenido"
-            ],
-            0,
-            "Se deben seguir las instrucciones del profesorado."
-          ],
-          [
-            "Laboratorio",
-            "¿Qué debes hacer si se rompe un objeto de vidrio?",
-            [
-              "Avisar al profesor o profesora",
-              "Recogerlo con las manos sin protección",
-              "Esconderlo",
-              "Continuar como si nada"
-            ],
-            0,
-            "Se debe avisar para recogerlo de forma segura."
-          ],
-          [
-            "Investigación",
-            "¿Qué harías si los resultados no apoyan tu hipótesis?",
-            [
-              "Revisar la hipótesis y explicar los resultados reales",
-              "Inventar resultados",
-              "Borrar el experimento",
-              "Afirmar igualmente que acertaste"
-            ],
-            0,
-            "La ciencia se basa en los datos, aunque contradigan nuestras ideas."
-          ],
-          [
-            "Investigación",
-            "Si una planta crece 2, 4, 6 y 8 cm en cuatro días, ¿qué gráfico es útil?",
-            [
-              "De líneas",
-              "Circular",
-              "Un organigrama",
-              "Un mapa de relieve"
-            ],
-            0,
-            "El gráfico de líneas muestra claramente su evolución en el tiempo."
-          ],
-          [
-            "Investigación",
-            "Si 12 alumnos prefieren manzanas y 8 prefieren peras, ¿qué tipo de gráfico facilita compararlos?",
-            [
-              "De barras",
-              "De líneas para crecimiento",
-              "Mapa meteorológico",
-              "Ninguno"
-            ],
-            0,
-            "Las barras permiten comparar cuántos alumnos eligen cada fruta."
-          ],
-          [
-            "Investigación",
-            "¿Qué es más fiable al comparar el crecimiento de plantas?",
-            [
-              "Medir cada día a la misma hora y registrar los datos",
-              "Recordar las alturas de memoria",
-              "Cambiar todas las condiciones diariamente",
-              "Adivinar el resultado"
-            ],
-            0,
-            "Medir de forma constante y registrar observaciones reduce errores."
+            "La experimentación pone a prueba la hipótesis."
           ],
           [
             "Método científico",
-            "¿Qué viene después de analizar los resultados?",
+            "En un experimento sobre la luz, ¿qué debe modificarse entre dos grupos de plantas?",
+            [
+              "La cantidad de luz",
+              "La especie, el agua y la luz a la vez",
+              "El tamaño de las macetas y el fertilizante a la vez",
+              "Todas las condiciones posibles"
+            ],
+            0,
+            "Cambiar una sola condición permite interpretar mejor el efecto de la luz."
+          ],
+          [
+            "Método científico",
+            "¿Para qué se repiten las mediciones de un experimento?",
+            [
+              "Para evitar escribir resultados",
+              "Para asegurar que siempre salga lo esperado",
+              "Para sustituir la hipótesis",
+              "Para reducir errores y mejorar la fiabilidad"
+            ],
+            3,
+            "Repetir medidas ayuda a detectar variaciones y errores."
+          ],
+          [
+            "Método científico",
+            "Si el resultado contradice la hipótesis, ¿qué debe hacer el científico?",
+            [
+              "Modificar los resultados",
+              "Decir que la hipótesis era cierta igualmente",
+              "Explicar lo observado y revisar la hipótesis",
+              "Ocultar las medidas"
+            ],
+            2,
+            "Las conclusiones deben basarse en evidencias."
+          ],
+          [
+            "Método científico",
+            "¿En qué fase se decide si los resultados apoyan o no la hipótesis?",
+            [
+              "Preparación de material",
+              "Conclusiones",
+              "Observación inicial",
+              "Planteamiento de problema"
+            ],
+            1,
+            "Se interpretan los resultados y se valora la hipótesis."
+          ],
+          [
+            "Método científico",
+            "¿Qué se comparte en la fase de comunicación?",
+            [
+              "Procedimiento, resultados y conclusiones",
+              "Solo el título del experimento",
+              "Únicamente los nombres del grupo",
+              "Las ideas iniciales sin las pruebas"
+            ],
+            0,
+            "La comunicación permite que otras personas revisen la investigación."
+          ],
+          [
+            "Método científico",
+            "¿Cuál es el orden correcto de las primeras tres fases?",
+            [
+              "Hipótesis, conclusión y observación",
+              "Experimento, comunicación y pregunta",
+              "Conclusión, datos y pregunta",
+              "Observación, pregunta e hipótesis"
+            ],
+            3,
+            "Primero observamos, después planteamos el problema y proponemos una hipótesis."
+          ],
+          [
+            "Tablas y gráficos",
+            "Para estudiar la altura de una planta durante una semana, ¿qué pondrías normalmente en el eje X?",
             [
               "La conclusión",
-              "La primera observación obligatoriamente",
-              "Comprar materiales",
-              "Elegir otra tabla"
+              "La temperatura final",
+              "Los días transcurridos",
+              "La altura en centímetros"
             ],
-            0,
-            "La conclusión resume qué indican los resultados."
+            2,
+            "El eje horizontal suele recoger la variable que se modifica o controla, como el tiempo."
           ],
           [
-            "Método científico",
-            "¿Qué paso permite que otras personas conozcan lo aprendido?",
+            "Tablas y gráficos",
+            "En el ejemplo anterior, ¿qué va en el eje Y?",
             [
-              "La comunicación",
-              "La balanza",
-              "La hipótesis sin comprobar",
-              "El control de una variable"
+              "El número de páginas",
+              "La altura de la planta en centímetros",
+              "Los días transcurridos",
+              "El nombre del alumno"
+            ],
+            1,
+            "El eje vertical representa la variable medida."
+          ],
+          [
+            "Tablas y gráficos",
+            "¿Qué debe acompañar a la altura de una planta en una tabla?",
+            [
+              "Su unidad de medida, por ejemplo cm",
+              "Solo el nombre del científico",
+              "La hipótesis como número",
+              "Un dibujo de la maceta"
             ],
             0,
-            "La comunicación difunde los resultados y conclusiones."
+            "Una tabla debe indicar magnitudes y unidades."
+          ],
+          [
+            "Tablas y gráficos",
+            "¿Qué gráfico elegirías para representar cómo cambia la altura cada día?",
+            [
+              "Gráfico circular",
+              "Mapa meteorológico",
+              "Pictograma sin escala",
+              "Gráfico de líneas"
+            ],
+            3,
+            "Las líneas permiten seguir la evolución de una magnitud con el tiempo."
+          ],
+          [
+            "Tablas y gráficos",
+            "¿Qué gráfico es adecuado para comparar la cantidad de lluvia de cuatro ciudades?",
+            [
+              "Gráfico de líneas sin datos",
+              "Una fotografía",
+              "Gráfico de barras",
+              "Gráfico circular sin etiquetas"
+            ],
+            2,
+            "Las barras facilitan comparaciones entre categorías."
+          ],
+          [
+            "Tablas y gráficos",
+            "¿Para qué sirve un gráfico circular o de pastel?",
+            [
+              "Para representar solamente alturas",
+              "Para representar las partes de un total",
+              "Para medir directamente la presión",
+              "Para dibujar las capas de la atmósfera a escala"
+            ],
+            1,
+            "Sus sectores representan proporciones del total."
+          ],
+          [
+            "Tablas y gráficos",
+            "Una planta mide 4 cm el lunes y 9 cm el jueves. ¿Cuánto ha crecido?",
+            [
+              "5 cm",
+              "13 cm",
+              "4 cm",
+              "9 cm"
+            ],
+            0,
+            "Crecimiento = altura final menos altura inicial: 9 − 4 = 5 cm."
+          ],
+          [
+            "Tablas y gráficos",
+            "Una línea de crecimiento se mantiene horizontal entre dos días. ¿Qué significa?",
+            [
+              "Que la planta disminuyó su altura",
+              "Que creció exactamente el doble",
+              "Que la medición se hizo en kg",
+              "Que la altura no cambió en ese intervalo"
+            ],
+            3,
+            "Una línea horizontal indica que la variable medida se mantuvo estable."
+          ],
+          [
+            "Tablas y gráficos",
+            "¿Cuál de estos elementos es necesario para interpretar correctamente una gráfica?",
+            [
+              "Solo el nombre del grupo",
+              "Únicamente una leyenda sin datos",
+              "Título, ejes, unidades y escala",
+              "Solo colores llamativos"
+            ],
+            2,
+            "Los apuntes señalan título, nombres de ejes, unidades y escala adecuada."
+          ],
+          [
+            "Laboratorio",
+            "¿Qué instrumento usarías para medir el volumen de agua con precisión moderada?",
+            [
+              "Lupa binocular",
+              "Probeta",
+              "Balanza",
+              "Barómetro"
+            ],
+            1,
+            "La probeta mide volumen de líquidos mediante graduaciones."
+          ],
+          [
+            "Laboratorio",
+            "¿Qué instrumento sirve para transferir pequeñas cantidades de líquido?",
+            [
+              "Pipeta o cuentagotas",
+              "Matraz de Erlenmeyer",
+              "Microscopio",
+              "Termómetro"
+            ],
+            0,
+            "La pipeta permite trasladar pequeñas cantidades de líquido."
+          ],
+          [
+            "Laboratorio",
+            "¿Qué material es apropiado para mezclar líquidos reduciendo las salpicaduras?",
+            [
+              "Lupa binocular",
+              "Veleta",
+              "Cronómetro",
+              "Matraz Erlenmeyer"
+            ],
+            3,
+            "La forma del matraz Erlenmeyer ayuda a reducir salpicaduras."
+          ],
+          [
+            "Laboratorio",
+            "¿Qué instrumento permite observar seres diminutos que no distinguimos a simple vista?",
+            [
+              "Barómetro",
+              "Balanza",
+              "Microscopio",
+              "Pluviómetro"
+            ],
+            2,
+            "El microscopio amplía detalles de objetos o seres muy pequeños."
+          ],
+          [
+            "Laboratorio",
+            "¿Qué usarías para medir la masa de una muestra?",
+            [
+              "Pipeta",
+              "Balanza",
+              "Termómetro",
+              "Anemómetro"
+            ],
+            1,
+            "La balanza mide la masa."
+          ],
+          [
+            "Laboratorio",
+            "¿Con qué instrumento se mide la temperatura de un líquido?",
+            [
+              "Termómetro",
+              "Probeta",
+              "Veleta",
+              "Vaso de precipitados"
+            ],
+            0,
+            "El termómetro sirve para medir temperatura."
+          ],
+          [
+            "Laboratorio",
+            "¿Para qué sirve principalmente el vaso de precipitados?",
+            [
+              "Medir volúmenes con gran precisión",
+              "Medir el viento",
+              "Observar células",
+              "Contener, mezclar o calentar líquidos"
+            ],
+            3,
+            "En los apuntes se indica que no se utiliza para mediciones precisas."
+          ],
+          [
+            "Seguridad",
+            "Si se derrama una sustancia en el laboratorio, ¿qué debes hacer?",
+            [
+              "Olerla directamente",
+              "Mezclarla con otro producto",
+              "Avisar inmediatamente al profesorado",
+              "Tocarla para averiguar qué es"
+            ],
+            2,
+            "Cualquier derrame o accidente debe comunicarse de inmediato."
+          ],
+          [
+            "Seguridad",
+            "¿Qué está prohibido en el laboratorio?",
+            [
+              "Mantener la mesa ordenada",
+              "Comer o beber",
+              "Leer las etiquetas",
+              "Usar gafas de protección"
+            ],
+            1,
+            "Las normas prohíben comer y beber en el laboratorio."
+          ],
+          [
+            "Seguridad",
+            "Antes de utilizar una sustancia, ¿qué debes comprobar?",
+            [
+              "La etiqueta y los pictogramas",
+              "Solo el color del envase",
+              "Su olor directamente",
+              "Si combina bien con otra sustancia"
+            ],
+            0,
+            "Las etiquetas y los pictogramas informan sobre riesgos."
+          ],
+          [
+            "Seguridad",
+            "¿Cuándo debe usarse bata, guantes o gafas?",
+            [
+              "Solo después de un accidente",
+              "Únicamente en una prueba escrita",
+              "Nunca, porque dificultan el trabajo",
+              "Cuando lo requieran las normas y el trabajo"
+            ],
+            3,
+            "El equipo de protección se usa cuando es necesario."
+          ],
+          [
+            "Seguridad",
+            "¿Qué se debe hacer con la mesa durante un experimento?",
+            [
+              "Amontonar productos sin etiquetar",
+              "Dejar derrames sin avisar",
+              "Mantenerla ordenada",
+              "Colocar comida junto a los reactivos"
+            ],
+            2,
+            "El orden facilita trabajar con seguridad."
+          ],
+          [
+            "Aplicación",
+            "Un grupo anota alturas 2, 4, 6 y 8 cm en días sucesivos. ¿Qué conclusión describen los datos?",
+            [
+              "La altura creció 8 cm en cada medición",
+              "La altura aumentó 2 cm entre cada medición",
+              "La altura se mantuvo constante",
+              "La altura disminuyó 2 cm cada día"
+            ],
+            1,
+            "Las diferencias sucesivas son 4 − 2 = 2, 6 − 4 = 2 y 8 − 6 = 2 cm."
+          ],
+          [
+            "Aplicación",
+            "Si un experimento estudia si la temperatura cambia la disolución del azúcar, ¿qué conviene mantener igual?",
+            [
+              "Cantidad de agua y cantidad de azúcar",
+              "Solo el color del vaso",
+              "La temperatura y todas las condiciones",
+              "El tiempo de reloj sin medirlo"
+            ],
+            0,
+            "Se modifica la temperatura y se controlan las demás variables."
+          ],
+          [
+            "Aplicación",
+            "¿Qué afirmación es una conclusión basada en datos?",
+            [
+              "Esta planta es la más bonita",
+              "Seguro que siempre pasará lo mismo sin probarlo",
+              "La hipótesis es cierta porque me gusta",
+              "En tres pruebas, la planta con más agua creció menos"
+            ],
+            3,
+            "Una conclusión debe relacionarse con las observaciones obtenidas."
+          ],
+          [
+            "Aplicación",
+            "¿Por qué no basta con dibujar una gráfica sin conservar los datos?",
+            [
+              "Porque toda gráfica es incorrecta",
+              "Porque las tablas solo sirven en matemáticas",
+              "Porque la gráfica ayuda a interpretarlos, pero no los sustituye",
+              "Porque los ejes no tienen significado"
+            ],
+            2,
+            "En los apuntes se recalca que la gráfica no sustituye a los datos."
+          ],
+          [
+            "Aplicación",
+            "¿Para qué sirve la lupa binocular del laboratorio?",
+            [
+              "Para transferir líquidos",
+              "Para observar aumentados objetos relativamente grandes",
+              "Para medir presión atmosférica",
+              "Para medir masa"
+            ],
+            1,
+            "La lupa binocular permite observar detalles de rocas, hojas y pequeños animales."
           ]
         ]
       },
       {
         "id": "t2",
-        "title": "Tema 2 · La atmósfera",
-        "desc": "Composición y capas del aire, meteorología, presión, viento, gases, efecto invernadero, ozono y contaminación",
+        "title": "Tema 2 · La atmósfera y la meteorología",
+        "desc": "Composición del aire, capas, instrumentos y datos meteorológicos, isobaras, fotosíntesis, respiración y contaminación",
         "questions": [
           [
-            "Atmósfera",
+            "Composición del aire",
             "¿Qué es la atmósfera?",
             [
               "La envoltura gaseosa que rodea la Tierra",
-              "La capa sólida exterior terrestre",
-              "Toda el agua del planeta",
-              "El conjunto de los seres vivos"
+              "La capa sólida exterior",
+              "Solo el vapor de agua",
+              "La parte líquida del planeta"
             ],
             0,
-            "Es la envoltura de gases alrededor de la Tierra."
-          ],
-          [
-            "Atmósfera",
-            "¿Qué ciencia estudia la atmósfera y sus fenómenos?",
-            [
-              "Geología",
-              "Meteorología",
-              "Botánica",
-              "Cartografía"
-            ],
-            1,
-            "La meteorología estudia la atmósfera y fenómenos como lluvia y viento."
-          ],
-          [
-            "Atmósfera",
-            "¿Qué función cumple la atmósfera para la vida?",
-            [
-              "Impide todos los rayos solares",
-              "Contiene gases necesarios y ayuda a regular la temperatura",
-              "Elimina todas las nubes",
-              "Hace que la Tierra no gire"
-            ],
-            1,
-            "Contiene gases importantes, participa en el ciclo del agua y ayuda a regular la temperatura."
+            "La atmósfera está formada por gases que rodean la Tierra."
           ],
           [
             "Composición del aire",
-            "¿Cuál es el gas más abundante del aire?",
+            "¿Qué gas es el más abundante del aire?",
             [
               "Oxígeno",
+              "Argón",
               "Dióxido de carbono",
-              "Nitrógeno",
-              "Ozono"
+              "Nitrógeno"
             ],
-            2,
+            3,
             "El nitrógeno representa aproximadamente el 78 % del aire."
           ],
           [
             "Composición del aire",
-            "¿Qué porcentaje aproximado del aire corresponde al nitrógeno?",
+            "¿Qué proporción aproximada de aire es nitrógeno?",
             [
-              "21 %",
-              "78 %",
               "1 %",
-              "0,04 %"
-            ],
-            1,
-            "El nitrógeno constituye aproximadamente el 78 %."
-          ],
-          [
-            "Composición del aire",
-            "¿Qué porcentaje aproximado del aire corresponde al oxígeno?",
-            [
-              "78 %",
               "0,04 %",
-              "21 %",
-              "50 %"
+              "78 %",
+              "21 %"
             ],
             2,
-            "El oxígeno constituye cerca del 21 % del aire."
+            "Los apuntes indican alrededor del 78 % de N₂."
           ],
           [
             "Composición del aire",
-            "¿Qué gas se necesita para la respiración aerobia?",
+            "¿Qué porcentaje del aire es oxígeno aproximadamente?",
             [
-              "Oxígeno",
-              "Argón",
-              "Helio",
-              "Metano"
+              "0,04 %",
+              "21 %",
+              "78 %",
+              "1 %"
+            ],
+            1,
+            "El oxígeno representa aproximadamente el 21 % del aire."
+          ],
+          [
+            "Composición del aire",
+            "¿Qué proporción aproximada corresponde al dióxido de carbono?",
+            [
+              "0,04 %",
+              "21 %",
+              "78 %",
+              "10 %"
             ],
             0,
-            "La respiración aerobia utiliza oxígeno."
+            "El CO₂ representa una proporción pequeña, alrededor del 0,04 % en los apuntes."
           ],
           [
             "Composición del aire",
-            "¿Qué proporción aproximada tiene el CO₂ en el aire, según los apuntes?",
+            "¿Cuánto representan conjuntamente el argón y otros gases aproximadamente?",
             [
               "21 %",
               "78 %",
-              "0,04 %",
-              "25 %"
+              "50 %",
+              "1 %"
             ],
-            2,
-            "En el resumen de clase figura alrededor de 0,04 %."
-          ],
-          [
-            "Composición del aire",
-            "¿Qué gas utilizan las plantas para realizar la fotosíntesis?",
-            [
-              "Nitrógeno",
-              "Dióxido de carbono",
-              "Argón",
-              "Ozono"
-            ],
-            1,
-            "Durante la fotosíntesis las plantas toman CO₂."
+            3,
+            "Los apuntes agrupan argón y otros gases en torno al 1 %."
           ],
           [
             "Composición del aire",
             "¿Qué componente del aire varía mucho con la humedad?",
             [
-              "Vapor de agua",
-              "Nitrógeno",
+              "Argón",
               "Oxígeno",
-              "Argón"
+              "Vapor de agua",
+              "Nitrógeno"
             ],
-            0,
-            "La cantidad de vapor de agua es variable y está relacionada con humedad y nubes."
+            2,
+            "El vapor de agua tiene una cantidad variable."
           ],
           [
             "Composición del aire",
-            "¿Qué gas participa en el efecto invernadero y en la formación de nubes?",
+            "¿Cuál de estos gases es esencial para la respiración aerobia?",
             [
-              "Vapor de agua",
+              "Nitrógeno",
+              "Oxígeno",
               "Argón",
-              "Helio",
-              "Neón"
-            ],
-            0,
-            "El vapor de agua es un gas de efecto invernadero y puede condensarse para formar nubes."
-          ],
-          [
-            "Capas de la atmósfera",
-            "¿Cuál es la capa más próxima a la superficie terrestre?",
-            [
-              "Mesosfera",
-              "Troposfera",
-              "Termosfera",
-              "Exosfera"
+              "Ozono estratosférico"
             ],
             1,
-            "La troposfera es la capa más baja."
+            "La respiración aerobia necesita oxígeno."
           ],
           [
-            "Capas de la atmósfera",
-            "¿En qué capa se producen la mayoría de las nubes, vientos y precipitaciones?",
+            "Funciones de la atmósfera",
+            "¿Qué función de la atmósfera contribuye a que exista vida?",
             [
-              "Troposfera",
+              "Contener gases necesarios y regular la temperatura",
+              "Impedir cualquier precipitación",
+              "Detener todos los rayos solares",
+              "Eliminar por completo el ciclo del agua"
+            ],
+            0,
+            "La atmósfera contiene gases, ayuda a regular la temperatura y participa en el ciclo del agua."
+          ],
+          [
+            "Capas",
+            "¿Cuál es la capa atmosférica más cercana a la superficie?",
+            [
+              "Estratosfera",
+              "Mesosfera",
               "Exosfera",
+              "Troposfera"
+            ],
+            3,
+            "La troposfera se extiende aproximadamente de 0 a 12 km en los apuntes."
+          ],
+          [
+            "Capas",
+            "¿Entre qué altitudes se sitúa aproximadamente la troposfera?",
+            [
+              "50–85 km",
+              "80–500 km",
+              "0–12 km",
+              "12–50 km"
+            ],
+            2,
+            "En ella se concentra gran parte del aire y ocurren la mayoría de fenómenos meteorológicos."
+          ],
+          [
+            "Capas",
+            "¿En qué capa se forman la mayoría de las nubes, los vientos y las precipitaciones?",
+            [
+              "Exosfera",
+              "Troposfera",
               "Estratosfera",
               "Termosfera"
             ],
-            0,
-            "La mayor parte del tiempo meteorológico ocurre en la troposfera."
+            1,
+            "Los fenómenos meteorológicos se desarrollan sobre todo en la troposfera."
           ],
           [
-            "Capas de la atmósfera",
-            "¿Hasta qué altura aproximada llega la troposfera según los apuntes?",
+            "Capas",
+            "¿Qué capa aparece encima de la troposfera?",
+            [
+              "Estratosfera",
+              "Mesosfera",
+              "Exosfera",
+              "Termosfera"
+            ],
+            0,
+            "La estratosfera se extiende aproximadamente de 12 a 50 km."
+          ],
+          [
+            "Capas",
+            "¿Cuál es la altitud aproximada de la estratosfera?",
             [
               "0–12 km",
-              "12–50 km",
               "50–85 km",
-              "85–500 km"
+              "80–500 km",
+              "12–50 km"
             ],
-            0,
-            "En la tabla del tema figura aproximadamente entre 0 y 12 km."
+            3,
+            "Los apuntes sitúan la estratosfera entre los 12 y los 50 km."
           ],
           [
-            "Capas de la atmósfera",
-            "¿Qué capa se encuentra por encima de la troposfera?",
+            "Capas",
+            "¿Dónde se concentra la mayor parte del ozono atmosférico?",
             [
               "Exosfera",
-              "Estratosfera",
               "Mesosfera",
-              "Núcleo"
-            ],
-            1,
-            "La estratosfera se sitúa aproximadamente entre 12 y 50 km."
-          ],
-          [
-            "Capas de la atmósfera",
-            "¿En qué capa se concentra la mayor parte del ozono protector?",
-            [
               "Estratosfera",
-              "Troposfera",
-              "Exosfera",
-              "Mesosfera"
+              "Troposfera"
             ],
-            0,
-            "La capa de ozono se encuentra en la estratosfera."
+            2,
+            "La capa de ozono se encuentra principalmente en la estratosfera."
           ],
           [
-            "Capas de la atmósfera",
-            "¿Qué le ocurre a la temperatura al ascender en la troposfera?",
+            "Capas",
+            "¿Qué ocurre con la temperatura al ascender por la estratosfera?",
             [
-              "Aumenta siempre",
-              "Disminuye en general",
-              "No cambia",
-              "Se convierte en presión"
-            ],
-            1,
-            "En general la temperatura desciende al subir en la troposfera."
-          ],
-          [
-            "Capas de la atmósfera",
-            "¿Cómo cambia la temperatura al ascender en la estratosfera?",
-            [
+              "Baja hasta el cero absoluto",
               "Aumenta",
               "Disminuye siempre",
-              "Se mantiene a 0 °C",
-              "No existe temperatura"
+              "Se mantiene exactamente igual"
             ],
-            0,
-            "En la estratosfera la temperatura aumenta con la altitud."
+            1,
+            "Los apuntes indican que aumenta al ascender."
           ],
           [
-            "Capas de la atmósfera",
-            "¿En qué capa se desintegran muchos meteoroides?",
+            "Capas",
+            "¿Qué capa se encuentra aproximadamente entre los 50 y los 80–85 km?",
             [
               "Mesosfera",
-              "Troposfera",
               "Estratosfera",
+              "Troposfera",
               "Exosfera"
             ],
             0,
-            "Muchos meteoroides se desintegran en la mesosfera."
+            "En la mesosfera se desintegran muchos meteoroides."
           ],
           [
-            "Capas de la atmósfera",
-            "¿Qué capa se caracteriza por temperaturas muy elevadas y auroras?",
+            "Capas",
+            "¿Qué fenómeno se relaciona especialmente con la mesosfera?",
             [
+              "La formación habitual de las nubes de lluvia",
+              "La mayor concentración de ozono",
+              "La formación de océanos",
+              "La desintegración de muchos meteoroides"
+            ],
+            3,
+            "La mesosfera es una capa muy fría donde se desintegran muchos meteoroides."
+          ],
+          [
+            "Capas",
+            "¿Qué ocurre generalmente con la temperatura al ascender por la mesosfera?",
+            [
+              "No varía nunca",
+              "Es idéntica a la de la troposfera",
+              "Disminuye",
+              "Aumenta continuamente"
+            ],
+            2,
+            "Los apuntes indican una disminución de temperatura con la altura."
+          ],
+          [
+            "Capas",
+            "¿En qué capa se producen auroras?",
+            [
+              "Estratosfera",
               "Termosfera",
               "Troposfera",
-              "Mesosfera",
-              "Estratosfera"
+              "Mesosfera"
             ],
-            0,
-            "En la termosfera se producen auroras y pueden alcanzarse temperaturas elevadas."
+            1,
+            "Las auroras aparecen en regiones altas de la atmósfera, especialmente la termosfera."
           ],
           [
-            "Capas de la atmósfera",
-            "¿Qué capa constituye la transición hacia el espacio exterior?",
+            "Capas",
+            "¿Qué capa sirve de transición hacia el espacio exterior?",
             [
               "Exosfera",
-              "Mesosfera",
               "Troposfera",
+              "Mesosfera",
               "Estratosfera"
             ],
             0,
-            "La exosfera es la zona más externa."
+            "La exosfera es la región exterior, donde el gas es extremadamente poco denso."
           ],
           [
-            "Capas de la atmósfera",
-            "¿Cuál es el orden correcto de las capas desde el suelo?",
+            "Capas",
+            "¿Qué capa presenta temperaturas muy elevadas según los apuntes?",
             [
-              "Troposfera, estratosfera, mesosfera, termosfera, exosfera",
-              "Exosfera, troposfera, mesosfera, estratosfera, termosfera",
-              "Estratosfera, troposfera, termosfera, mesosfera, exosfera",
-              "Mesosfera, exosfera, troposfera, termosfera, estratosfera"
+              "Mesosfera",
+              "Troposfera",
+              "Exosfera como zona de lluvias",
+              "Termosfera"
             ],
-            0,
-            "Es el orden de las cinco capas en la tabla de clase."
+            3,
+            "En la termosfera la temperatura aumenta mucho con la altitud."
           ],
           [
             "Meteorología",
-            "¿Qué instrumento mide la temperatura?",
+            "¿Qué estudia la meteorología?",
             [
-              "Termómetro",
+              "Solo las rocas del subsuelo",
+              "Las órbitas de los planetas",
+              "La atmósfera y los fenómenos que ocurren en ella",
+              "Solo los volcanes"
+            ],
+            2,
+            "La meteorología estudia el tiempo atmosférico y permite elaborar predicciones."
+          ],
+          [
+            "Datos meteorológicos",
+            "¿Qué instrumento mide la temperatura del aire?",
+            [
               "Pluviómetro",
+              "Termómetro",
+              "Barómetro",
+              "Anemómetro"
+            ],
+            1,
+            "El termómetro registra la temperatura."
+          ],
+          [
+            "Datos meteorológicos",
+            "¿Qué instrumento mide la presión atmosférica?",
+            [
+              "Barómetro",
+              "Termómetro",
+              "Veleta",
+              "Higrómetro"
+            ],
+            0,
+            "La presión se mide con un barómetro."
+          ],
+          [
+            "Datos meteorológicos",
+            "¿Qué instrumento mide la velocidad del viento?",
+            [
+              "Veleta",
+              "Pluviómetro",
+              "Termómetro",
+              "Anemómetro"
+            ],
+            3,
+            "El anemómetro mide la velocidad del aire."
+          ],
+          [
+            "Datos meteorológicos",
+            "¿Qué indica la veleta?",
+            [
+              "La cantidad de lluvia",
+              "La humedad relativa",
+              "La dirección de procedencia del viento",
+              "La velocidad del viento"
+            ],
+            2,
+            "La veleta permite conocer de dónde viene el viento."
+          ],
+          [
+            "Datos meteorológicos",
+            "¿Con qué instrumento se mide la precipitación?",
+            [
+              "Barómetro",
+              "Pluviómetro",
+              "Higrómetro",
+              "Termómetro"
+            ],
+            1,
+            "El pluviómetro mide la cantidad de lluvia caída."
+          ],
+          [
+            "Datos meteorológicos",
+            "¿Qué instrumento mide la humedad del aire?",
+            [
+              "Higrómetro",
+              "Anemómetro",
               "Veleta",
               "Barómetro"
             ],
             0,
-            "El termómetro mide la temperatura del aire."
+            "El higrómetro se utiliza para medir la humedad."
           ],
           [
-            "Meteorología",
-            "¿Qué instrumento mide la presión atmosférica?",
+            "Datos meteorológicos",
+            "¿Qué instrumento usarías si quieres saber cuántos milímetros de lluvia han caído?",
             [
-              "Anemómetro",
               "Barómetro",
-              "Higrómetro",
-              "Probeta"
+              "Anemómetro",
+              "Veleta",
+              "Pluviómetro"
+            ],
+            3,
+            "La precipitación se expresa a menudo en milímetros y se mide con un pluviómetro."
+          ],
+          [
+            "Datos meteorológicos",
+            "Si una estación indica 15 °C, ¿qué magnitud está registrando?",
+            [
+              "Velocidad del viento",
+              "Precipitación",
+              "Temperatura",
+              "Presión"
+            ],
+            2,
+            "Los grados Celsius se usan para expresar temperatura."
+          ],
+          [
+            "Datos meteorológicos",
+            "Si una estación meteorológica registra 1015 hPa, ¿qué está midiendo?",
+            [
+              "Velocidad del viento",
+              "Presión atmosférica",
+              "Temperatura del aire",
+              "Precipitación"
             ],
             1,
-            "El barómetro se utiliza para medir la presión del aire."
+            "El hectopascal (hPa) es una unidad empleada para la presión atmosférica."
           ],
           [
-            "Meteorología",
-            "¿Qué mide un anemómetro?",
+            "Datos meteorológicos",
+            "Una veleta señala que el viento viene del norte. ¿Cómo se llama ese viento según su procedencia?",
             [
-              "La velocidad del viento",
-              "La dirección del viento",
-              "La humedad",
-              "Las precipitaciones"
+              "Viento del norte",
+              "Viento del sur",
+              "Viento del este",
+              "Viento del oeste"
             ],
             0,
+            "La dirección del viento indica de dónde procede, no hacia dónde va."
+          ],
+          [
+            "Datos meteorológicos",
+            "¿Qué par de instrumento y magnitud es correcto?",
+            [
+              "Veleta — presión atmosférica",
+              "Termómetro — precipitación",
+              "Barómetro — humedad",
+              "Anemómetro — velocidad del viento"
+            ],
+            3,
             "El anemómetro mide la velocidad del viento."
           ],
           [
-            "Meteorología",
-            "¿Para qué sirve una veleta?",
+            "Datos meteorológicos",
+            "¿Cuál de estos datos aporta información sobre la humedad?",
             [
-              "Para medir la lluvia",
-              "Para indicar de dónde procede el viento",
-              "Para medir la presión",
-              "Para medir la masa"
+              "1008 hPa de presión",
+              "5 mm de lluvia",
+              "65 % de humedad relativa",
+              "20 °C de temperatura"
             ],
-            1,
-            "La veleta indica la dirección del viento."
+            2,
+            "La humedad relativa suele expresarse en porcentaje."
           ],
           [
-            "Meteorología",
-            "¿Qué mide un pluviómetro?",
-            [
-              "Precipitaciones",
-              "Presión",
-              "Viento",
-              "Ozono"
-            ],
-            0,
-            "Mide la cantidad de precipitación recogida."
-          ],
-          [
-            "Meteorología",
-            "¿Qué instrumento mide la humedad del aire?",
-            [
-              "Higrómetro",
-              "Barómetro",
-              "Veleta",
-              "Termómetro"
-            ],
-            0,
-            "El higrómetro mide la humedad."
-          ],
-          [
-            "Meteorología",
-            "¿Para qué sirve estudiar los fenómenos atmosféricos?",
-            [
-              "Para describir el tiempo y hacer predicciones",
-              "Para detener el viento",
-              "Para apagar el Sol",
-              "Para evitar tomar datos"
-            ],
-            0,
-            "La meteorología permite describir y predecir el tiempo."
-          ],
-          [
-            "Presión y viento",
+            "Presión e isobaras",
             "¿Qué es la presión atmosférica?",
             [
-              "La fuerza ejercida por el aire debido a su peso",
-              "El calor del agua",
-              "El movimiento de los continentes",
-              "La cantidad de lluvia caída"
+              "La energía emitida por el Sol",
+              "La fuerza que ejerce el aire debido a su peso",
+              "La cantidad de agua de una nube",
+              "La velocidad a la que sopla el viento"
             ],
-            0,
+            1,
             "El aire tiene peso y ejerce presión."
           ],
           [
-            "Presión y viento",
-            "¿Qué son las isobaras de un mapa del tiempo?",
+            "Presión e isobaras",
+            "En un mapa meteorológico, ¿qué unen las isobaras?",
             [
-              "Líneas que unen lugares con la misma presión",
-              "Líneas de igual temperatura",
-              "Límites de países",
-              "Rutas de los barcos"
+              "Puntos que tienen la misma presión",
+              "Puntos con la misma temperatura",
+              "Puntos con la misma lluvia",
+              "Lugares con el mismo viento"
             ],
             0,
-            "Las isobaras unen puntos con igual presión atmosférica."
+            "Una isobara une puntos de igual presión atmosférica."
           ],
           [
-            "Presión y viento",
-            "¿Qué es un anticiclón?",
+            "Presión e isobaras",
+            "¿Qué tiempo suele asociarse a los anticiclones?",
             [
-              "Una zona de altas presiones",
-              "Una zona de bajas presiones",
-              "Un tipo de termómetro",
-              "Una nube de lluvia"
+              "Tiempo siempre tormentoso",
+              "Lluvias intensas constantes",
+              "Nevadas obligatorias",
+              "Tiempo estable"
             ],
-            0,
-            "Los anticiclones son áreas de altas presiones, normalmente relacionadas con tiempo estable."
+            3,
+            "Los anticiclones son zonas de presión alta, relacionadas generalmente con estabilidad."
           ],
           [
-            "Presión y viento",
-            "¿Qué es una borrasca?",
+            "Presión e isobaras",
+            "¿Qué tiempo suele asociarse a una borrasca?",
             [
-              "Una zona de bajas presiones",
-              "Una zona de altas presiones",
-              "Un instrumento",
-              "Una capa de la atmósfera"
+              "Ausencia total de viento",
+              "Temperatura constante",
+              "Tiempo más inestable",
+              "Tiempo siempre despejado"
             ],
-            0,
-            "Las borrascas son áreas de bajas presiones y suelen relacionarse con tiempo más inestable."
+            2,
+            "Una borrasca es una zona de baja presión, generalmente asociada a inestabilidad."
           ],
           [
-            "Presión y viento",
-            "¿Hacia dónde se desplaza el aire al originarse el viento, de forma general?",
-            [
-              "De mayor presión hacia menor presión",
-              "De menor presión hacia mayor presión exclusivamente",
-              "Siempre del este al oeste",
-              "Solo hacia el mar"
-            ],
-            0,
-            "El movimiento de aire está relacionado con diferencias de presión."
-          ],
-          [
-            "Presión y viento",
+            "Presión e isobaras",
             "Si las isobaras aparecen muy juntas, ¿qué suele indicar?",
             [
+              "Temperatura fija",
               "Viento más intenso",
               "Ausencia de viento",
-              "Que no hay atmósfera",
-              "Que el aire no pesa"
+              "Mayor cantidad de ozono"
+            ],
+            1,
+            "La proximidad de isobaras señala un mayor gradiente de presión y suele asociarse a viento más fuerte."
+          ],
+          [
+            "Presión e isobaras",
+            "Si las isobaras están muy separadas, ¿cómo suele ser el viento?",
+            [
+              "Más flojo",
+              "Siempre huracanado",
+              "Siempre del norte",
+              "Exactamente de 100 km/h"
             ],
             0,
-            "Las isobaras más próximas indican una variación rápida de presión y suelen asociarse a vientos fuertes."
+            "Con menor variación de presión entre puntos cercanos, el viento suele ser más débil."
+          ],
+          [
+            "Presión e isobaras",
+            "¿Hacia dónde se desplaza el aire según la explicación básica de los apuntes?",
+            [
+              "Desde menor presión hacia mayor presión",
+              "Solo hacia el este",
+              "Siempre desde tierra al mar",
+              "Desde mayor presión hacia menor presión"
+            ],
+            3,
+            "Los apuntes describen el movimiento del aire desde zonas de presión alta hacia zonas de presión baja."
           ],
           [
             "Nubes",
-            "¿Cómo se forman muchas nubes?",
+            "¿Cómo se forman las nubes?",
             [
-              "Al enfriarse aire húmedo que asciende y condensarse el vapor de agua",
-              "Cuando desaparece todo el oxígeno",
-              "Porque el Sol deja de brillar",
-              "Porque la atmósfera se convierte en roca"
+              "Cuando el dióxido de carbono se convierte en nitrógeno",
+              "Cuando el viento desaparece por completo",
+              "Cuando aire húmedo asciende, se enfría y parte del vapor se condensa",
+              "Cuando el aire pierde todo el oxígeno"
             ],
-            0,
-            "El vapor se condensa en diminutas gotas de agua o cristales de hielo."
+            2,
+            "La condensación forma pequeñas gotas de agua o cristales de hielo."
           ],
           [
             "Nubes",
-            "¿De qué están formadas las nubes?",
+            "¿De qué están compuestas las nubes?",
             [
-              "Pequeñas gotas de agua o cristales de hielo",
-              "Solo de humo",
-              "Solo de CO₂",
-              "De aire sólido"
+              "De humo exclusivamente",
+              "De diminutas gotas de agua o cristales de hielo",
+              "Solo de oxígeno puro",
+              "Solo de dióxido de carbono"
             ],
-            0,
-            "Las nubes contienen gotitas o cristales que se forman por condensación o deposición."
+            1,
+            "Se forman al condensarse el vapor de agua o al formarse cristales de hielo."
           ],
           [
-            "Fotosíntesis y respiración",
-            "¿Qué liberan plantas, algas y otros organismos fotosintéticos en la fotosíntesis?",
+            "Fotosíntesis",
+            "¿Qué gas toman las plantas durante la fotosíntesis?",
             [
-              "Oxígeno",
-              "Metano",
-              "Dióxido de azufre",
-              "Óxidos de nitrógeno"
-            ],
-            0,
-            "Al realizar fotosíntesis oxigénica liberan oxígeno."
-          ],
-          [
-            "Fotosíntesis y respiración",
-            "¿Qué utilizan los seres vivos durante la respiración aerobia?",
-            [
-              "Oxígeno",
-              "Ozono estratosférico",
+              "Dióxido de carbono",
+              "Oxígeno exclusivamente",
               "Argón",
-              "Helio"
+              "Nitrógeno atmosférico"
             ],
             0,
-            "La respiración aerobia usa oxígeno para obtener energía de nutrientes."
+            "La fotosíntesis utiliza dióxido de carbono, agua y luz."
           ],
           [
-            "Fotosíntesis y respiración",
-            "¿Qué productos genera la respiración celular aerobia, según los apuntes?",
+            "Fotosíntesis",
+            "¿Qué gas liberan las plantas durante la fotosíntesis?",
             [
-              "Dióxido de carbono y agua",
-              "Solo nitrógeno",
-              "Ozono y argón",
-              "Solo oxígeno"
+              "Dióxido de carbono únicamente",
+              "Metano",
+              "Óxido nitroso",
+              "Oxígeno"
+            ],
+            3,
+            "La fotosíntesis libera oxígeno al medio."
+          ],
+          [
+            "Fotosíntesis",
+            "¿Qué necesitan las plantas para realizar la fotosíntesis según los apuntes?",
+            [
+              "Solo nitrógeno y luz",
+              "Solo dióxido de carbono sin agua",
+              "Agua, dióxido de carbono y energía luminosa",
+              "Solo oxígeno y oscuridad"
+            ],
+            2,
+            "La energía de la luz permite utilizar agua y dióxido de carbono para fabricar materia orgánica."
+          ],
+          [
+            "Fotosíntesis",
+            "¿Para qué utilizan las plantas la energía luminosa en la fotosíntesis?",
+            [
+              "Para fabricar solo dióxido de carbono",
+              "Para fabricar materia orgánica",
+              "Para destruir todo su alimento",
+              "Para eliminar el agua de sus células"
+            ],
+            1,
+            "La luz proporciona energía para elaborar materia orgánica."
+          ],
+          [
+            "Respiración",
+            "¿Qué gas utilizan los seres vivos en la respiración celular aerobia?",
+            [
+              "Oxígeno",
+              "Argón",
+              "Ozono",
+              "Nitrógeno como único gas"
             ],
             0,
-            "Durante la respiración se producen CO₂ y agua."
+            "La respiración celular aerobia utiliza oxígeno para obtener energía de los nutrientes."
+          ],
+          [
+            "Respiración",
+            "¿Qué productos se generan en la respiración celular aerobia según los apuntes?",
+            [
+              "Oxígeno y glucosa como únicos productos",
+              "Argón y ozono",
+              "Nitrógeno y oxígeno",
+              "Dióxido de carbono y agua"
+            ],
+            3,
+            "La respiración aerobia consume oxígeno y libera dióxido de carbono y agua."
+          ],
+          [
+            "Respiración",
+            "¿Las plantas realizan respiración celular además de fotosíntesis?",
+            [
+              "Solo cuando llueve",
+              "Solo cuando hace viento",
+              "Sí, también realizan respiración celular",
+              "No, solo hacen fotosíntesis"
+            ],
+            2,
+            "Las plantas, como los demás seres vivos, respiran para obtener energía."
           ],
           [
             "Combustión",
-            "¿Qué se necesita habitualmente para una combustión?",
+            "¿Qué necesita normalmente una combustión?",
             [
-              "Combustible y oxígeno",
               "Solo nitrógeno",
+              "Un combustible y oxígeno",
               "Solo agua",
               "Solo argón"
             ],
-            0,
-            "La combustión requiere combustible y, normalmente, oxígeno."
+            1,
+            "En los apuntes se explica que se requiere combustible y, normalmente, oxígeno."
           ],
           [
             "Combustión",
-            "En una combustión completa de sustancias con carbono, ¿qué gas se produce principalmente?",
+            "¿Qué se obtiene principalmente en una combustión completa de un compuesto con carbono?",
             [
-              "Dióxido de carbono",
-              "Ozono",
-              "Helio",
-              "Neón"
+              "Dióxido de carbono y agua",
+              "Solo ozono",
+              "Solo nitrógeno",
+              "Solo argón"
             ],
             0,
-            "Una combustión completa produce principalmente CO₂ y agua."
+            "Una combustión completa de sustancias con carbono produce principalmente CO₂ y agua."
           ],
           [
             "Efecto invernadero",
             "¿Qué es el efecto invernadero natural?",
             [
-              "Un proceso que contribuye a mantener la Tierra habitable",
-              "La desaparición total de la atmósfera",
-              "Una capa de hielo",
-              "Una enfermedad de las plantas"
+              "La destrucción completa del ozono",
+              "La desaparición de las nubes",
+              "Un viento generado por anticiclones",
+              "Un fenómeno que ayuda a mantener una temperatura compatible con la vida"
             ],
-            0,
-            "Algunos gases absorben y reemiten radiación infrarroja, ayudando a mantener la temperatura."
+            3,
+            "Ciertos gases absorben y reemiten parte de la radiación infrarroja terrestre."
           ],
           [
             "Efecto invernadero",
-            "¿Qué actividad humana puede aumentar gases de efecto invernadero?",
+            "¿Cuál es un gas de efecto invernadero?",
             [
-              "Quemar combustibles fósiles",
-              "Medir la lluvia",
-              "Usar un termómetro",
-              "Observar nubes"
-            ],
-            0,
-            "La quema de combustibles fósiles aumenta el CO₂ atmosférico."
-          ],
-          [
-            "Efecto invernadero",
-            "¿Cuál de estos es un gas de efecto invernadero?",
-            [
+              "Nitrógeno (N₂)",
+              "Oxígeno (O₂) como gas principal",
               "Metano (CH₄)",
-              "Argón",
-              "Helio",
-              "Oxígeno molecular en condiciones normales"
+              "Argón"
             ],
-            0,
-            "El metano es uno de los gases de efecto invernadero citados en los apuntes."
+            2,
+            "El metano es uno de los gases que contribuyen al efecto invernadero."
           ],
           [
             "Efecto invernadero",
-            "¿Qué consecuencias se asocian a la intensificación del efecto invernadero?",
+            "¿Qué consecuencia tiene intensificar el efecto invernadero?",
             [
-              "Calentamiento global y cambios en las precipitaciones",
-              "Desaparición inmediata de todos los vientos",
-              "Congelación de todos los mares",
-              "Aumento del oxígeno al 78 %"
+              "Eliminación del ciclo del agua",
+              "Calentamiento global",
+              "Enfriamiento permanente de todo el planeta",
+              "Desaparición de las estaciones"
             ],
-            0,
-            "Puede provocar temperaturas medias mayores, pérdida de hielo y cambios en las lluvias."
-          ],
-          [
-            "Efecto invernadero",
-            "¿Cuál es una posible consecuencia del calentamiento global?",
-            [
-              "Subida del nivel del mar",
-              "Que los días duren 50 horas",
-              "Que desaparezca el nitrógeno",
-              "Que ya no existan nubes"
-            ],
-            0,
-            "La pérdida de hielo terrestre y el calentamiento del océano contribuyen a elevar el nivel del mar."
+            1,
+            "Aumentar gases de efecto invernadero contribuye al cambio climático."
           ],
           [
             "Capa de ozono",
-            "¿En qué región de la atmósfera está la capa de ozono?",
+            "¿Qué radiación absorbe en gran parte la capa de ozono?",
             [
-              "En la estratosfera",
-              "Solo en la exosfera",
-              "En el interior terrestre",
-              "En los océanos"
+              "Radiación ultravioleta",
+              "Ondas de radio únicamente",
+              "Radiación infrarroja terrestre únicamente",
+              "Luz visible en su totalidad"
             ],
             0,
-            "El ozono estratosférico absorbe gran parte de la radiación ultravioleta perjudicial."
+            "El ozono estratosférico absorbe buena parte de la radiación UV perjudicial."
           ],
           [
             "Capa de ozono",
-            "¿Qué radiación absorbe especialmente la capa de ozono?",
+            "¿Qué sustancias contribuyeron especialmente a la destrucción del ozono estratosférico?",
             [
-              "Ultravioleta (UV)",
-              "Sonido",
-              "Microondas de cualquier origen",
-              "Ondas sísmicas"
+              "Oxígeno del aire",
+              "Vapor de agua de las nubes",
+              "Nitrógeno de la atmósfera",
+              "CFC usados antiguamente en aerosoles y refrigeración"
             ],
-            0,
-            "La capa de ozono protege frente a mucha radiación UV."
+            3,
+            "Los CFC favorecieron la reducción del ozono estratosférico."
           ],
           [
-            "Capa de ozono",
-            "¿Qué sustancias se relacionan con el deterioro histórico de la capa de ozono?",
+            "Contaminación",
+            "¿Qué contaminantes pueden provocar lluvia ácida?",
             [
-              "CFC",
-              "Agua pura",
-              "Oxígeno respirable",
-              "Nitrógeno gaseoso"
-            ],
-            0,
-            "Los CFC usados antiguamente en aerosoles y refrigeración contribuyeron a su deterioro."
-          ],
-          [
-            "Capa de ozono",
-            "¿Qué riesgo aumenta si se reduce la protección de ozono estratosférico?",
-            [
-              "Mayor exposición a radiación UV y daños en piel y ojos",
-              "Que desaparezca la gravedad",
-              "Que la lluvia se vuelva dulce",
-              "Que el aire se transforme en agua"
-            ],
-            0,
-            "Más radiación UV puede aumentar riesgos de daños en los seres vivos."
-          ],
-          [
-            "Problemas ambientales",
-            "¿Qué gases pueden originar lluvia ácida al reaccionar en la atmósfera?",
-            [
+              "Vapor de agua y nitrógeno",
+              "Solo ozono natural",
               "Dióxido de azufre y óxidos de nitrógeno",
-              "Oxígeno y argón",
-              "Helio y neón",
-              "Vapor de agua puro y nitrógeno"
+              "Oxígeno y argón"
             ],
-            0,
-            "SO₂ y NOₓ pueden formar sustancias ácidas."
+            2,
+            "SO₂ y NOₓ reaccionan formando sustancias ácidas."
           ],
           [
-            "Problemas ambientales",
-            "¿Qué consecuencias puede tener la lluvia ácida?",
-            [
-              "Dañar bosques, aguas y edificios",
-              "Hacer desaparecer todos los microbios",
-              "Aumentar siempre el oxígeno del aire",
-              "Impedir toda precipitación"
-            ],
-            0,
-            "La lluvia ácida puede acidificar suelos y aguas y deteriorar construcciones."
-          ],
-          [
-            "Problemas ambientales",
+            "Contaminación",
             "¿Qué es el smog?",
             [
-              "Una mezcla de contaminantes atmosféricos sobre todo en zonas urbanas",
-              "La capa de ozono",
-              "Una nube formada solo por vapor de agua",
-              "Un instrumento meteorológico"
+              "Un instrumento de medición",
+              "Una mezcla de contaminantes acumulados en el aire",
+              "Un tipo de nube hecha solo de vapor limpio",
+              "Una capa superior de la atmósfera"
             ],
-            0,
-            "El smog o esmog es una mezcla de contaminantes que afecta la calidad del aire."
+            1,
+            "El smog puede acumularse en zonas urbanas e irritar ojos y vías respiratorias."
           ],
           [
-            "Problemas ambientales",
-            "¿Qué efectos puede producir el smog en las personas?",
+            "Contaminación",
+            "¿Cuál de estos es un efecto posible de la lluvia ácida?",
             [
-              "Irritación de ojos y vías respiratorias",
-              "Aumento de la capacidad de respirar siempre",
-              "Protección total frente a enfermedades",
-              "Ausencia total de molestias"
+              "Daños en bosques y organismos acuáticos",
+              "Aumento obligatorio del ozono estratosférico",
+              "Desaparición total del viento",
+              "Mayor concentración de oxígeno en todos los ríos"
             ],
             0,
-            "Puede irritar ojos y vías respiratorias y agravar enfermedades respiratorias."
+            "La acidificación perjudica ecosistemas y deteriora edificios."
           ],
           [
-            "Problemas ambientales",
-            "¿Qué diferencia hay entre el deterioro del ozono y el cambio climático?",
+            "Repaso meteorológico",
+            "Si quieres registrar temperatura, presión y velocidad del viento, ¿qué conjunto usarías?",
             [
-              "Son problemas distintos, aunque ambos afectan a la atmósfera",
-              "Son exactamente el mismo fenómeno",
-              "Uno ocurre en océanos y el otro solo en ríos",
-              "Ninguno se relaciona con gases"
+              "Termómetro, veleta y probeta",
+              "Higrómetro, microscopio y regla",
+              "Pluviómetro, balanza y pipeta",
+              "Termómetro, barómetro y anemómetro"
             ],
-            0,
-            "La pérdida de ozono aumenta radiación UV; el cambio climático se relaciona con el calentamiento global."
+            3,
+            "Cada instrumento mide una magnitud distinta: temperatura, presión y velocidad del viento."
           ],
           [
-            "Aplicación práctica",
-            "Si quieres saber cuánta lluvia cayó ayer, ¿qué instrumento elegirías?",
+            "Repaso meteorológico",
+            "En un mapa aparecen isobaras muy juntas alrededor de una borrasca. ¿Qué es más probable?",
             [
-              "Pluviómetro",
-              "Anemómetro",
-              "Barómetro",
-              "Veleta"
+              "Ausencia total de presión atmosférica",
+              "Que no haya nubes nunca",
+              "Viento intenso y tiempo inestable",
+              "Viento siempre en calma y cielo estable"
             ],
-            0,
-            "El pluviómetro registra las precipitaciones."
-          ],
-          [
-            "Aplicación práctica",
-            "Si el mapa anuncia una borrasca, ¿qué tiempo suele asociarse a ella?",
-            [
-              "Más inestable",
-              "Siempre despejado y sin viento",
-              "Siempre sin nubes",
-              "Sin atmósfera"
-            ],
-            0,
-            "Las bajas presiones suelen vincularse a tiempo inestable."
-          ],
-          [
-            "Aplicación práctica",
-            "Si un mapa presenta isobaras muy separadas, ¿qué suele esperarse comparado con isobaras juntas?",
-            [
-              "Vientos menos intensos en general",
-              "Vientos siempre máximos",
-              "Ausencia de presión",
-              "Una tormenta eléctrica asegurada"
-            ],
-            0,
-            "Cuanto menor es el gradiente de presión, más suave suele ser el viento."
-          ],
-          [
-            "Laboratorio",
-            "¿Se debe comer o beber dentro del laboratorio?",
-            [
-              "No",
-              "Sí, siempre",
-              "Solo si no hay profesor",
-              "Sí, durante los experimentos"
-            ],
-            0,
-            "Las normas de seguridad prohíben comer o beber en el laboratorio."
-          ],
-          [
-            "Laboratorio",
-            "¿Qué debemos hacer si ocurre un derrame o accidente?",
-            [
-              "Avisar inmediatamente al profesorado",
-              "Ocultarlo",
-              "Oler directamente la sustancia",
-              "Mezclar productos para limpiarlo"
-            ],
-            0,
-            "Hay que comunicar inmediatamente cualquier derrame, rotura o accidente."
-          ],
-          [
-            "Laboratorio",
-            "¿Qué conviene leer antes de utilizar una sustancia?",
-            [
-              "La etiqueta y los pictogramas",
-              "Solo el precio",
-              "La fecha del siguiente examen",
-              "Únicamente el nombre del fabricante"
-            ],
-            0,
-            "Las etiquetas y pictogramas informan sobre riesgos y precauciones."
-          ],
-          [
-            "Laboratorio",
-            "¿Qué protección debes utilizar cuando lo indiquen las instrucciones?",
-            [
-              "Bata, gafas o guantes adecuados",
-              "Solo ropa de calle",
-              "Ninguna nunca",
-              "Auriculares"
-            ],
-            0,
-            "La bata, las gafas y los guantes pueden ser necesarios según la práctica."
+            2,
+            "La borrasca suele asociarse a inestabilidad y las isobaras juntas a vientos más fuertes."
           ]
         ]
       }
