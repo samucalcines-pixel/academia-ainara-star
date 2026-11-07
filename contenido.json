@@ -4513,6 +4513,651 @@
           ]
         ]
       }
+    ],
+    "ef": [
+      {
+        "id": "t1",
+        "title": "Tema 1 · Educación Física y deportes",
+        "desc": "Actividad física, ejercicio, salud, nutrientes, calentamiento, cualidades físicas, bádminton y balonmano",
+        "questions": [
+          [
+            "Conceptos",
+            "¿Qué es la actividad física?",
+            [
+              "Cualquier movimiento corporal que consume energía",
+              "Solo competir en un deporte",
+              "Únicamente correr a máxima velocidad",
+              "Un deporte con árbitro"
+            ],
+            0,
+            "La actividad física implica movimiento corporal y gasto de energía."
+          ],
+          [
+            "Conceptos",
+            "¿Cuál es un ejemplo de actividad física que no tiene por qué ser ejercicio planificado?",
+            [
+              "Caminar para ir al instituto",
+              "Seguir una rutina de entrenamiento",
+              "Hacer una sesión organizada de flexibilidad",
+              "Completar un circuito de ejercicios"
+            ],
+            0,
+            "Caminar para desplazarse también es actividad física, aunque no sea una sesión de ejercicio."
+          ],
+          [
+            "Conceptos",
+            "¿Qué distingue al ejercicio físico de la actividad física en general?",
+            [
+              "Que es planificado y organizado",
+              "Que siempre es competitivo",
+              "Que no requiere movimiento",
+              "Que solo se practica en equipo"
+            ],
+            0,
+            "El ejercicio físico es una actividad física planificada."
+          ],
+          [
+            "Conceptos",
+            "¿Cuál de estos ejemplos es ejercicio físico?",
+            [
+              "Hacer una rutina de carrera de 20 minutos",
+              "Subir sin planificar unas escaleras",
+              "Mover los brazos al vestirse",
+              "Caminar por casa para ir a otra habitación"
+            ],
+            0,
+            "Una rutina de carrera organizada es ejercicio físico planificado."
+          ],
+          [
+            "Conceptos",
+            "¿Qué caracteriza al deporte según los apuntes?",
+            [
+              "La práctica física con normas o reglas",
+              "La ausencia de reglas",
+              "Que siempre se realice a solas",
+              "Que nunca haya competición"
+            ],
+            0,
+            "El deporte es una práctica física regulada por normas."
+          ],
+          [
+            "Conceptos",
+            "¿Cuál de estas actividades es un deporte?",
+            [
+              "Un partido de balonmano",
+              "Caminar hasta la parada",
+              "Subir a la segunda planta",
+              "Mover los muebles"
+            ],
+            0,
+            "El balonmano se juega con reglas establecidas."
+          ],
+          [
+            "Salud",
+            "¿Qué significa OMS?",
+            [
+              "Organización Mundial de la Salud",
+              "Oficina Mundial del Senderismo",
+              "Organización de Movimientos Sociales",
+              "Oficina de Medicina del Suelo"
+            ],
+            0,
+            "OMS son las siglas de Organización Mundial de la Salud."
+          ],
+          [
+            "Salud",
+            "¿Por qué es importante realizar actividad física de forma habitual?",
+            [
+              "Ayuda a cuidar la salud y la condición física",
+              "Impide que los músculos trabajen",
+              "Evita siempre que nos cansemos",
+              "Sustituye la necesidad de dormir"
+            ],
+            0,
+            "La práctica habitual beneficia la salud y la condición física."
+          ],
+          [
+            "Salud",
+            "En los apuntes se indica una actividad de intensidad...",
+            [
+              "Moderada o intensa",
+              "Solo mínima",
+              "Siempre máxima",
+              "Exclusivamente pasiva"
+            ],
+            0,
+            "La anotación relaciona la actividad física con intensidad moderada o intensa."
+          ],
+          [
+            "Alimentación",
+            "¿Qué diferencia hay entre alimentarse y nutrirse?",
+            [
+              "Alimentarse es voluntario; la nutrición incluye procesos involuntarios",
+              "Ambos procesos son siempre voluntarios",
+              "Nutrirse es elegir la comida",
+              "Alimentarse solo ocurre al hacer deporte"
+            ],
+            0,
+            "Comer es una acción voluntaria y aprovechar los nutrientes implica procesos involuntarios."
+          ],
+          [
+            "Alimentación",
+            "¿Qué proceso es voluntario?",
+            [
+              "Elegir y comer alimentos",
+              "Absorber nutrientes en el intestino",
+              "Transportar nutrientes por la sangre",
+              "Realizar el metabolismo celular"
+            ],
+            0,
+            "Elegir alimentos forma parte de la alimentación."
+          ],
+          [
+            "Alimentación",
+            "¿Cuál de estos procesos es involuntario?",
+            [
+              "La absorción intestinal de nutrientes",
+              "Elegir la merienda",
+              "Decidir qué beber",
+              "Preparar un bocadillo"
+            ],
+            0,
+            "La absorción de nutrientes forma parte de la nutrición y no se controla de forma voluntaria."
+          ],
+          [
+            "Nutrientes",
+            "¿Qué grupo de nutrientes proporciona una fuente importante de energía?",
+            [
+              "Hidratos de carbono",
+              "Solo vitaminas",
+              "Solo minerales",
+              "Solo agua"
+            ],
+            0,
+            "Los hidratos de carbono aportan energía al organismo."
+          ],
+          [
+            "Nutrientes",
+            "¿Qué nutriente destaca por su función en la construcción y reparación de tejidos?",
+            [
+              "Proteínas",
+              "Agua",
+              "Sales minerales únicamente",
+              "Vitaminas únicamente"
+            ],
+            0,
+            "Las proteínas participan en la formación y reparación de tejidos."
+          ],
+          [
+            "Nutrientes",
+            "¿Qué nutrientes sirven como reserva de energía y tienen otras funciones en el organismo?",
+            [
+              "Grasas",
+              "Solo agua",
+              "Solo vitaminas",
+              "Solo sales minerales"
+            ],
+            0,
+            "Las grasas aportan energía y cumplen otras funciones importantes."
+          ],
+          [
+            "Nutrientes",
+            "¿Cuáles de estos son micronutrientes esenciales?",
+            [
+              "Vitaminas y minerales",
+              "Solo proteínas y grasas",
+              "Solo agua y grasas",
+              "Solo hidratos y proteínas"
+            ],
+            0,
+            "Las vitaminas y los minerales son necesarios en pequeñas cantidades."
+          ],
+          [
+            "Hidratación",
+            "¿Cuándo es conveniente beber agua al practicar deporte?",
+            [
+              "Antes, durante y después",
+              "Solamente al terminar",
+              "Solo si hay competición",
+              "Únicamente al levantarse"
+            ],
+            0,
+            "Los apuntes recuerdan hidratarse antes, durante y después."
+          ],
+          [
+            "Sesión física",
+            "¿Cuál es el orden habitual de una sesión de ejercicio?",
+            [
+              "Calentamiento, parte principal y vuelta a la calma",
+              "Parte principal, vuelta a la calma y calentamiento",
+              "Vuelta a la calma, calentamiento y parte principal",
+              "Parte principal, calentamiento y vuelta a la calma"
+            ],
+            0,
+            "La sesión empieza con el calentamiento, sigue con el trabajo principal y acaba con la vuelta a la calma."
+          ],
+          [
+            "Calentamiento",
+            "¿Para qué sirve el calentamiento?",
+            [
+              "Para preparar el cuerpo antes de la actividad principal",
+              "Para sustituir el descanso nocturno",
+              "Para terminar de golpe el ejercicio",
+              "Para evitar toda actividad posterior"
+            ],
+            0,
+            "El calentamiento prepara el cuerpo para esfuerzos posteriores."
+          ],
+          [
+            "Calentamiento",
+            "¿Cuál de estas actividades forma parte del calentamiento?",
+            [
+              "Movilidad articular",
+              "Dormir una siesta",
+              "Quedarse sentado todo el tiempo",
+              "Comer durante la carrera"
+            ],
+            0,
+            "Mover las articulaciones es una parte del calentamiento."
+          ],
+          [
+            "Calentamiento",
+            "¿Qué significa activación muscular?",
+            [
+              "Poner los músculos progresivamente en movimiento",
+              "Mantener los músculos inmóviles",
+              "Comenzar con el esfuerzo máximo sin preparación",
+              "Dejar de mover las articulaciones"
+            ],
+            0,
+            "Se activan los músculos poco a poco para prepararlos."
+          ],
+          [
+            "Calentamiento",
+            "¿Qué son los movimientos dinámicos de un calentamiento?",
+            [
+              "Movimientos controlados realizados en movimiento",
+              "Permanecer quieto sin moverse",
+              "Descansar sentado",
+              "Solo cerrar los ojos"
+            ],
+            0,
+            "Los movimientos dinámicos preparan al cuerpo con desplazamientos y gestos controlados."
+          ],
+          [
+            "Calentamiento",
+            "¿Para qué se incluyen gestos específicos del deporte en el calentamiento?",
+            [
+              "Para practicar los movimientos que se usarán después",
+              "Para evitar la parte principal",
+              "Para cambiar de deporte sin avisar",
+              "Para reemplazar la movilidad articular"
+            ],
+            0,
+            "Se realizan movimientos similares a los de la actividad que viene después."
+          ],
+          [
+            "Sesión física",
+            "¿Qué es la vuelta a la calma?",
+            [
+              "La fase final de recuperación progresiva",
+              "El primer ejercicio intenso",
+              "Una competición antes de calentar",
+              "El tiempo de la comida"
+            ],
+            0,
+            "Después de la parte principal se reduce progresivamente la intensidad."
+          ],
+          [
+            "Condición física",
+            "¿Cuáles son las cuatro cualidades físicas básicas de los apuntes?",
+            [
+              "Fuerza, resistencia, velocidad y flexibilidad",
+              "Altura, peso, edad y talla",
+              "Calor, frío, humedad y presión",
+              "Coordinación, equilibrio, táctica y puntería"
+            ],
+            0,
+            "Los apuntes enumeran fuerza, resistencia, velocidad y flexibilidad."
+          ],
+          [
+            "Condición física",
+            "¿Qué es la fuerza física?",
+            [
+              "La capacidad de ejercer tensión muscular para vencer o sostener una resistencia",
+              "La capacidad de mantener un ritmo mucho tiempo",
+              "La capacidad de desplazarse con rapidez",
+              "La amplitud de movimiento de una articulación"
+            ],
+            0,
+            "La fuerza permite hacer esfuerzos contra una resistencia."
+          ],
+          [
+            "Condición física",
+            "¿Qué es la resistencia física?",
+            [
+              "La capacidad de mantener un esfuerzo durante un tiempo",
+              "La capacidad de saltar más alto una sola vez",
+              "La velocidad de un gesto breve",
+              "La amplitud de una articulación"
+            ],
+            0,
+            "La resistencia ayuda a sostener esfuerzos sin fatigarse rápidamente."
+          ],
+          [
+            "Condición física",
+            "¿Qué es la velocidad física?",
+            [
+              "La capacidad de realizar movimientos en poco tiempo",
+              "La capacidad de mantener un esfuerzo largo",
+              "La capacidad de estirar una articulación",
+              "La capacidad de levantar cargas"
+            ],
+            0,
+            "La velocidad se relaciona con la rapidez de los movimientos."
+          ],
+          [
+            "Condición física",
+            "¿Qué es la flexibilidad?",
+            [
+              "La capacidad de realizar movimientos con amplitud articular",
+              "La capacidad de correr a la máxima velocidad",
+              "La capacidad de resistir un esfuerzo largo",
+              "La capacidad de impulsar una carga"
+            ],
+            0,
+            "La flexibilidad se relaciona con la amplitud del movimiento."
+          ],
+          [
+            "Condición física",
+            "¿Qué cualidad física se trabaja especialmente en una carrera larga y continua?",
+            [
+              "Resistencia",
+              "Fuerza máxima",
+              "Flexibilidad",
+              "Velocidad de reacción exclusivamente"
+            ],
+            0,
+            "Correr durante un periodo largo requiere mantener el esfuerzo."
+          ],
+          [
+            "Condición física",
+            "¿Qué cualidad física se manifiesta especialmente en un esprint corto?",
+            [
+              "Velocidad",
+              "Resistencia de larga duración",
+              "Flexibilidad estática",
+              "Equilibrio"
+            ],
+            0,
+            "Un esprint se centra en desplazarse muy deprisa."
+          ],
+          [
+            "Bádminton",
+            "Según los apuntes, ¿cuántos puntos se necesitan normalmente para ganar un set de bádminton?",
+            [
+              "21 puntos, con dos de ventaja cuando hay empate a 20",
+              "15 puntos exactos",
+              "25 puntos exactos",
+              "11 puntos exactos"
+            ],
+            0,
+            "Normalmente se juega a 21 puntos; con empate a 20 se exige ventaja de dos, hasta el límite de 30."
+          ],
+          [
+            "Bádminton",
+            "¿Cuántos sets debe ganar un jugador para ganar un partido al mejor de tres?",
+            [
+              "Dos",
+              "Uno",
+              "Tres",
+              "Cuatro"
+            ],
+            0,
+            "El partido se disputa al mejor de tres sets."
+          ],
+          [
+            "Bádminton",
+            "Si el marcador de un set es 20-20, ¿qué ocurre?",
+            [
+              "Se continúa hasta obtener dos puntos de ventaja, salvo al llegar a 29-29",
+              "Se termina inmediatamente en empate",
+              "Gana quien llegue primero a 21 aunque no haya ventaja",
+              "Se vuelve a cero"
+            ],
+            0,
+            "Tras 20-20 se necesita una diferencia de dos puntos, con un límite máximo de 30."
+          ],
+          [
+            "Bádminton",
+            "Con 29-29 en bádminton, ¿quién gana el set?",
+            [
+              "Quien anota el punto 30",
+              "Quien tenga más faltas",
+              "Nadie, queda empatado",
+              "Quien gane dos puntos seguidos"
+            ],
+            0,
+            "Con 29-29, el punto 30 decide el set."
+          ],
+          [
+            "Bádminton",
+            "¿Cuál es un golpe de bádminton que eleva el volante hacia el fondo de la pista?",
+            [
+              "Globo o lob",
+              "Dejada corta",
+              "Remate",
+              "Servicio corto"
+            ],
+            0,
+            "El globo eleva el volante para enviarlo hacia el fondo."
+          ],
+          [
+            "Bádminton",
+            "¿Qué es una dejada o drop en bádminton?",
+            [
+              "Un golpe suave que hace caer el volante cerca de la red",
+              "Un golpe fuerte hacia abajo",
+              "Un lanzamiento desde el lateral",
+              "Una falta al pisar la línea"
+            ],
+            0,
+            "La dejada busca que el volante caiga cerca de la red rival."
+          ],
+          [
+            "Bádminton",
+            "¿Qué es un remate o smash en bádminton?",
+            [
+              "Un golpe fuerte y descendente",
+              "Un golpe suave que cae cerca de la red",
+              "Un saque lateral de balonmano",
+              "Un golpe sin raqueta"
+            ],
+            0,
+            "El remate es un golpe potente dirigido hacia abajo."
+          ],
+          [
+            "Bádminton",
+            "¿Qué diferencia hay entre derecha y revés?",
+            [
+              "La posición y orientación de la raqueta respecto al cuerpo al golpear",
+              "El número de jugadores del equipo",
+              "La duración del set",
+              "El tamaño de la pista"
+            ],
+            0,
+            "La derecha y el revés son técnicas diferentes de golpeo."
+          ],
+          [
+            "Bádminton",
+            "¿Qué es el drive en bádminton?",
+            [
+              "Un golpe rápido de trayectoria relativamente plana",
+              "Un golpe muy alto y lento siempre",
+              "Una pausa del juego",
+              "Un saque con la mano"
+            ],
+            0,
+            "El drive suele tener una trayectoria tensa y relativamente horizontal."
+          ],
+          [
+            "Bádminton",
+            "¿Qué significa golpear con mano alta o mano baja?",
+            [
+              "Que el golpe se realiza con la raqueta en una posición alta o baja",
+              "Que cambia el tamaño del volante",
+              "Que cambia la puntuación",
+              "Que cambia el número de sets"
+            ],
+            0,
+            "Los apuntes distinguen golpes según la altura de la acción."
+          ],
+          [
+            "Balonmano",
+            "¿Cuántos jugadores por equipo hay normalmente en la pista de balonmano?",
+            [
+              "7: seis de campo y un portero",
+              "6: cinco de campo y un portero",
+              "8: siete de campo y un portero",
+              "5: cuatro de campo y un portero"
+            ],
+            0,
+            "Juegan seis jugadores de campo y un portero por equipo."
+          ],
+          [
+            "Balonmano",
+            "¿Qué dimensiones de pista aparecen en los apuntes de balonmano?",
+            [
+              "40 m por 20 m",
+              "30 m por 15 m",
+              "28 m por 15 m",
+              "50 m por 25 m"
+            ],
+            0,
+            "El campo dibujado mide 40 metros de largo por 20 de ancho."
+          ],
+          [
+            "Balonmano",
+            "¿A cuántos metros está la línea que delimita el área de portería?",
+            [
+              "6 m",
+              "7 m",
+              "9 m",
+              "11 m"
+            ],
+            0,
+            "El área de portería queda delimitada por la línea de 6 metros."
+          ],
+          [
+            "Balonmano",
+            "¿Desde qué distancia se lanza el penalti de balonmano?",
+            [
+              "7 m",
+              "6 m",
+              "9 m",
+              "11 m"
+            ],
+            0,
+            "El lanzamiento de 7 metros es una sanción para determinadas faltas."
+          ],
+          [
+            "Balonmano",
+            "¿Qué indica la línea discontinua de balonmano situada más lejos de la portería?",
+            [
+              "La línea de golpe franco de 9 m",
+              "La línea de 7 m",
+              "La línea de 6 m",
+              "La línea central"
+            ],
+            0,
+            "La línea discontinua de 9 metros se relaciona con los golpes francos."
+          ],
+          [
+            "Balonmano",
+            "¿Cuántos pasos se pueden dar como máximo sin botar el balón?",
+            [
+              "Tres pasos",
+              "Dos pasos",
+              "Cuatro pasos",
+              "Cinco pasos"
+            ],
+            0,
+            "La regla general permite hasta tres pasos con el balón sin botarlo."
+          ],
+          [
+            "Balonmano",
+            "¿Cuánto tiempo se puede sujetar el balón sin jugarlo?",
+            [
+              "Hasta 3 segundos",
+              "Hasta 5 segundos",
+              "Hasta 10 segundos",
+              "Hasta 15 segundos"
+            ],
+            0,
+            "En los apuntes se recuerdan los 3 segundos."
+          ],
+          [
+            "Balonmano",
+            "¿Qué es un pase en balonmano?",
+            [
+              "Enviar el balón a un compañero",
+              "Parar un lanzamiento con el pie",
+              "Golpear con una raqueta",
+              "Salir del área sin balón"
+            ],
+            0,
+            "El pase permite trasladar el balón entre compañeros."
+          ],
+          [
+            "Balonmano",
+            "¿Qué función corresponde al portero?",
+            [
+              "Defender la portería",
+              "Ser siempre el máximo goleador",
+              "Realizar todos los saques de banda",
+              "Arbitrar el encuentro"
+            ],
+            0,
+            "El portero trata de evitar que el balón entre en la portería."
+          ],
+          [
+            "Balonmano",
+            "¿En qué zona suele actuar un extremo?",
+            [
+              "En un lateral del ataque, cerca de la banda",
+              "Solo en el centro exacto del área",
+              "Dentro de la portería rival",
+              "Fuera de la pista"
+            ],
+            0,
+            "Los extremos ocupan posiciones abiertas en los lados del ataque."
+          ],
+          [
+            "Balonmano",
+            "¿Qué hace principalmente un pivote?",
+            [
+              "Juega cerca de la defensa rival buscando espacios",
+              "Solo puede lanzar desde su propio campo",
+              "Tiene prohibido recibir pases",
+              "Arbitra el partido"
+            ],
+            0,
+            "El pivote ayuda a crear espacios cerca de la defensa rival."
+          ],
+          [
+            "Balonmano",
+            "¿Para qué sirve el bote en balonmano?",
+            [
+              "Para desplazarse con el balón respetando las reglas",
+              "Para marcar directamente desde fuera de la pista",
+              "Para detener el tiempo",
+              "Para sustituir al portero"
+            ],
+            0,
+            "Botar permite avanzar sin infringir la regla de los pasos."
+          ]
+        ]
+      }
     ]
   }
 }
