@@ -1039,6 +1039,2708 @@
             "El globo conserva mejor la geometría global de la Tierra."
           ]
         ]
+      },
+      {
+        "id": "t2",
+        "title": "Tema 2 · El relieve terrestre y las catástrofes naturales",
+        "desc": "Interior de la Tierra, placas tectónicas, volcanes, erosión, costa, montañas y atmósfera",
+        "questions": [
+          [
+            "Relieve",
+            "¿Qué es el relieve terrestre?",
+            [
+              "Las capas de gases que rodean la Tierra",
+              "El conjunto de formas de la superficie terrestre",
+              "El movimiento de rotación",
+              "La distribución de los continentes"
+            ],
+            1,
+            "Es el conjunto de formas y desigualdades de la superficie terrestre."
+          ],
+          [
+            "Relieve",
+            "¿Qué afirmación sobre el relieve es correcta?",
+            [
+              "Cambia mediante procesos internos y externos",
+              "Permanece igual desde su origen",
+              "Solo cambia cuando llueve",
+              "Solo existe en los continentes"
+            ],
+            0,
+            "El relieve se forma y modifica por procesos internos y externos."
+          ],
+          [
+            "Tiempo geológico",
+            "¿Cuánto tiempo hace aproximadamente que se formó la Tierra?",
+            [
+              "455 millones de años",
+              "45 500 años",
+              "455 000 años",
+              "4 550 millones de años"
+            ],
+            3,
+            "Los apuntes indican unos 4 550 millones de años."
+          ],
+          [
+            "Tiempo geológico",
+            "¿Qué es el tiempo geológico?",
+            [
+              "El tiempo que dura un día",
+              "La hora oficial de cada país",
+              "La historia de la Tierra a lo largo de millones de años",
+              "El tiempo que tarda un río en desembocar"
+            ],
+            2,
+            "Es la escala de tiempo utilizada para estudiar la historia de la Tierra."
+          ],
+          [
+            "Tiempo geológico",
+            "¿Dónde se conserva parte de la historia geológica de la Tierra?",
+            [
+              "En el aire de la troposfera",
+              "En los estratos sedimentarios",
+              "Solo en las nubes",
+              "En los husos horarios"
+            ],
+            1,
+            "Las capas de rocas sedimentarias pueden conservar registros del pasado."
+          ],
+          [
+            "Estructura terrestre",
+            "¿Cuáles son las tres capas principales del interior de la Tierra?",
+            [
+              "Corteza, manto y núcleo",
+              "Atmósfera, hidrosfera y biosfera",
+              "Troposfera, mesosfera y exosfera",
+              "Continente, isla y océano"
+            ],
+            0,
+            "La estructura interna se divide principalmente en corteza, manto y núcleo."
+          ],
+          [
+            "Estructura terrestre",
+            "¿Qué capa se encuentra en la parte más externa de la Tierra sólida?",
+            [
+              "Núcleo interno",
+              "Manto inferior",
+              "Núcleo externo",
+              "Corteza"
+            ],
+            3,
+            "La corteza es la capa sólida más exterior."
+          ],
+          [
+            "Estructura terrestre",
+            "¿Qué capa está entre la corteza y el núcleo?",
+            [
+              "Estratosfera",
+              "Hidrosfera",
+              "Manto",
+              "Núcleo interno"
+            ],
+            2,
+            "El manto se sitúa debajo de la corteza y por encima del núcleo."
+          ],
+          [
+            "Estructura terrestre",
+            "¿A partir de qué profundidad aproximada comienza el núcleo externo?",
+            [
+              "70 km",
+              "2 900 km",
+              "500 km",
+              "12 km"
+            ],
+            1,
+            "Según el esquema, el límite del manto se sitúa aproximadamente a 2 900 km."
+          ],
+          [
+            "Estructura terrestre",
+            "¿Cuál es el estado del núcleo externo?",
+            [
+              "Líquido",
+              "Gas",
+              "Hielo",
+              "Roca superficial sólida"
+            ],
+            0,
+            "El núcleo externo es principalmente líquido."
+          ],
+          [
+            "Estructura terrestre",
+            "¿Cuál es el estado del núcleo interno?",
+            [
+              "Líquido",
+              "Gaseoso",
+              "Plasma atmosférico",
+              "Sólido"
+            ],
+            3,
+            "El núcleo interno es sólido, debido a la presión extrema."
+          ],
+          [
+            "Estructura terrestre",
+            "¿Cuál es el radio aproximado de la Tierra señalado en los apuntes?",
+            [
+              "637 km",
+              "63 710 km",
+              "6 371 km",
+              "4 550 km"
+            ],
+            2,
+            "El radio medio terrestre es de unos 6 371 km."
+          ],
+          [
+            "Estructura terrestre",
+            "¿De qué elementos está compuesto principalmente el núcleo terrestre?",
+            [
+              "Hidrógeno y helio",
+              "Hierro y níquel",
+              "Calcio y carbono",
+              "Nitrógeno y oxígeno"
+            ],
+            1,
+            "El núcleo está formado sobre todo por hierro y níquel."
+          ],
+          [
+            "Placas tectónicas",
+            "¿Qué es la litosfera?",
+            [
+              "La capa rígida externa de la Tierra, dividida en placas",
+              "La capa de ozono",
+              "El agua de los océanos",
+              "El núcleo líquido"
+            ],
+            0,
+            "La litosfera incluye la corteza y la parte superior rígida del manto."
+          ],
+          [
+            "Placas tectónicas",
+            "¿Qué son las placas tectónicas?",
+            [
+              "Las franjas de clima",
+              "Las divisiones de los mapas políticos",
+              "Las capas internas del Sol",
+              "Fragmentos de litosfera que se desplazan lentamente"
+            ],
+            3,
+            "Son fragmentos rígidos de litosfera que se mueven muy lentamente."
+          ],
+          [
+            "Placas tectónicas",
+            "¿Sobre qué se desplazan lentamente las placas tectónicas?",
+            [
+              "Sobre la troposfera",
+              "Sobre el núcleo interno sin manto",
+              "Sobre una zona del manto que puede deformarse",
+              "Sobre los ríos subterráneos"
+            ],
+            2,
+            "Se mueven sobre materiales del manto superior con comportamiento plástico en escalas geológicas."
+          ],
+          [
+            "Placas tectónicas",
+            "¿Qué puede provocar el movimiento de las placas tectónicas?",
+            [
+              "La alternancia entre día y noche",
+              "Terremotos y formación de montañas",
+              "La formación de nubes por sí sola",
+              "El cambio de estaciones"
+            ],
+            1,
+            "Los bordes de placas concentran terremotos, volcanes y formación de relieves."
+          ],
+          [
+            "Placas tectónicas",
+            "¿Cómo se denomina el proceso de formación de montañas ligado al movimiento de placas?",
+            [
+              "Orogénesis",
+              "Fotosíntesis",
+              "Condensación",
+              "Rotación"
+            ],
+            0,
+            "La orogénesis se relaciona con la formación de cordilleras."
+          ],
+          [
+            "Placas tectónicas",
+            "¿Qué ocurre en un límite convergente?",
+            [
+              "Las placas se separan",
+              "Las placas no se mueven nunca",
+              "Las placas solo giran sobre sí mismas",
+              "Las placas se acercan y pueden chocar"
+            ],
+            3,
+            "En un borde convergente las placas se aproximan."
+          ],
+          [
+            "Placas tectónicas",
+            "¿Qué ocurre en un límite divergente?",
+            [
+              "Las placas chocan",
+              "Las placas dejan de moverse",
+              "Las placas se separan",
+              "Las placas desaparecen instantáneamente"
+            ],
+            2,
+            "Las placas se alejan entre sí en un límite divergente."
+          ],
+          [
+            "Placas tectónicas",
+            "¿Qué ocurre en un límite transformante?",
+            [
+              "Dos placas siempre se funden",
+              "Dos placas se deslizan lateralmente",
+              "Las placas se elevan verticalmente sin rozar",
+              "El núcleo sale al exterior"
+            ],
+            1,
+            "En estos límites las placas se desplazan lateralmente una respecto a otra."
+          ],
+          [
+            "Placas tectónicas",
+            "¿Por qué hay terremotos con frecuencia cerca de los límites entre placas?",
+            [
+              "Por el movimiento y roce entre placas",
+              "Por la luz solar",
+              "Por la evaporación del mar",
+              "Por la inclinación del eje terrestre"
+            ],
+            0,
+            "El movimiento y la acumulación de tensiones pueden liberar energía en forma de seísmos."
+          ],
+          [
+            "Placas tectónicas",
+            "Si dos placas se separan, ¿qué tipo de límite están formando?",
+            [
+              "Convergente",
+              "Transformante",
+              "Estático",
+              "Divergente"
+            ],
+            3,
+            "Separarse corresponde a un límite divergente."
+          ],
+          [
+            "Placas tectónicas",
+            "Si dos placas se rozan y desplazan lateralmente, ¿qué límite es?",
+            [
+              "Divergente",
+              "Convergente",
+              "Transformante",
+              "Submarino siempre"
+            ],
+            2,
+            "El movimiento lateral caracteriza el límite transformante."
+          ],
+          [
+            "Volcanes",
+            "¿Qué es un volcán?",
+            [
+              "Una montaña formada solo por nieve",
+              "Una grieta o abertura por donde puede salir magma al exterior",
+              "Un tipo de valle fluvial",
+              "Una capa de la atmósfera"
+            ],
+            1,
+            "Es una abertura de la corteza por la que salen materiales volcánicos."
+          ],
+          [
+            "Volcanes",
+            "¿Cómo se llama el magma cuando llega a la superficie?",
+            [
+              "Lava",
+              "Sedimento",
+              "Vapor",
+              "Granito"
+            ],
+            0,
+            "El magma se denomina lava al salir al exterior."
+          ],
+          [
+            "Volcanes",
+            "¿Qué parte del volcán conecta el interior con la abertura superior?",
+            [
+              "Delta",
+              "Cabo",
+              "Núcleo interno",
+              "Chimenea"
+            ],
+            3,
+            "La chimenea es el conducto por el que ascienden los materiales volcánicos."
+          ],
+          [
+            "Volcanes",
+            "¿Qué es el cráter de un volcán?",
+            [
+              "El río que rodea el volcán",
+              "La capa de ozono sobre la montaña",
+              "La abertura por donde salen materiales",
+              "La roca más profunda del núcleo"
+            ],
+            2,
+            "El cráter es la abertura situada generalmente en la cima."
+          ],
+          [
+            "Volcanes",
+            "¿Qué es el cono volcánico?",
+            [
+              "El conducto interior",
+              "La estructura formada alrededor de la salida por acumulación de materiales",
+              "Una columna de aire frío",
+              "El océano que rodea una isla"
+            ],
+            1,
+            "La acumulación de materiales expulsados construye el edificio volcánico."
+          ],
+          [
+            "Volcanes",
+            "¿Qué fenómeno puede acompañar a una erupción volcánica?",
+            [
+              "Salida de gases, ceniza y lava",
+              "Cambio del eje de rotación terrestre",
+              "Desaparición de la gravedad",
+              "Formación de isobaras en el suelo"
+            ],
+            0,
+            "Los volcanes pueden expulsar gases, cenizas y lava."
+          ],
+          [
+            "Atmósfera",
+            "¿Qué es la atmósfera?",
+            [
+              "La capa líquida del manto",
+              "El conjunto de montañas",
+              "Un límite entre placas",
+              "La envoltura gaseosa de la Tierra"
+            ],
+            3,
+            "La atmósfera es la capa de gases que rodea nuestro planeta."
+          ],
+          [
+            "Atmósfera",
+            "¿Qué gases predominan en el aire?",
+            [
+              "Ozono y metano",
+              "Argón y dióxido de carbono",
+              "Nitrógeno y oxígeno",
+              "Helio e hidrógeno"
+            ],
+            2,
+            "El aire está compuesto principalmente de nitrógeno y oxígeno."
+          ],
+          [
+            "Atmósfera",
+            "¿Cuál es la capa atmosférica más próxima a la superficie?",
+            [
+              "Estratosfera",
+              "Troposfera",
+              "Mesosfera",
+              "Exosfera"
+            ],
+            1,
+            "La troposfera es la capa inferior de la atmósfera."
+          ],
+          [
+            "Atmósfera",
+            "¿En qué capa se desarrolla la mayor parte del tiempo meteorológico?",
+            [
+              "Troposfera",
+              "Termosfera",
+              "Exosfera",
+              "Mesosfera"
+            ],
+            0,
+            "Nubes y fenómenos meteorológicos ocurren principalmente en la troposfera."
+          ],
+          [
+            "Atmósfera",
+            "¿En qué capa se concentra la mayor parte del ozono atmosférico?",
+            [
+              "Termosfera",
+              "Troposfera",
+              "Exosfera",
+              "Estratosfera"
+            ],
+            3,
+            "La estratosfera contiene la capa de ozono."
+          ],
+          [
+            "Atmósfera",
+            "¿Qué capa contiene la región donde se desintegran muchos meteoroides?",
+            [
+              "Troposfera",
+              "Estratosfera",
+              "Mesosfera",
+              "Exosfera"
+            ],
+            2,
+            "En la mesosfera se desintegran numerosos meteoroides."
+          ],
+          [
+            "Atmósfera",
+            "¿En qué capa suelen producirse las auroras?",
+            [
+              "Troposfera",
+              "Termosfera",
+              "Mesosfera",
+              "Estratosfera"
+            ],
+            1,
+            "Las auroras aparecen en regiones altas de la atmósfera, principalmente en la termosfera."
+          ],
+          [
+            "Atmósfera",
+            "¿Qué caracteriza a la exosfera?",
+            [
+              "Es la zona de transición hacia el espacio exterior",
+              "Contiene la mayoría de las nubes",
+              "Es la capa de ozono",
+              "Está debajo de la troposfera"
+            ],
+            0,
+            "En la exosfera los gases son extremadamente poco densos."
+          ],
+          [
+            "Atmósfera",
+            "¿Qué función importante cumple la capa de ozono?",
+            [
+              "Producir terremotos",
+              "Crear las estaciones",
+              "Formar continentes",
+              "Absorber gran parte de la radiación ultravioleta del Sol"
+            ],
+            3,
+            "El ozono estratosférico absorbe parte importante de la radiación UV."
+          ],
+          [
+            "Atmósfera",
+            "¿Cuál es el orden de las capas de la atmósfera desde el suelo?",
+            [
+              "Exosfera, termosfera, mesosfera, estratosfera y troposfera",
+              "Troposfera, mesosfera, estratosfera, exosfera y termosfera",
+              "Troposfera, estratosfera, mesosfera, termosfera y exosfera",
+              "Estratosfera, troposfera, termosfera, mesosfera y exosfera"
+            ],
+            2,
+            "Desde el suelo ascienden troposfera, estratosfera, mesosfera, termosfera y exosfera."
+          ],
+          [
+            "Erosión",
+            "¿Qué es la meteorización?",
+            [
+              "Acumulación de sedimentos en un río",
+              "Desgaste y fragmentación de rocas en el lugar donde están",
+              "Movimiento del magma al exterior",
+              "Formación de islas por placas"
+            ],
+            1,
+            "La meteorización altera y rompe rocas sin transportarlas necesariamente."
+          ],
+          [
+            "Erosión",
+            "¿Qué es la erosión?",
+            [
+              "Desgaste y arranque de materiales del relieve por agentes externos",
+              "Endurecimiento del núcleo",
+              "Formación del ozono",
+              "División de la Tierra en husos"
+            ],
+            0,
+            "Los agentes externos desgastan y pueden arrancar materiales del terreno."
+          ],
+          [
+            "Erosión",
+            "¿Qué ocurre durante el transporte de materiales?",
+            [
+              "Las placas se detienen",
+              "Los materiales se funden en el núcleo",
+              "Las nubes se transforman en rocas",
+              "Los fragmentos desprendidos son arrastrados"
+            ],
+            3,
+            "Agua, viento y otros agentes pueden arrastrar materiales."
+          ],
+          [
+            "Erosión",
+            "¿Qué es la sedimentación?",
+            [
+              "Desgaste de la roca sin movimiento",
+              "Salida de lava por un cráter",
+              "Depósito y acumulación de materiales transportados",
+              "Choque de placas tectónicas"
+            ],
+            2,
+            "Los sedimentos se depositan cuando el agente de transporte pierde energía."
+          ],
+          [
+            "Erosión",
+            "¿Cuál es la secuencia habitual de los procesos externos del relieve?",
+            [
+              "Sedimentación, volcán y rotación",
+              "Meteorización y erosión, transporte y sedimentación",
+              "Condensación, fotosíntesis y transporte",
+              "Orogénesis, eclipse y meteorización"
+            ],
+            1,
+            "Las rocas pueden alterarse y erosionarse, los materiales se transportan y finalmente se depositan."
+          ],
+          [
+            "Relieve costero",
+            "¿Qué es un cabo?",
+            [
+              "Una porción de tierra que se adentra en el mar",
+              "Una entrada de mar entre costas",
+              "Una superficie terrestre rodeada de agua",
+              "Una montaña elevada"
+            ],
+            0,
+            "El cabo sobresale de la costa hacia el mar."
+          ],
+          [
+            "Relieve costero",
+            "¿Qué es un golfo?",
+            [
+              "Una porción de tierra que sale al mar",
+              "Un terreno de gran altitud",
+              "Un conjunto de islas",
+              "Una entrada amplia del mar en la costa"
+            ],
+            3,
+            "El golfo es una penetración del mar en la costa."
+          ],
+          [
+            "Relieve costero",
+            "¿Qué diferencia habitual hay entre bahía y golfo?",
+            [
+              "La bahía es siempre un volcán",
+              "El golfo es siempre una isla",
+              "La bahía suele ser una entrada menor o más cerrada",
+              "La bahía está en el interior de la Tierra"
+            ],
+            2,
+            "En general la bahía suele ser una entrada de mar menor que un golfo."
+          ],
+          [
+            "Relieve costero",
+            "¿Qué es una playa?",
+            [
+              "Una elevación del núcleo",
+              "Acumulación de arena o grava junto a la costa",
+              "Un mar cerrado",
+              "Un volcán submarino"
+            ],
+            1,
+            "Las playas son zonas de sedimentos en la costa."
+          ],
+          [
+            "Relieve costero",
+            "¿Qué es una península?",
+            [
+              "Tierra rodeada de agua casi por completo y unida a otra mayor",
+              "Una isla que no toca tierra",
+              "Una montaña entre dos valles",
+              "Una desembocadura de río"
+            ],
+            0,
+            "Una península está unida al continente por una franja de tierra."
+          ],
+          [
+            "Relieve costero",
+            "¿Qué es una isla?",
+            [
+              "Una llanura entre montañas",
+              "Una entrada de mar en la costa",
+              "Una montaña siempre volcánica",
+              "Una porción de tierra rodeada de agua"
+            ],
+            3,
+            "Una isla está completamente rodeada de agua."
+          ],
+          [
+            "Relieve costero",
+            "¿Cómo se llama un conjunto de islas?",
+            [
+              "Cordillera",
+              "Llanura",
+              "Archipiélago",
+              "Delta"
+            ],
+            2,
+            "Un archipiélago es un grupo de islas."
+          ],
+          [
+            "Relieve costero",
+            "¿Qué es un delta?",
+            [
+              "Gran acantilado marino",
+              "Acumulación de sedimentos en la desembocadura de un río",
+              "Zona de choque de placas",
+              "Una capa de la atmósfera"
+            ],
+            1,
+            "El delta se forma por depósitos de sedimentos en la desembocadura de algunos ríos."
+          ],
+          [
+            "Relieve costero",
+            "¿Qué es un acantilado?",
+            [
+              "Pared rocosa de pendiente muy pronunciada junto al mar",
+              "Playa de arena fina",
+              "Entrada amplia del mar",
+              "Una llanura sedimentaria interior"
+            ],
+            0,
+            "Es un escarpe pronunciado, frecuente en las costas rocosas."
+          ],
+          [
+            "Relieve continental",
+            "¿Qué es una montaña?",
+            [
+              "Una zona plana junto al mar",
+              "Una entrada marina",
+              "Una superficie rodeada de agua",
+              "Elevación natural del terreno de considerable altura"
+            ],
+            3,
+            "Las montañas son grandes elevaciones naturales."
+          ],
+          [
+            "Relieve continental",
+            "¿Qué es una sierra?",
+            [
+              "Un conjunto de islas",
+              "Una depresión marina",
+              "Parte o conjunto de montañas dentro de una zona montañosa",
+              "Una gran llanura"
+            ],
+            2,
+            "Una sierra es un conjunto o alineación de montañas, que puede formar parte de una cordillera."
+          ],
+          [
+            "Relieve continental",
+            "¿Qué es una cordillera?",
+            [
+              "Un río ancho",
+              "Un conjunto extenso de montañas enlazadas",
+              "Una costa arenosa",
+              "Un grupo de deltas"
+            ],
+            1,
+            "Las cordilleras agrupan montañas relacionadas entre sí."
+          ],
+          [
+            "Relieve continental",
+            "¿Qué es una llanura?",
+            [
+              "Una extensión de terreno relativamente plana",
+              "Una pared rocosa vertical",
+              "Una montaña aislada",
+              "Una hendidura volcánica"
+            ],
+            0,
+            "Las llanuras son grandes áreas de poca pendiente."
+          ],
+          [
+            "Relieve continental",
+            "¿Qué es una llanura fluvial?",
+            [
+              "Una roca del núcleo",
+              "Una capa de ozono",
+              "Una costa de acantilados",
+              "Una llanura relacionada con la acción y depósitos de un río"
+            ],
+            3,
+            "Los ríos pueden transportar sedimentos y originar llanuras fluviales."
+          ],
+          [
+            "Grandes unidades del relieve",
+            "¿Qué son las cuencas sedimentarias?",
+            [
+              "Zonas donde siempre hay volcanes activos",
+              "Capas de la atmósfera",
+              "Grandes depresiones donde se acumulan sedimentos",
+              "Océanos sin fondos"
+            ],
+            2,
+            "En ellas se acumulan sedimentos a lo largo del tiempo."
+          ],
+          [
+            "Grandes unidades del relieve",
+            "¿Qué caracteriza a los escudos y macizos antiguos?",
+            [
+              "Se formaron hace unas pocas horas",
+              "Son materiales antiguos muy erosionados",
+              "Son exclusivamente costas arenosas",
+              "Se componen solo de hielo"
+            ],
+            1,
+            "Los apuntes señalan que son estructuras de rocas antiguas muy desgastadas."
+          ],
+          [
+            "Grandes unidades del relieve",
+            "¿Qué caracteriza a las cadenas montañosas más recientes?",
+            [
+              "Se formaron en etapas geológicas relativamente recientes y pueden alcanzar grandes alturas",
+              "Son totalmente planas",
+              "Están solo bajo los océanos",
+              "No se relacionan con los movimientos de placas"
+            ],
+            0,
+            "Las cadenas más recientes suelen estar ligadas a procesos de formación de montañas."
+          ],
+          [
+            "Grandes unidades del relieve",
+            "¿Qué cordillera aparece en los apuntes como ejemplo de cadena reciente?",
+            [
+              "Sierra de Guadarrama",
+              "Urales",
+              "Montes Apalaches",
+              "Cordillera de los Andes"
+            ],
+            3,
+            "Los apuntes citan la cordillera de los Andes."
+          ],
+          [
+            "Aplicación",
+            "Un río deposita arena y limo al llegar al mar. ¿Qué forma de relieve puede crear?",
+            [
+              "Un cráter",
+              "Una cordillera",
+              "Un delta",
+              "Una exosfera"
+            ],
+            2,
+            "La acumulación de sedimentos en la desembocadura puede formar un delta."
+          ],
+          [
+            "Aplicación",
+            "En una costa se observa una pared rocosa muy empinada. ¿Qué forma es?",
+            [
+              "Un golfo",
+              "Un acantilado",
+              "Una llanura",
+              "Una bahía"
+            ],
+            1,
+            "Un acantilado es una pared rocosa abrupta junto al mar."
+          ],
+          [
+            "Aplicación",
+            "¿Qué nombre recibe una masa de tierra casi rodeada por el mar y unida al continente?",
+            [
+              "Península",
+              "Isla",
+              "Delta",
+              "Golfo"
+            ],
+            0,
+            "La península permanece unida a una masa de tierra mayor."
+          ],
+          [
+            "Aplicación",
+            "Si una roca se fragmenta por cambios de temperatura pero permanece en su sitio, ¿qué proceso predomina?",
+            [
+              "Transporte",
+              "Sedimentación",
+              "Orogénesis",
+              "Meteorización"
+            ],
+            3,
+            "Se ha producido fragmentación sin desplazamiento de los fragmentos."
+          ],
+          [
+            "Aplicación",
+            "¿Qué acción forma parte del transporte en la modelación del relieve?",
+            [
+              "Las rocas se rompen sin moverse",
+              "Los sedimentos quedan depositados en un lago",
+              "El viento arrastra partículas de arena",
+              "Dos placas chocan"
+            ],
+            2,
+            "El viento que arrastra materiales es un agente de transporte."
+          ],
+          [
+            "Aplicación",
+            "¿Qué explica que una cordillera pueda formarse por el choque de placas?",
+            [
+              "El giro diario de la Tierra",
+              "El movimiento tectónico",
+              "La inclinación terrestre",
+              "El ciclo de la Luna"
+            ],
+            1,
+            "Las fuerzas tectónicas pueden elevar y deformar la corteza."
+          ]
+        ]
+      },
+      {
+        "id": "mix12",
+        "title": "Examen conjunto · Temas 1 y 2",
+        "desc": "Preguntas de ambos temas mezcladas en un solo examen · 10, 20 o todas",
+        "questions": [
+          [
+            "Cartografía",
+            "¿Qué es la cartografía?",
+            [
+              "La ciencia que estudia y elabora mapas",
+              "El estudio de los planetas",
+              "La ciencia del clima",
+              "Una forma de medir el tiempo"
+            ],
+            0,
+            "La cartografía se ocupa de representar la superficie terrestre mediante mapas."
+          ],
+          [
+            "Cartografía",
+            "¿Qué es una proyección cartográfica?",
+            [
+              "Una fotografía desde el espacio",
+              "Una manera de representar la Tierra en un plano",
+              "Un instrumento para medir la lluvia",
+              "La línea del ecuador"
+            ],
+            1,
+            "Permite pasar la superficie curva de la Tierra a una superficie plana."
+          ],
+          [
+            "Proyecciones",
+            "¿En qué superficie se representa la Tierra en la proyección cilíndrica?",
+            [
+              "Un cono",
+              "Un cilindro",
+              "Un cubo",
+              "Una esfera pequeña"
+            ],
+            1,
+            "La proyección cilíndrica se basa en un cilindro."
+          ],
+          [
+            "Proyecciones",
+            "¿Qué zona aparece más deformada en muchas proyecciones cilíndricas?",
+            [
+              "El ecuador",
+              "Los polos",
+              "El océano Atlántico",
+              "El hemisferio sur únicamente"
+            ],
+            1,
+            "Las deformaciones aumentan hacia los polos."
+          ],
+          [
+            "Proyecciones",
+            "¿Sobre qué figura se proyecta la Tierra en la proyección cónica?",
+            [
+              "Un círculo",
+              "Un cuadrado",
+              "Un cono",
+              "Un triángulo plano"
+            ],
+            2,
+            "Se usa una superficie en forma de cono."
+          ],
+          [
+            "Proyecciones",
+            "¿Qué proyección representa la Tierra sobre un plano?",
+            [
+              "Cenital o plana",
+              "Cónica",
+              "Cilíndrica",
+              "Lineal"
+            ],
+            0,
+            "La cenital utiliza un plano, habitualmente tangente a un punto."
+          ],
+          [
+            "Proyecciones",
+            "¿Para qué zonas es especialmente útil una proyección cenital polar?",
+            [
+              "Para representar regiones cercanas al polo",
+              "Solo para el ecuador",
+              "Para dibujar carreteras",
+              "Para medir temperaturas"
+            ],
+            0,
+            "Una proyección cenital centrada en un polo representa bien su entorno."
+          ],
+          [
+            "Mapas",
+            "¿Para qué sirve la escala de un mapa?",
+            [
+              "Para señalar países",
+              "Para relacionar distancias del mapa con distancias reales",
+              "Para indicar el norte",
+              "Para mostrar los ríos"
+            ],
+            1,
+            "La escala compara la distancia representada con la distancia real."
+          ],
+          [
+            "Mapas",
+            "¿Qué dos tipos de escala suelen utilizarse?",
+            [
+              "Alta y baja",
+              "Numérica y gráfica",
+              "Física y política",
+              "Grande y redonda"
+            ],
+            1,
+            "Una escala puede expresarse con una proporción o con una barra."
+          ],
+          [
+            "Mapas",
+            "Si un mapa tiene escala 1:100 000, ¿cuánto representa 1 cm?",
+            [
+              "100 m",
+              "1 km",
+              "10 km",
+              "100 km"
+            ],
+            1,
+            "100 000 cm equivalen a 1 km."
+          ],
+          [
+            "Mapas",
+            "¿Qué elemento del mapa explica sus símbolos y colores?",
+            [
+              "Título",
+              "Leyenda",
+              "Orientación",
+              "Escala"
+            ],
+            1,
+            "La leyenda permite interpretar los símbolos."
+          ],
+          [
+            "Mapas",
+            "¿Qué elemento del mapa indica de qué trata?",
+            [
+              "El título",
+              "La leyenda",
+              "La escala",
+              "La cuadrícula"
+            ],
+            0,
+            "El título resume el contenido del mapa."
+          ],
+          [
+            "Mapas",
+            "¿Qué son las curvas de nivel?",
+            [
+              "Líneas de igual altura",
+              "Los límites de los países",
+              "Las rutas de aviones",
+              "Líneas que unen ciudades"
+            ],
+            0,
+            "Unen puntos de la misma altitud en un mapa topográfico."
+          ],
+          [
+            "Tecnología",
+            "¿Para qué sirve el GPS?",
+            [
+              "Para medir el calor",
+              "Para saber una posición mediante satélites",
+              "Para dibujar planetas",
+              "Para contar estaciones"
+            ],
+            1,
+            "El GPS es un sistema de posicionamiento por satélite."
+          ],
+          [
+            "Tecnología",
+            "¿Qué herramienta permite observar grandes zonas de la Tierra desde arriba?",
+            [
+              "La fotografía aérea y las imágenes de satélite",
+              "El termómetro",
+              "La brújula únicamente",
+              "El reloj"
+            ],
+            0,
+            "Son herramientas utilizadas en cartografía y geografía."
+          ],
+          [
+            "Sistema solar",
+            "¿Qué astro ocupa el centro del sistema solar?",
+            [
+              "La Tierra",
+              "La Luna",
+              "El Sol",
+              "Júpiter"
+            ],
+            2,
+            "Los ocho planetas orbitan alrededor del Sol."
+          ],
+          [
+            "Sistema solar",
+            "¿Cuántos planetas tiene el sistema solar?",
+            [
+              "Siete",
+              "Ocho",
+              "Nueve",
+              "Diez"
+            ],
+            1,
+            "Mercurio, Venus, Tierra, Marte, Júpiter, Saturno, Urano y Neptuno."
+          ],
+          [
+            "Sistema solar",
+            "¿Qué planeta está más cerca del Sol?",
+            [
+              "Venus",
+              "Mercurio",
+              "Marte",
+              "La Tierra"
+            ],
+            1,
+            "Mercurio es el planeta más cercano al Sol."
+          ],
+          [
+            "Sistema solar",
+            "¿Qué planeta es conocido por sus grandes anillos?",
+            [
+              "Marte",
+              "Venus",
+              "Saturno",
+              "Mercurio"
+            ],
+            2,
+            "Saturno tiene un sistema de anillos muy visible."
+          ],
+          [
+            "Sistema solar",
+            "¿Entre qué planetas está situada la Tierra?",
+            [
+              "Mercurio y Marte",
+              "Venus y Marte",
+              "Marte y Júpiter",
+              "Venus y Júpiter"
+            ],
+            1,
+            "La Tierra es el tercer planeta del sistema solar."
+          ],
+          [
+            "La Tierra",
+            "¿Qué capa gaseosa protege la Tierra y hace posible la vida?",
+            [
+              "La corteza",
+              "La atmósfera",
+              "El núcleo",
+              "El manto"
+            ],
+            1,
+            "La atmósfera contiene gases indispensables para la vida y contribuye a protegernos."
+          ],
+          [
+            "La Tierra",
+            "¿En qué estado puede encontrarse de forma abundante el agua terrestre?",
+            [
+              "Solo sólido",
+              "Solo gaseoso",
+              "Sólido, líquido y gaseoso",
+              "Solo líquido"
+            ],
+            2,
+            "En nuestro planeta hay hielo, agua líquida y vapor de agua."
+          ],
+          [
+            "Movimientos",
+            "¿Cómo se llama el giro de la Tierra sobre su eje?",
+            [
+              "Traslación",
+              "Rotación",
+              "Proyección",
+              "Solsticio"
+            ],
+            1,
+            "La rotación provoca la sucesión de días y noches."
+          ],
+          [
+            "Movimientos",
+            "¿Cuánto dura aproximadamente una rotación terrestre?",
+            [
+              "12 horas",
+              "24 horas",
+              "30 días",
+              "365 días"
+            ],
+            1,
+            "La Tierra tarda unas 24 horas en completar el giro."
+          ],
+          [
+            "Movimientos",
+            "¿Cómo se llama el movimiento de la Tierra alrededor del Sol?",
+            [
+              "Rotación",
+              "Traslación",
+              "Latitud",
+              "Equinoccio"
+            ],
+            1,
+            "La traslación tarda aproximadamente un año."
+          ],
+          [
+            "Movimientos",
+            "¿Cuánto dura aproximadamente la traslación de la Tierra?",
+            [
+              "24 horas",
+              "7 días",
+              "30 días",
+              "365 días y 6 horas"
+            ],
+            3,
+            "Por eso hay años bisiestos aproximadamente cada cuatro años."
+          ],
+          [
+            "Movimientos",
+            "¿Cuál es la causa principal de las estaciones del año?",
+            [
+              "La distancia cambiante al Sol",
+              "La inclinación del eje terrestre y la traslación",
+              "Las fases lunares",
+              "Las nubes"
+            ],
+            1,
+            "El eje inclinado hace variar la iluminación de cada hemisferio durante el año."
+          ],
+          [
+            "Husos horarios",
+            "¿Qué representan los husos horarios?",
+            [
+              "Zonas que comparten la misma hora oficial o de referencia",
+              "Los continentes",
+              "Zonas con igual temperatura",
+              "Líneas de los mapas físicos"
+            ],
+            0,
+            "Dividen el mundo en zonas horarias; los límites oficiales no siempre son rectos."
+          ],
+          [
+            "Husos horarios",
+            "Si viajas hacia el este atravesando husos horarios, normalmente debes…",
+            [
+              "Retrasar el reloj",
+              "Adelantar el reloj",
+              "No cambiar la hora jamás",
+              "Cambiar la fecha siempre"
+            ],
+            1,
+            "Hacia el este las horas suelen ir adelantadas."
+          ],
+          [
+            "Solsticios",
+            "¿Qué ocurre en un solsticio?",
+            [
+              "Día y noche duran lo mismo en todas partes",
+              "Se alcanza una de las mayores diferencias entre duración del día y de la noche",
+              "La Tierra deja de girar",
+              "La Luna tapa el Sol"
+            ],
+            1,
+            "Los solsticios marcan extremos de duración del día según el hemisferio."
+          ],
+          [
+            "Equinoccios",
+            "¿Qué ocurre aproximadamente en los equinoccios?",
+            [
+              "Día y noche duran casi lo mismo",
+              "Es el día más largo del año",
+              "No hay amanecer",
+              "El Sol está más cerca de la Tierra"
+            ],
+            0,
+            "En torno a los equinoccios, el día y la noche tienen duraciones similares."
+          ],
+          [
+            "Coordenadas",
+            "¿Qué nos indica la latitud?",
+            [
+              "Si un lugar está al norte o sur del ecuador",
+              "Si está al este u oeste de Greenwich",
+              "Su altura sobre el mar",
+              "La temperatura media"
+            ],
+            0,
+            "Se mide en grados desde el ecuador hacia el norte o el sur."
+          ],
+          [
+            "Coordenadas",
+            "¿Qué nos indica la longitud?",
+            [
+              "La distancia al Sol",
+              "Si un lugar está al este u oeste del meridiano de Greenwich",
+              "Su latitud",
+              "La altura de una montaña"
+            ],
+            1,
+            "Se mide hacia el este o el oeste del meridiano de Greenwich."
+          ],
+          [
+            "Coordenadas",
+            "¿Cuál es la latitud del ecuador?",
+            [
+              "0°",
+              "45° N",
+              "90° S",
+              "180°"
+            ],
+            0,
+            "El ecuador corresponde a 0 grados de latitud."
+          ],
+          [
+            "Relieve",
+            "¿Qué representa un mapa topográfico?",
+            [
+              "Únicamente ciudades",
+              "El relieve y otros elementos del terreno",
+              "Solo países",
+              "Las órbitas planetarias"
+            ],
+            1,
+            "Los mapas topográficos muestran características y alturas del terreno."
+          ],
+          [
+            "Relieve",
+            "¿Qué es una meseta?",
+            [
+              "Un relieve elevado y relativamente llano",
+              "Un valle submarino",
+              "Una montaña de pico muy agudo",
+              "Una isla volcánica siempre"
+            ],
+            0,
+            "Una meseta es una superficie llana situada a cierta altitud."
+          ],
+          [
+            "La Tierra",
+            "¿Qué forma tiene aproximadamente la Tierra?",
+            [
+              "Un cubo",
+              "Una esfera ligeramente achatada por los polos",
+              "Un disco plano",
+              "Un cono"
+            ],
+            1,
+            "La Tierra es aproximadamente un esferoide oblato."
+          ],
+          [
+            "La Tierra",
+            "¿Qué es el eje terrestre?",
+            [
+              "Una línea imaginaria sobre la que gira la Tierra",
+              "El ecuador",
+              "La órbita de la Luna",
+              "Un meridiano cualquiera"
+            ],
+            0,
+            "Es la línea imaginaria que atraviesa los polos geográficos."
+          ],
+          [
+            "La Tierra",
+            "¿Qué divide la Tierra en hemisferio norte y hemisferio sur?",
+            [
+              "Greenwich",
+              "El trópico de Cáncer",
+              "El ecuador",
+              "El círculo polar ártico"
+            ],
+            2,
+            "El ecuador es el paralelo de latitud 0°."
+          ],
+          [
+            "La Tierra",
+            "¿Qué capa terrestre contiene océanos, ríos y lagos?",
+            [
+              "Atmósfera",
+              "Hidrosfera",
+              "Litosfera",
+              "Núcleo"
+            ],
+            1,
+            "La hidrosfera comprende el agua del planeta."
+          ],
+          [
+            "La Tierra",
+            "¿Cómo se llama el satélite natural de la Tierra?",
+            [
+              "Marte",
+              "Fobos",
+              "La Luna",
+              "Venus"
+            ],
+            2,
+            "La Luna es el satélite natural de la Tierra."
+          ],
+          [
+            "Sistema solar",
+            "¿Cuál es el planeta más grande del sistema solar?",
+            [
+              "La Tierra",
+              "Saturno",
+              "Júpiter",
+              "Neptuno"
+            ],
+            2,
+            "Júpiter es el planeta de mayor tamaño."
+          ],
+          [
+            "Sistema solar",
+            "¿Qué separa principalmente a los planetas interiores de los gigantes exteriores?",
+            [
+              "La Vía Láctea",
+              "El cinturón principal de asteroides",
+              "La Luna",
+              "El ecuador"
+            ],
+            1,
+            "El cinturón principal de asteroides está entre Marte y Júpiter."
+          ],
+          [
+            "Sistema solar",
+            "¿Cuál de los siguientes es un planeta rocoso?",
+            [
+              "Neptuno",
+              "Saturno",
+              "Urano",
+              "Marte"
+            ],
+            3,
+            "Marte pertenece a los planetas terrestres o rocosos."
+          ],
+          [
+            "Movimientos",
+            "¿Por qué se suceden el día y la noche?",
+            [
+              "Porque la Luna tapa el Sol a diario",
+              "Por la rotación de la Tierra",
+              "Porque el Sol gira alrededor de la Tierra",
+              "Por las estaciones"
+            ],
+            1,
+            "La rotación hace que una parte del planeta reciba luz y otra quede en sombra."
+          ],
+          [
+            "Movimientos",
+            "¿En qué sentido gira la Tierra vista desde encima del polo norte?",
+            [
+              "De oeste a este",
+              "De este a oeste",
+              "De norte a sur",
+              "No gira"
+            ],
+            0,
+            "La rotación se realiza de oeste a este, en sentido antihorario vista desde el polo norte."
+          ],
+          [
+            "Movimientos",
+            "¿Por qué vemos salir el Sol aproximadamente por el este?",
+            [
+              "Porque el Sol gira alrededor de la Tierra cada día",
+              "Porque la Tierra gira hacia el este",
+              "Porque el eje es vertical",
+              "Porque la Luna lo empuja"
+            ],
+            1,
+            "La Tierra gira de oeste a este y el Sol parece desplazarse en sentido contrario."
+          ],
+          [
+            "Movimientos",
+            "Si en el hemisferio norte es verano, en el hemisferio sur es…",
+            [
+              "Verano",
+              "Primavera",
+              "Invierno",
+              "Otoño siempre"
+            ],
+            2,
+            "Los hemisferios tienen estaciones opuestas."
+          ],
+          [
+            "Movimientos",
+            "¿Qué inclinación aproximada tiene el eje terrestre respecto a la perpendicular al plano de su órbita?",
+            [
+              "0°",
+              "23,5°",
+              "45°",
+              "90°"
+            ],
+            1,
+            "La inclinación de unos 23,5° influye en las estaciones."
+          ],
+          [
+            "Solsticios",
+            "¿Qué solsticio da comienzo aproximadamente al verano astronómico en el hemisferio norte?",
+            [
+              "El de junio",
+              "El de diciembre",
+              "El de marzo",
+              "El de septiembre"
+            ],
+            0,
+            "En torno al 21 de junio comienza el verano astronómico del norte."
+          ],
+          [
+            "Solsticios",
+            "¿En qué época suele ocurrir el día más corto del año en España?",
+            [
+              "Solsticio de junio",
+              "Equinoccio de marzo",
+              "Solsticio de diciembre",
+              "Equinoccio de septiembre"
+            ],
+            2,
+            "Cerca del solsticio de diciembre los días son más cortos en el hemisferio norte."
+          ],
+          [
+            "Equinoccios",
+            "¿Cuántos equinoccios hay cada año?",
+            [
+              "Uno",
+              "Dos",
+              "Tres",
+              "Cuatro"
+            ],
+            1,
+            "Se producen aproximadamente en marzo y septiembre."
+          ],
+          [
+            "Equinoccios",
+            "¿En qué meses tienen lugar aproximadamente los equinoccios?",
+            [
+              "Enero y julio",
+              "Marzo y septiembre",
+              "Junio y diciembre",
+              "Febrero y agosto"
+            ],
+            1,
+            "Coinciden con el inicio astronómico de primavera y otoño."
+          ],
+          [
+            "Coordenadas",
+            "¿Cómo se llaman las líneas imaginarias paralelas al ecuador?",
+            [
+              "Meridianos",
+              "Paralelos",
+              "Husos",
+              "Trópicos solamente"
+            ],
+            1,
+            "Los paralelos indican la latitud."
+          ],
+          [
+            "Coordenadas",
+            "¿Cómo se llaman los semicírculos imaginarios que unen los polos?",
+            [
+              "Paralelos",
+              "Trópicos",
+              "Meridianos",
+              "Isobaras"
+            ],
+            2,
+            "Los meridianos se emplean para medir la longitud."
+          ],
+          [
+            "Coordenadas",
+            "¿Cuál es el meridiano de referencia para calcular la longitud?",
+            [
+              "El de Greenwich",
+              "El ecuador",
+              "El trópico de Capricornio",
+              "El de 90° oeste"
+            ],
+            0,
+            "El meridiano de Greenwich se toma como 0° de longitud."
+          ],
+          [
+            "Coordenadas",
+            "Una localización con latitud 30° S está…",
+            [
+              "Al norte del ecuador",
+              "Al sur del ecuador",
+              "Sobre Greenwich",
+              "En el polo norte"
+            ],
+            1,
+            "La letra S indica hemisferio sur."
+          ],
+          [
+            "Coordenadas",
+            "Una longitud de 15° O indica que el lugar está…",
+            [
+              "Al este de Greenwich",
+              "Al oeste de Greenwich",
+              "Al norte del ecuador",
+              "En el polo sur"
+            ],
+            1,
+            "La O significa oeste."
+          ],
+          [
+            "Coordenadas",
+            "¿Cuál es la latitud máxima posible?",
+            [
+              "45°",
+              "90°",
+              "180°",
+              "360°"
+            ],
+            1,
+            "Los polos están a 90° norte o sur."
+          ],
+          [
+            "Coordenadas",
+            "¿Qué latitud tiene el polo norte?",
+            [
+              "0°",
+              "90° S",
+              "180° O",
+              "90° N"
+            ],
+            3,
+            "El polo norte está situado a 90° N."
+          ],
+          [
+            "Coordenadas",
+            "Si un punto tiene coordenadas 20° N, 10° E, ¿en qué hemisferios está?",
+            [
+              "Norte y oriental",
+              "Sur y occidental",
+              "Norte y occidental",
+              "Sur y oriental"
+            ],
+            0,
+            "N indica norte y E indica este u oriental."
+          ],
+          [
+            "Husos horarios",
+            "¿Cuántos grados de longitud corresponden aproximadamente a una hora solar?",
+            [
+              "5°",
+              "10°",
+              "15°",
+              "30°"
+            ],
+            2,
+            "360° ÷ 24 h = 15° por hora."
+          ],
+          [
+            "Husos horarios",
+            "Si en un lugar son las 10:00 y otro está dos husos al este, teóricamente allí son…",
+            [
+              "08:00",
+              "10:00",
+              "12:00",
+              "14:00"
+            ],
+            2,
+            "Al viajar dos husos hacia el este se adelantan dos horas, como regla teórica."
+          ],
+          [
+            "Husos horarios",
+            "Si en un lugar son las 18:00 y otro está tres husos al oeste, teóricamente allí son…",
+            [
+              "15:00",
+              "18:00",
+              "21:00",
+              "03:00"
+            ],
+            0,
+            "Hacia el oeste se restan horas: 18 − 3 = 15."
+          ],
+          [
+            "Husos horarios",
+            "¿Por qué los límites reales de los husos horarios no son siempre rectos?",
+            [
+              "Por las nubes",
+              "Porque los países fijan sus horarios oficiales",
+              "Porque la Tierra deja de girar",
+              "Porque los paralelos son curvos"
+            ],
+            1,
+            "Las decisiones políticas y territoriales influyen en la hora oficial."
+          ],
+          [
+            "Cartografía",
+            "¿Qué tipo de mapa muestra las fronteras de los países?",
+            [
+              "Político",
+              "Meteorológico",
+              "Geológico",
+              "Topográfico solamente"
+            ],
+            0,
+            "Los mapas políticos representan países, fronteras y divisiones administrativas."
+          ],
+          [
+            "Cartografía",
+            "¿Qué mapa es más adecuado para identificar montañas y ríos?",
+            [
+              "Mapa político",
+              "Mapa físico",
+              "Mapa electoral",
+              "Mapa del metro"
+            ],
+            1,
+            "Los mapas físicos representan elementos naturales del territorio."
+          ],
+          [
+            "Cartografía",
+            "¿Qué es un plano urbano?",
+            [
+              "Un mapa de estrellas",
+              "Una representación detallada de una ciudad y sus calles",
+              "Una imagen de la Luna",
+              "Un globo terráqueo"
+            ],
+            1,
+            "Los planos urbanos muestran calles y otros detalles de una ciudad."
+          ],
+          [
+            "Mapas",
+            "¿Qué suele señalar una flecha con la letra N en un mapa?",
+            [
+              "La distancia",
+              "El norte",
+              "La escala",
+              "La altitud"
+            ],
+            1,
+            "Sirve para orientar el mapa respecto al norte."
+          ],
+          [
+            "Mapas",
+            "En una escala 1:50 000, ¿qué distancia real representan 2 cm?",
+            [
+              "100 m",
+              "500 m",
+              "1 km",
+              "10 km"
+            ],
+            2,
+            "2 × 50 000 cm = 100 000 cm = 1 km."
+          ],
+          [
+            "Mapas",
+            "En una escala 1:200 000, ¿qué distancia real representa 1 cm?",
+            [
+              "200 m",
+              "2 km",
+              "20 km",
+              "200 km"
+            ],
+            1,
+            "200 000 cm son 2 km."
+          ],
+          [
+            "Mapas",
+            "¿Qué escala muestra más detalle para la misma superficie del papel?",
+            [
+              "1:10 000",
+              "1:1 000 000",
+              "Ambas el mismo detalle",
+              "No depende de la escala"
+            ],
+            0,
+            "La escala 1:10 000 es mayor y permite representar más detalle."
+          ],
+          [
+            "Mapas",
+            "Si 1 cm en un mapa equivale a 5 km en la realidad, ¿qué distancia son 3 cm?",
+            [
+              "8 km",
+              "10 km",
+              "15 km",
+              "20 km"
+            ],
+            2,
+            "3 × 5 = 15 km."
+          ],
+          [
+            "Mapas",
+            "¿Qué significa la escala 1:25 000?",
+            [
+              "1 cm representa 25 000 km",
+              "1 unidad en el mapa representa 25 000 unidades reales",
+              "El mapa mide 25 000 cm",
+              "Solo representa ciudades"
+            ],
+            1,
+            "La proporción usa la misma unidad en ambas cantidades."
+          ],
+          [
+            "Relieve",
+            "¿Cómo se llama un terreno bajo situado entre montañas?",
+            [
+              "Meseta",
+              "Valle",
+              "Cordillera",
+              "Cabo"
+            ],
+            1,
+            "Un valle es una depresión alargada, a menudo recorrida por un río."
+          ],
+          [
+            "Relieve",
+            "¿Qué significa altitud?",
+            [
+              "Distancia al ecuador",
+              "Altura de un lugar respecto al nivel del mar",
+              "Distancia hasta el Sol",
+              "Longitud de un río"
+            ],
+            1,
+            "La altitud se expresa normalmente en metros sobre el nivel del mar."
+          ],
+          [
+            "Relieve",
+            "Si las curvas de nivel están muy juntas, el terreno suele tener…",
+            [
+              "Poca pendiente",
+              "Pendiente pronunciada",
+              "Altitud cero",
+              "Ningún relieve"
+            ],
+            1,
+            "Curvas próximas indican cambios rápidos de altitud y mucha pendiente."
+          ],
+          [
+            "Proyecciones",
+            "¿Por qué todos los mapas planos del mundo presentan alguna deformación?",
+            [
+              "Porque son dibujos antiguos",
+              "Porque una superficie curva no puede aplanarse sin distorsiones",
+              "Porque no existen satélites",
+              "Porque la Tierra es plana"
+            ],
+            1,
+            "Al pasar una esfera al plano se alteran áreas, formas, distancias o direcciones."
+          ],
+          [
+            "Proyecciones",
+            "¿Qué proyección suele ser más apropiada para mostrar latitudes medias de una región extensa?",
+            [
+              "Cónica",
+              "Cilíndrica polar siempre",
+              "Solo cenital ecuatorial",
+              "Ninguna proyección sirve"
+            ],
+            0,
+            "Muchas proyecciones cónicas resultan útiles para representar latitudes medias."
+          ],
+          [
+            "Proyecciones",
+            "En una proyección cenital polar, ¿dónde suele situarse el punto central?",
+            [
+              "En el ecuador",
+              "En uno de los polos",
+              "En Greenwich siempre",
+              "En la Luna"
+            ],
+            1,
+            "El plano se centra en la zona polar que se representa."
+          ],
+          [
+            "Tecnología",
+            "¿Qué herramienta digital combina capas de datos geográficos?",
+            [
+              "Sistema de información geográfica (SIG)",
+              "Calculadora básica",
+              "Microscopio",
+              "Barómetro"
+            ],
+            0,
+            "Un SIG permite analizar y representar información espacial en diferentes capas."
+          ],
+          [
+            "Tecnología",
+            "¿Para qué sirven las imágenes de satélite en geografía?",
+            [
+              "Solo para crear dibujos",
+              "Para observar cambios y elementos de la superficie terrestre",
+              "Para detener la rotación",
+              "Para cambiar los husos horarios"
+            ],
+            1,
+            "Se usan para estudiar paisajes, vegetación, ciudades y sus cambios."
+          ],
+          [
+            "Orientación",
+            "Si miras hacia el norte, ¿qué punto cardinal queda a tu derecha?",
+            [
+              "Oeste",
+              "Este",
+              "Sur",
+              "Noroeste"
+            ],
+            1,
+            "Mirando al norte, el este está a la derecha."
+          ],
+          [
+            "Orientación",
+            "Si miras hacia el sur, ¿qué punto cardinal queda a tu izquierda?",
+            [
+              "Este",
+              "Norte",
+              "Oeste",
+              "Noreste"
+            ],
+            0,
+            "Mirando al sur, el este queda a la izquierda."
+          ],
+          [
+            "Orientación",
+            "¿Cuál de estos puntos es intermedio entre norte y este?",
+            [
+              "Suroeste",
+              "Noroeste",
+              "Sureste",
+              "Noreste"
+            ],
+            3,
+            "Noreste está a mitad de camino entre norte y este."
+          ],
+          [
+            "Cartografía",
+            "¿Qué ventaja principal tiene un globo terráqueo frente a un planisferio?",
+            [
+              "Representa mejor la forma global del planeta",
+              "Permite ver toda la Tierra a la vez",
+              "No ocupa espacio",
+              "Siempre muestra más calles"
+            ],
+            0,
+            "El globo conserva mejor la geometría global de la Tierra."
+          ],
+          [
+            "Relieve",
+            "¿Qué es el relieve terrestre?",
+            [
+              "Las capas de gases que rodean la Tierra",
+              "El conjunto de formas de la superficie terrestre",
+              "El movimiento de rotación",
+              "La distribución de los continentes"
+            ],
+            1,
+            "Es el conjunto de formas y desigualdades de la superficie terrestre."
+          ],
+          [
+            "Relieve",
+            "¿Qué afirmación sobre el relieve es correcta?",
+            [
+              "Cambia mediante procesos internos y externos",
+              "Permanece igual desde su origen",
+              "Solo cambia cuando llueve",
+              "Solo existe en los continentes"
+            ],
+            0,
+            "El relieve se forma y modifica por procesos internos y externos."
+          ],
+          [
+            "Tiempo geológico",
+            "¿Cuánto tiempo hace aproximadamente que se formó la Tierra?",
+            [
+              "455 millones de años",
+              "45 500 años",
+              "455 000 años",
+              "4 550 millones de años"
+            ],
+            3,
+            "Los apuntes indican unos 4 550 millones de años."
+          ],
+          [
+            "Tiempo geológico",
+            "¿Qué es el tiempo geológico?",
+            [
+              "El tiempo que dura un día",
+              "La hora oficial de cada país",
+              "La historia de la Tierra a lo largo de millones de años",
+              "El tiempo que tarda un río en desembocar"
+            ],
+            2,
+            "Es la escala de tiempo utilizada para estudiar la historia de la Tierra."
+          ],
+          [
+            "Tiempo geológico",
+            "¿Dónde se conserva parte de la historia geológica de la Tierra?",
+            [
+              "En el aire de la troposfera",
+              "En los estratos sedimentarios",
+              "Solo en las nubes",
+              "En los husos horarios"
+            ],
+            1,
+            "Las capas de rocas sedimentarias pueden conservar registros del pasado."
+          ],
+          [
+            "Estructura terrestre",
+            "¿Cuáles son las tres capas principales del interior de la Tierra?",
+            [
+              "Corteza, manto y núcleo",
+              "Atmósfera, hidrosfera y biosfera",
+              "Troposfera, mesosfera y exosfera",
+              "Continente, isla y océano"
+            ],
+            0,
+            "La estructura interna se divide principalmente en corteza, manto y núcleo."
+          ],
+          [
+            "Estructura terrestre",
+            "¿Qué capa se encuentra en la parte más externa de la Tierra sólida?",
+            [
+              "Núcleo interno",
+              "Manto inferior",
+              "Núcleo externo",
+              "Corteza"
+            ],
+            3,
+            "La corteza es la capa sólida más exterior."
+          ],
+          [
+            "Estructura terrestre",
+            "¿Qué capa está entre la corteza y el núcleo?",
+            [
+              "Estratosfera",
+              "Hidrosfera",
+              "Manto",
+              "Núcleo interno"
+            ],
+            2,
+            "El manto se sitúa debajo de la corteza y por encima del núcleo."
+          ],
+          [
+            "Estructura terrestre",
+            "¿A partir de qué profundidad aproximada comienza el núcleo externo?",
+            [
+              "70 km",
+              "2 900 km",
+              "500 km",
+              "12 km"
+            ],
+            1,
+            "Según el esquema, el límite del manto se sitúa aproximadamente a 2 900 km."
+          ],
+          [
+            "Estructura terrestre",
+            "¿Cuál es el estado del núcleo externo?",
+            [
+              "Líquido",
+              "Gas",
+              "Hielo",
+              "Roca superficial sólida"
+            ],
+            0,
+            "El núcleo externo es principalmente líquido."
+          ],
+          [
+            "Estructura terrestre",
+            "¿Cuál es el estado del núcleo interno?",
+            [
+              "Líquido",
+              "Gaseoso",
+              "Plasma atmosférico",
+              "Sólido"
+            ],
+            3,
+            "El núcleo interno es sólido, debido a la presión extrema."
+          ],
+          [
+            "Estructura terrestre",
+            "¿Cuál es el radio aproximado de la Tierra señalado en los apuntes?",
+            [
+              "637 km",
+              "63 710 km",
+              "6 371 km",
+              "4 550 km"
+            ],
+            2,
+            "El radio medio terrestre es de unos 6 371 km."
+          ],
+          [
+            "Estructura terrestre",
+            "¿De qué elementos está compuesto principalmente el núcleo terrestre?",
+            [
+              "Hidrógeno y helio",
+              "Hierro y níquel",
+              "Calcio y carbono",
+              "Nitrógeno y oxígeno"
+            ],
+            1,
+            "El núcleo está formado sobre todo por hierro y níquel."
+          ],
+          [
+            "Placas tectónicas",
+            "¿Qué es la litosfera?",
+            [
+              "La capa rígida externa de la Tierra, dividida en placas",
+              "La capa de ozono",
+              "El agua de los océanos",
+              "El núcleo líquido"
+            ],
+            0,
+            "La litosfera incluye la corteza y la parte superior rígida del manto."
+          ],
+          [
+            "Placas tectónicas",
+            "¿Qué son las placas tectónicas?",
+            [
+              "Las franjas de clima",
+              "Las divisiones de los mapas políticos",
+              "Las capas internas del Sol",
+              "Fragmentos de litosfera que se desplazan lentamente"
+            ],
+            3,
+            "Son fragmentos rígidos de litosfera que se mueven muy lentamente."
+          ],
+          [
+            "Placas tectónicas",
+            "¿Sobre qué se desplazan lentamente las placas tectónicas?",
+            [
+              "Sobre la troposfera",
+              "Sobre el núcleo interno sin manto",
+              "Sobre una zona del manto que puede deformarse",
+              "Sobre los ríos subterráneos"
+            ],
+            2,
+            "Se mueven sobre materiales del manto superior con comportamiento plástico en escalas geológicas."
+          ],
+          [
+            "Placas tectónicas",
+            "¿Qué puede provocar el movimiento de las placas tectónicas?",
+            [
+              "La alternancia entre día y noche",
+              "Terremotos y formación de montañas",
+              "La formación de nubes por sí sola",
+              "El cambio de estaciones"
+            ],
+            1,
+            "Los bordes de placas concentran terremotos, volcanes y formación de relieves."
+          ],
+          [
+            "Placas tectónicas",
+            "¿Cómo se denomina el proceso de formación de montañas ligado al movimiento de placas?",
+            [
+              "Orogénesis",
+              "Fotosíntesis",
+              "Condensación",
+              "Rotación"
+            ],
+            0,
+            "La orogénesis se relaciona con la formación de cordilleras."
+          ],
+          [
+            "Placas tectónicas",
+            "¿Qué ocurre en un límite convergente?",
+            [
+              "Las placas se separan",
+              "Las placas no se mueven nunca",
+              "Las placas solo giran sobre sí mismas",
+              "Las placas se acercan y pueden chocar"
+            ],
+            3,
+            "En un borde convergente las placas se aproximan."
+          ],
+          [
+            "Placas tectónicas",
+            "¿Qué ocurre en un límite divergente?",
+            [
+              "Las placas chocan",
+              "Las placas dejan de moverse",
+              "Las placas se separan",
+              "Las placas desaparecen instantáneamente"
+            ],
+            2,
+            "Las placas se alejan entre sí en un límite divergente."
+          ],
+          [
+            "Placas tectónicas",
+            "¿Qué ocurre en un límite transformante?",
+            [
+              "Dos placas siempre se funden",
+              "Dos placas se deslizan lateralmente",
+              "Las placas se elevan verticalmente sin rozar",
+              "El núcleo sale al exterior"
+            ],
+            1,
+            "En estos límites las placas se desplazan lateralmente una respecto a otra."
+          ],
+          [
+            "Placas tectónicas",
+            "¿Por qué hay terremotos con frecuencia cerca de los límites entre placas?",
+            [
+              "Por el movimiento y roce entre placas",
+              "Por la luz solar",
+              "Por la evaporación del mar",
+              "Por la inclinación del eje terrestre"
+            ],
+            0,
+            "El movimiento y la acumulación de tensiones pueden liberar energía en forma de seísmos."
+          ],
+          [
+            "Placas tectónicas",
+            "Si dos placas se separan, ¿qué tipo de límite están formando?",
+            [
+              "Convergente",
+              "Transformante",
+              "Estático",
+              "Divergente"
+            ],
+            3,
+            "Separarse corresponde a un límite divergente."
+          ],
+          [
+            "Placas tectónicas",
+            "Si dos placas se rozan y desplazan lateralmente, ¿qué límite es?",
+            [
+              "Divergente",
+              "Convergente",
+              "Transformante",
+              "Submarino siempre"
+            ],
+            2,
+            "El movimiento lateral caracteriza el límite transformante."
+          ],
+          [
+            "Volcanes",
+            "¿Qué es un volcán?",
+            [
+              "Una montaña formada solo por nieve",
+              "Una grieta o abertura por donde puede salir magma al exterior",
+              "Un tipo de valle fluvial",
+              "Una capa de la atmósfera"
+            ],
+            1,
+            "Es una abertura de la corteza por la que salen materiales volcánicos."
+          ],
+          [
+            "Volcanes",
+            "¿Cómo se llama el magma cuando llega a la superficie?",
+            [
+              "Lava",
+              "Sedimento",
+              "Vapor",
+              "Granito"
+            ],
+            0,
+            "El magma se denomina lava al salir al exterior."
+          ],
+          [
+            "Volcanes",
+            "¿Qué parte del volcán conecta el interior con la abertura superior?",
+            [
+              "Delta",
+              "Cabo",
+              "Núcleo interno",
+              "Chimenea"
+            ],
+            3,
+            "La chimenea es el conducto por el que ascienden los materiales volcánicos."
+          ],
+          [
+            "Volcanes",
+            "¿Qué es el cráter de un volcán?",
+            [
+              "El río que rodea el volcán",
+              "La capa de ozono sobre la montaña",
+              "La abertura por donde salen materiales",
+              "La roca más profunda del núcleo"
+            ],
+            2,
+            "El cráter es la abertura situada generalmente en la cima."
+          ],
+          [
+            "Volcanes",
+            "¿Qué es el cono volcánico?",
+            [
+              "El conducto interior",
+              "La estructura formada alrededor de la salida por acumulación de materiales",
+              "Una columna de aire frío",
+              "El océano que rodea una isla"
+            ],
+            1,
+            "La acumulación de materiales expulsados construye el edificio volcánico."
+          ],
+          [
+            "Volcanes",
+            "¿Qué fenómeno puede acompañar a una erupción volcánica?",
+            [
+              "Salida de gases, ceniza y lava",
+              "Cambio del eje de rotación terrestre",
+              "Desaparición de la gravedad",
+              "Formación de isobaras en el suelo"
+            ],
+            0,
+            "Los volcanes pueden expulsar gases, cenizas y lava."
+          ],
+          [
+            "Atmósfera",
+            "¿Qué es la atmósfera?",
+            [
+              "La capa líquida del manto",
+              "El conjunto de montañas",
+              "Un límite entre placas",
+              "La envoltura gaseosa de la Tierra"
+            ],
+            3,
+            "La atmósfera es la capa de gases que rodea nuestro planeta."
+          ],
+          [
+            "Atmósfera",
+            "¿Qué gases predominan en el aire?",
+            [
+              "Ozono y metano",
+              "Argón y dióxido de carbono",
+              "Nitrógeno y oxígeno",
+              "Helio e hidrógeno"
+            ],
+            2,
+            "El aire está compuesto principalmente de nitrógeno y oxígeno."
+          ],
+          [
+            "Atmósfera",
+            "¿Cuál es la capa atmosférica más próxima a la superficie?",
+            [
+              "Estratosfera",
+              "Troposfera",
+              "Mesosfera",
+              "Exosfera"
+            ],
+            1,
+            "La troposfera es la capa inferior de la atmósfera."
+          ],
+          [
+            "Atmósfera",
+            "¿En qué capa se desarrolla la mayor parte del tiempo meteorológico?",
+            [
+              "Troposfera",
+              "Termosfera",
+              "Exosfera",
+              "Mesosfera"
+            ],
+            0,
+            "Nubes y fenómenos meteorológicos ocurren principalmente en la troposfera."
+          ],
+          [
+            "Atmósfera",
+            "¿En qué capa se concentra la mayor parte del ozono atmosférico?",
+            [
+              "Termosfera",
+              "Troposfera",
+              "Exosfera",
+              "Estratosfera"
+            ],
+            3,
+            "La estratosfera contiene la capa de ozono."
+          ],
+          [
+            "Atmósfera",
+            "¿Qué capa contiene la región donde se desintegran muchos meteoroides?",
+            [
+              "Troposfera",
+              "Estratosfera",
+              "Mesosfera",
+              "Exosfera"
+            ],
+            2,
+            "En la mesosfera se desintegran numerosos meteoroides."
+          ],
+          [
+            "Atmósfera",
+            "¿En qué capa suelen producirse las auroras?",
+            [
+              "Troposfera",
+              "Termosfera",
+              "Mesosfera",
+              "Estratosfera"
+            ],
+            1,
+            "Las auroras aparecen en regiones altas de la atmósfera, principalmente en la termosfera."
+          ],
+          [
+            "Atmósfera",
+            "¿Qué caracteriza a la exosfera?",
+            [
+              "Es la zona de transición hacia el espacio exterior",
+              "Contiene la mayoría de las nubes",
+              "Es la capa de ozono",
+              "Está debajo de la troposfera"
+            ],
+            0,
+            "En la exosfera los gases son extremadamente poco densos."
+          ],
+          [
+            "Atmósfera",
+            "¿Qué función importante cumple la capa de ozono?",
+            [
+              "Producir terremotos",
+              "Crear las estaciones",
+              "Formar continentes",
+              "Absorber gran parte de la radiación ultravioleta del Sol"
+            ],
+            3,
+            "El ozono estratosférico absorbe parte importante de la radiación UV."
+          ],
+          [
+            "Atmósfera",
+            "¿Cuál es el orden de las capas de la atmósfera desde el suelo?",
+            [
+              "Exosfera, termosfera, mesosfera, estratosfera y troposfera",
+              "Troposfera, mesosfera, estratosfera, exosfera y termosfera",
+              "Troposfera, estratosfera, mesosfera, termosfera y exosfera",
+              "Estratosfera, troposfera, termosfera, mesosfera y exosfera"
+            ],
+            2,
+            "Desde el suelo ascienden troposfera, estratosfera, mesosfera, termosfera y exosfera."
+          ],
+          [
+            "Erosión",
+            "¿Qué es la meteorización?",
+            [
+              "Acumulación de sedimentos en un río",
+              "Desgaste y fragmentación de rocas en el lugar donde están",
+              "Movimiento del magma al exterior",
+              "Formación de islas por placas"
+            ],
+            1,
+            "La meteorización altera y rompe rocas sin transportarlas necesariamente."
+          ],
+          [
+            "Erosión",
+            "¿Qué es la erosión?",
+            [
+              "Desgaste y arranque de materiales del relieve por agentes externos",
+              "Endurecimiento del núcleo",
+              "Formación del ozono",
+              "División de la Tierra en husos"
+            ],
+            0,
+            "Los agentes externos desgastan y pueden arrancar materiales del terreno."
+          ],
+          [
+            "Erosión",
+            "¿Qué ocurre durante el transporte de materiales?",
+            [
+              "Las placas se detienen",
+              "Los materiales se funden en el núcleo",
+              "Las nubes se transforman en rocas",
+              "Los fragmentos desprendidos son arrastrados"
+            ],
+            3,
+            "Agua, viento y otros agentes pueden arrastrar materiales."
+          ],
+          [
+            "Erosión",
+            "¿Qué es la sedimentación?",
+            [
+              "Desgaste de la roca sin movimiento",
+              "Salida de lava por un cráter",
+              "Depósito y acumulación de materiales transportados",
+              "Choque de placas tectónicas"
+            ],
+            2,
+            "Los sedimentos se depositan cuando el agente de transporte pierde energía."
+          ],
+          [
+            "Erosión",
+            "¿Cuál es la secuencia habitual de los procesos externos del relieve?",
+            [
+              "Sedimentación, volcán y rotación",
+              "Meteorización y erosión, transporte y sedimentación",
+              "Condensación, fotosíntesis y transporte",
+              "Orogénesis, eclipse y meteorización"
+            ],
+            1,
+            "Las rocas pueden alterarse y erosionarse, los materiales se transportan y finalmente se depositan."
+          ],
+          [
+            "Relieve costero",
+            "¿Qué es un cabo?",
+            [
+              "Una porción de tierra que se adentra en el mar",
+              "Una entrada de mar entre costas",
+              "Una superficie terrestre rodeada de agua",
+              "Una montaña elevada"
+            ],
+            0,
+            "El cabo sobresale de la costa hacia el mar."
+          ],
+          [
+            "Relieve costero",
+            "¿Qué es un golfo?",
+            [
+              "Una porción de tierra que sale al mar",
+              "Un terreno de gran altitud",
+              "Un conjunto de islas",
+              "Una entrada amplia del mar en la costa"
+            ],
+            3,
+            "El golfo es una penetración del mar en la costa."
+          ],
+          [
+            "Relieve costero",
+            "¿Qué diferencia habitual hay entre bahía y golfo?",
+            [
+              "La bahía es siempre un volcán",
+              "El golfo es siempre una isla",
+              "La bahía suele ser una entrada menor o más cerrada",
+              "La bahía está en el interior de la Tierra"
+            ],
+            2,
+            "En general la bahía suele ser una entrada de mar menor que un golfo."
+          ],
+          [
+            "Relieve costero",
+            "¿Qué es una playa?",
+            [
+              "Una elevación del núcleo",
+              "Acumulación de arena o grava junto a la costa",
+              "Un mar cerrado",
+              "Un volcán submarino"
+            ],
+            1,
+            "Las playas son zonas de sedimentos en la costa."
+          ],
+          [
+            "Relieve costero",
+            "¿Qué es una península?",
+            [
+              "Tierra rodeada de agua casi por completo y unida a otra mayor",
+              "Una isla que no toca tierra",
+              "Una montaña entre dos valles",
+              "Una desembocadura de río"
+            ],
+            0,
+            "Una península está unida al continente por una franja de tierra."
+          ],
+          [
+            "Relieve costero",
+            "¿Qué es una isla?",
+            [
+              "Una llanura entre montañas",
+              "Una entrada de mar en la costa",
+              "Una montaña siempre volcánica",
+              "Una porción de tierra rodeada de agua"
+            ],
+            3,
+            "Una isla está completamente rodeada de agua."
+          ],
+          [
+            "Relieve costero",
+            "¿Cómo se llama un conjunto de islas?",
+            [
+              "Cordillera",
+              "Llanura",
+              "Archipiélago",
+              "Delta"
+            ],
+            2,
+            "Un archipiélago es un grupo de islas."
+          ],
+          [
+            "Relieve costero",
+            "¿Qué es un delta?",
+            [
+              "Gran acantilado marino",
+              "Acumulación de sedimentos en la desembocadura de un río",
+              "Zona de choque de placas",
+              "Una capa de la atmósfera"
+            ],
+            1,
+            "El delta se forma por depósitos de sedimentos en la desembocadura de algunos ríos."
+          ],
+          [
+            "Relieve costero",
+            "¿Qué es un acantilado?",
+            [
+              "Pared rocosa de pendiente muy pronunciada junto al mar",
+              "Playa de arena fina",
+              "Entrada amplia del mar",
+              "Una llanura sedimentaria interior"
+            ],
+            0,
+            "Es un escarpe pronunciado, frecuente en las costas rocosas."
+          ],
+          [
+            "Relieve continental",
+            "¿Qué es una montaña?",
+            [
+              "Una zona plana junto al mar",
+              "Una entrada marina",
+              "Una superficie rodeada de agua",
+              "Elevación natural del terreno de considerable altura"
+            ],
+            3,
+            "Las montañas son grandes elevaciones naturales."
+          ],
+          [
+            "Relieve continental",
+            "¿Qué es una sierra?",
+            [
+              "Un conjunto de islas",
+              "Una depresión marina",
+              "Parte o conjunto de montañas dentro de una zona montañosa",
+              "Una gran llanura"
+            ],
+            2,
+            "Una sierra es un conjunto o alineación de montañas, que puede formar parte de una cordillera."
+          ],
+          [
+            "Relieve continental",
+            "¿Qué es una cordillera?",
+            [
+              "Un río ancho",
+              "Un conjunto extenso de montañas enlazadas",
+              "Una costa arenosa",
+              "Un grupo de deltas"
+            ],
+            1,
+            "Las cordilleras agrupan montañas relacionadas entre sí."
+          ],
+          [
+            "Relieve continental",
+            "¿Qué es una llanura?",
+            [
+              "Una extensión de terreno relativamente plana",
+              "Una pared rocosa vertical",
+              "Una montaña aislada",
+              "Una hendidura volcánica"
+            ],
+            0,
+            "Las llanuras son grandes áreas de poca pendiente."
+          ],
+          [
+            "Relieve continental",
+            "¿Qué es una llanura fluvial?",
+            [
+              "Una roca del núcleo",
+              "Una capa de ozono",
+              "Una costa de acantilados",
+              "Una llanura relacionada con la acción y depósitos de un río"
+            ],
+            3,
+            "Los ríos pueden transportar sedimentos y originar llanuras fluviales."
+          ],
+          [
+            "Grandes unidades del relieve",
+            "¿Qué son las cuencas sedimentarias?",
+            [
+              "Zonas donde siempre hay volcanes activos",
+              "Capas de la atmósfera",
+              "Grandes depresiones donde se acumulan sedimentos",
+              "Océanos sin fondos"
+            ],
+            2,
+            "En ellas se acumulan sedimentos a lo largo del tiempo."
+          ],
+          [
+            "Grandes unidades del relieve",
+            "¿Qué caracteriza a los escudos y macizos antiguos?",
+            [
+              "Se formaron hace unas pocas horas",
+              "Son materiales antiguos muy erosionados",
+              "Son exclusivamente costas arenosas",
+              "Se componen solo de hielo"
+            ],
+            1,
+            "Los apuntes señalan que son estructuras de rocas antiguas muy desgastadas."
+          ],
+          [
+            "Grandes unidades del relieve",
+            "¿Qué caracteriza a las cadenas montañosas más recientes?",
+            [
+              "Se formaron en etapas geológicas relativamente recientes y pueden alcanzar grandes alturas",
+              "Son totalmente planas",
+              "Están solo bajo los océanos",
+              "No se relacionan con los movimientos de placas"
+            ],
+            0,
+            "Las cadenas más recientes suelen estar ligadas a procesos de formación de montañas."
+          ],
+          [
+            "Grandes unidades del relieve",
+            "¿Qué cordillera aparece en los apuntes como ejemplo de cadena reciente?",
+            [
+              "Sierra de Guadarrama",
+              "Urales",
+              "Montes Apalaches",
+              "Cordillera de los Andes"
+            ],
+            3,
+            "Los apuntes citan la cordillera de los Andes."
+          ],
+          [
+            "Aplicación",
+            "Un río deposita arena y limo al llegar al mar. ¿Qué forma de relieve puede crear?",
+            [
+              "Un cráter",
+              "Una cordillera",
+              "Un delta",
+              "Una exosfera"
+            ],
+            2,
+            "La acumulación de sedimentos en la desembocadura puede formar un delta."
+          ],
+          [
+            "Aplicación",
+            "En una costa se observa una pared rocosa muy empinada. ¿Qué forma es?",
+            [
+              "Un golfo",
+              "Un acantilado",
+              "Una llanura",
+              "Una bahía"
+            ],
+            1,
+            "Un acantilado es una pared rocosa abrupta junto al mar."
+          ],
+          [
+            "Aplicación",
+            "¿Qué nombre recibe una masa de tierra casi rodeada por el mar y unida al continente?",
+            [
+              "Península",
+              "Isla",
+              "Delta",
+              "Golfo"
+            ],
+            0,
+            "La península permanece unida a una masa de tierra mayor."
+          ],
+          [
+            "Aplicación",
+            "Si una roca se fragmenta por cambios de temperatura pero permanece en su sitio, ¿qué proceso predomina?",
+            [
+              "Transporte",
+              "Sedimentación",
+              "Orogénesis",
+              "Meteorización"
+            ],
+            3,
+            "Se ha producido fragmentación sin desplazamiento de los fragmentos."
+          ],
+          [
+            "Aplicación",
+            "¿Qué acción forma parte del transporte en la modelación del relieve?",
+            [
+              "Las rocas se rompen sin moverse",
+              "Los sedimentos quedan depositados en un lago",
+              "El viento arrastra partículas de arena",
+              "Dos placas chocan"
+            ],
+            2,
+            "El viento que arrastra materiales es un agente de transporte."
+          ],
+          [
+            "Aplicación",
+            "¿Qué explica que una cordillera pueda formarse por el choque de placas?",
+            [
+              "El giro diario de la Tierra",
+              "El movimiento tectónico",
+              "La inclinación terrestre",
+              "El ciclo de la Luna"
+            ],
+            1,
+            "Las fuerzas tectónicas pueden elevar y deformar la corteza."
+          ]
+        ]
       }
     ],
     "math": [
